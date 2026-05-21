@@ -1,0 +1,1233 @@
+# ============================================================
+# ICBD Growth Team — Cortex Analyst Semantic View
+# Covers: Covered Lives, Market Share, Payer Analysis,
+#         Autism Population Estimates
+# ============================================================
+
+name: icbd_growth_analytics
+description: >
+  Semantic model for the ICBD Growth Team. Enables natural-language 
+  analytics over covered/enrolled lives, payer market share, clinic 
+  territory performance, and autism population estimates by geography 
+  and age band.
+
+# ============================================================
+# LOGICAL TABLES
+# ============================================================
+tables:
+
+  # ----------------------------------------------------------
+  # DIM: ZIP-level geography master
+  # ----------------------------------------------------------
+  - name: dim_zip
+    description: "Master ZIP-level geography reference. Lowest grain for all geography rollups."
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_ZIP
+    dimensions:
+      - name: zip_code
+        synonyms: ["zip", "postal code", "zip code"]
+        description: "5-digit ZIP code — universal connector across all fact tables"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+        unique: true
+      - name: state_code
+        synonyms: ["state", "state abbreviation"]
+        description: "2-character state abbreviation"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+      - name: county_name
+        synonyms: ["county"]
+        description: "County name"
+        expr: COUNTY_NAME
+        data_type: VARCHAR
+      - name: msa_name
+        synonyms: ["metro area", "metropolitan area", "MSA"]
+        description: "Metro Statistical Area name"
+        expr: MSA_NAME
+        data_type: VARCHAR
+
+  # ----------------------------------------------------------
+  # DIM: State reference
+  # ----------------------------------------------------------
+  - name: dim_state
+    description: "State-level reference dimension"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_STATE
+    dimensions:
+      - name: state_code
+        synonyms: ["state abbreviation", "state code"]
+        description: "2-character primary key for state"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        unique: true
+        is_enum: true
+      - name: state_name
+        synonyms: ["state", "full state name"]
+        description: "Full name of the state (e.g., Georgia, Texas)"
+        expr: STATE_NAME
+        data_type: VARCHAR
+        sample_values: ["Georgia", "Texas", "Florida", "California", "Ohio"]
+
+  # ----------------------------------------------------------
+  # DIM: County reference
+  # ----------------------------------------------------------
+  - name: dim_county
+    description: "County-level reference. Composite key: COUNTY_NAME + STATE_CODE"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_COUNTY
+    dimensions:
+      - name: county_name
+        synonyms: ["county"]
+        description: "County name"
+        expr: COUNTY_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "State the county belongs to"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+
+  # ----------------------------------------------------------
+  # DIM: MSA (Metro Statistical Area)
+  # ----------------------------------------------------------
+  - name: dim_msa
+    description: "Metro Statistical Area reference. Composite key: MSA_NAME + STATE_CODE"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_MSA
+    dimensions:
+      - name: msa_name
+        synonyms: ["metro area", "metropolitan statistical area", "MSA"]
+        description: "Metro area name"
+        expr: MSA_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "State the MSA belongs to"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+
+  # ----------------------------------------------------------
+  # DIM: Payers (individual plan level)
+  # ----------------------------------------------------------
+  - name: dim_payers
+    description: "Individual insurance payer / plan details"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_PAYERS
+    dimensions:
+      - name: payer_id
+        synonyms: ["payer identifier", "insurance plan id"]
+        description: "Unique payer identifier — primary key"
+        expr: PAYER_ID
+        data_type: VARCHAR
+        unique: true
+      - name: payer_name
+        synonyms: ["payer", "insurance plan", "insurer"]
+        description: "Name of the payer or insurance plan"
+        expr: PAYER_NAME
+        data_type: VARCHAR
+      - name: parent_payer_id
+        synonyms: ["parent payer", "parent company id"]
+        description: "Links up to the parent payer company"
+        expr: PARENT_PAYER_ID
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["payer state", "state"]
+        description: "State where the payer operates"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+
+  # ----------------------------------------------------------
+  # DIM: Parent Payer (company rollup)
+  # ----------------------------------------------------------
+  - name: dim_parent_payer
+    description: "Parent company rollup for payers (e.g., UnitedHealth, BCBS)"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_PARENT_PAYER
+    dimensions:
+      - name: parent_payer_id
+        synonyms: ["parent id"]
+        description: "Primary key for parent payer company"
+        expr: PARENT_PAYER_ID
+        data_type: VARCHAR
+        unique: true
+      - name: parent_payer_name
+        synonyms: ["parent company", "insurance company", "carrier"]
+        description: "Parent insurance company name (e.g., UnitedHealth, BCBS, Aetna)"
+        expr: PARENT_PAYER_NAME
+        data_type: VARCHAR
+        sample_values: ["UnitedHealth", "BCBS", "Aetna", "Cigna", "Humana", "Medicaid", "Tricare"]
+
+  # ----------------------------------------------------------
+  # DIM: Clinic reference
+  # ----------------------------------------------------------
+  - name: dim_clinic
+    description: "Named clinic entities and their operating state"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_CLINIC
+    dimensions:
+      - name: clinic_name
+        synonyms: ["clinic", "center", "location"]
+        description: "Unique name of the clinic"
+        expr: CLINIC_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["clinic state", "state"]
+        description: "State where the clinic operates"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+
+  # ----------------------------------------------------------
+  # MAP: Clinic-to-ZIP territory mapping
+  # ----------------------------------------------------------
+  - name: map_clinic_to_zip
+    description: "Maps ZIP codes to clinic service territories. NULL clinic_name = unassigned ZIP."
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: MAP_CLINIC_TO_ZIP
+    dimensions:
+      - name: zip_code
+        synonyms: ["zip", "postal code"]
+        description: "ZIP code in the clinic's territory"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+      - name: clinic_name
+        synonyms: ["clinic", "serving clinic", "territory clinic"]
+        description: "Clinic serving this ZIP (NULL if unassigned)"
+        expr: CLINIC_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "State of the clinic territory"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+
+  # ----------------------------------------------------------
+  # DIM: Insured Party (member/subscriber)
+  # ----------------------------------------------------------
+  - name: dim_insured_party
+    description: "Insured member and subscriber details"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_INSURED_PARTY
+    dimensions:
+      - name: insured_id
+        synonyms: ["member id", "subscriber id", "insured identifier"]
+        description: "Primary key — unique insured member identifier"
+        expr: INSURED_ID
+        data_type: VARCHAR
+        unique: true
+      - name: first_name
+        synonyms: ["member first name"]
+        description: "Member first name"
+        expr: FIRST_NAME
+        data_type: VARCHAR
+      - name: last_name
+        synonyms: ["member last name"]
+        description: "Member last name"
+        expr: LAST_NAME
+        data_type: VARCHAR
+      - name: sex
+        synonyms: ["gender"]
+        description: "Member gender"
+        expr: SEX
+        data_type: VARCHAR
+        is_enum: true
+        sample_values: ["M", "F"]
+      - name: birth_date
+        synonyms: ["date of birth", "DOB"]
+        description: "Member date of birth"
+        expr: BIRTH_DATE
+        data_type: DATE
+      - name: city
+        synonyms: ["member city"]
+        description: "City of member's address"
+        expr: CITY
+        data_type: VARCHAR
+      - name: state
+        synonyms: ["member state", "residence state"]
+        description: "State of member's address"
+        expr: STATE
+        data_type: VARCHAR
+        is_enum: true
+      - name: zip_code
+        synonyms: ["member zip", "member postal code"]
+        description: "ZIP code of member — links to DIM_ZIP"
+        expr: ZIP
+        data_type: VARCHAR
+      - name: inactive_flag
+        synonyms: ["active", "inactive", "member status"]
+        description: "Whether this member is inactive (1=inactive, 0=active)"
+        expr: INACTIVE
+        data_type: BOOLEAN
+    filters:
+      - name: active_members
+        synonyms: ["active insured", "current members"]
+        description: "Members who are currently active"
+        expr: "INACTIVE = FALSE OR INACTIVE IS NULL"
+
+  # ----------------------------------------------------------
+  # DIM: ABA Payers (billing-system payer table)
+  # ----------------------------------------------------------
+  - name: dim_payors_aba
+    description: "ABA billing system payer table — includes subsidiary details"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: DIM_PAYORS
+    dimensions:
+      - name: payor_id
+        synonyms: ["aba payer id", "billing payer id"]
+        description: "ABA billing system payer primary key"
+        expr: PAYOR_ID
+        data_type: VARCHAR
+        unique: true
+      - name: payor_name
+        synonyms: ["aba payer name"]
+        description: "Payer name in ABA billing system"
+        expr: PAYOR_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["payer state"]
+        description: "State of the ABA payer"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+      - name: subsidiary
+        synonyms: ["sub-plan", "subsidiary plan"]
+        description: "Subsidiary or sub-plan identifier"
+        expr: SUBSIDIARY
+        data_type: VARCHAR
+
+  # ----------------------------------------------------------
+  # FACT: ZIP-level enrolled lives
+  # ----------------------------------------------------------
+  - name: fact_zip_enrolled_lives
+    description: >
+      Enrolled/covered lives at ZIP code grain per payer. 
+      Most granular enrollment fact — use for ZIP, clinic-territory, 
+      county, MSA, and state rollups.
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_ZIP_ENROLLEDLIVES
+    dimensions:
+      - name: zip_code
+        synonyms: ["zip", "zip code"]
+        description: "ZIP code grain key"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+      - name: payer_id
+        synonyms: ["payer", "insurance plan id"]
+        description: "Links to DIM_PAYERS"
+        expr: PAYER_ID
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "State code for direct state rollup"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+    facts:
+      - name: enrolled_lives_raw
+        synonyms: ["raw enrolled count"]
+        description: "Raw enrolled lives count at ZIP-payer grain"
+        expr: ENROLLED_LIVES
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_enrolled_lives
+        synonyms: ["covered lives", "enrolled members", "total lives", "enrolled count"]
+        description: "Total enrolled/covered lives — sum across all ZIP-payer combinations"
+        expr: SUM(ENROLLED_LIVES)
+      - name: avg_enrolled_lives_per_zip
+        synonyms: ["average lives per zip", "avg zip enrollment"]
+        description: "Average enrolled lives per ZIP code"
+        expr: AVG(ENROLLED_LIVES)
+      - name: zip_count_with_enrollment
+        synonyms: ["number of enrolled zips", "zip coverage count"]
+        description: "Count of distinct ZIP codes with enrolled lives > 0"
+        expr: COUNT(DISTINCT CASE WHEN ENROLLED_LIVES > 0 THEN ZIP_CODE END)
+
+  # ----------------------------------------------------------
+  # FACT: County-level enrolled lives
+  # ----------------------------------------------------------
+  - name: fact_county_enrolled_lives
+    description: "Enrolled lives aggregated at county level per payer"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_COUNTY_ENROLLEDLIVES
+    dimensions:
+      - name: county_name
+        synonyms: ["county"]
+        description: "County grain key"
+        expr: COUNTY_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "Composite grain key with COUNTY_NAME"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+      - name: payer_id
+        synonyms: ["payer id"]
+        description: "Links to DIM_PAYERS"
+        expr: PAYER_ID
+        data_type: VARCHAR
+    facts:
+      - name: enrolled_lives_county_raw
+        description: "Enrolled lives at county-payer grain"
+        expr: ENROLLED_LIVES
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_county_enrolled_lives
+        synonyms: ["county enrolled lives", "covered lives by county"]
+        description: "Total enrolled lives at county level"
+        expr: SUM(ENROLLED_LIVES)
+
+  # ----------------------------------------------------------
+  # FACT: MSA-level enrolled lives
+  # ----------------------------------------------------------
+  - name: fact_msa_enrolled_lives
+    description: "Enrolled lives aggregated at Metro Statistical Area level per payer"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_MSA_ENROLLEDLIVES
+    dimensions:
+      - name: msa_name
+        synonyms: ["metro area", "MSA"]
+        description: "MSA grain key"
+        expr: MSA_NAME
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "Composite grain key with MSA_NAME"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+      - name: payer_id
+        synonyms: ["payer id"]
+        description: "Links to DIM_PAYERS"
+        expr: PAYER_ID
+        data_type: VARCHAR
+    facts:
+      - name: enrolled_lives_msa_raw
+        description: "Enrolled lives at MSA-payer grain"
+        expr: ENROLLED_LIVES
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_msa_enrolled_lives
+        synonyms: ["MSA enrolled lives", "metro enrolled lives", "covered lives by metro"]
+        description: "Total enrolled lives at MSA level"
+        expr: SUM(ENROLLED_LIVES)
+
+  # ----------------------------------------------------------
+  # FACT: State-level enrolled lives
+  # ----------------------------------------------------------
+  - name: fact_state_enrolled_lives
+    description: "Enrolled lives aggregated at state level per payer"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_STATE_ENROLLEDLIVES
+    dimensions:
+      - name: state_code
+        synonyms: ["state"]
+        description: "State grain key — links to DIM_STATE"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+        sample_values: ["GA", "TX", "FL", "CA", "OH", "NC", "VA"]
+      - name: payer_id
+        synonyms: ["payer id"]
+        description: "Links to DIM_PAYERS"
+        expr: PAYER_ID
+        data_type: VARCHAR
+    facts:
+      - name: enrolled_lives_state_raw
+        description: "Enrolled lives at state-payer grain"
+        expr: ENROLLED_LIVES
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_state_enrolled_lives
+        synonyms: ["state enrolled lives", "lives by state", "state covered lives"]
+        description: "Total enrolled lives at state level"
+        expr: SUM(ENROLLED_LIVES)
+
+  # ----------------------------------------------------------
+  # FACT: BCAB case counts
+  # ----------------------------------------------------------
+  - name: fact_bcab_counts
+    description: >
+      BCAB (Behavior/Clinical Authorization Board) case counts by ZIP and payer.
+      Indicates clinical authorization activity volume.
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_BCAB_COUNTS
+    dimensions:
+      - name: zip_code
+        synonyms: ["zip", "zip code"]
+        description: "ZIP code — links to DIM_ZIP and MAP_CLINIC_TO_ZIP"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+      - name: payer_id
+        synonyms: ["payer id"]
+        description: "Links to DIM_PAYERS"
+        expr: PAYER_ID
+        data_type: VARCHAR
+      - name: state_code
+        synonyms: ["state"]
+        description: "State code for direct rollup"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+    facts:
+      - name: bcab_count_raw
+        description: "Raw BCAB case count at ZIP-payer grain"
+        expr: BCAB_COUNT
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_bcab_cases
+        synonyms: ["BCAB count", "authorization cases", "clinical authorizations"]
+        description: "Total BCAB cases across all ZIPs and payers"
+        expr: SUM(BCAB_COUNT)
+      - name: avg_bcab_per_zip
+        synonyms: ["average BCAB per zip"]
+        description: "Average BCAB cases per ZIP code"
+        expr: AVG(BCAB_COUNT)
+
+  # ----------------------------------------------------------
+  # FACT: ZIP population by age band
+  # ----------------------------------------------------------
+  - name: fact_zip_pop_by_age
+    description: >
+      Population by age band at ZIP level. Used for autism prevalence 
+      estimates: 3.1% of population = estimated individuals with autism.
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_ZIP_POP_BY_AGE
+    dimensions:
+      - name: zip_code
+        synonyms: ["zip", "zip code"]
+        description: "ZIP code — links to DIM_ZIP"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+      - name: age_band
+        synonyms: ["age group", "age range", "age bucket"]
+        description: "Age grouping (e.g., 0-4, 5-9, 10-14, 15-19)"
+        expr: AGE_BAND
+        data_type: VARCHAR
+        is_enum: true
+        sample_values: ["0-4", "5-9", "10-14", "15-19", "20-24", "25-34", "35-44", "45-54", "55-64", "65+"]
+      - name: state_code
+        synonyms: ["state"]
+        description: "State code for aggregation"
+        expr: STATE_CODE
+        data_type: VARCHAR
+        is_enum: true
+    facts:
+      - name: population_raw
+        description: "Raw population count for this ZIP-age band combination"
+        expr: POPULATION
+        data_type: NUMBER
+        access_modifier: public_access
+    metrics:
+      - name: total_population
+        synonyms: ["population", "total pop", "people", "residents"]
+        description: "Total population across selected ZIP codes and age bands"
+        expr: SUM(POPULATION)
+      - name: estimated_autism_population
+        synonyms: [
+          "autism count", "autism estimate", "people with autism",
+          "estimated autistic individuals", "autism prevalence count",
+          "ASD population", "autism diagnosis estimate"
+        ]
+        description: >
+          Estimated number of individuals with autism using the national average 
+          prevalence rate of 3.1% applied to total population. 
+          Formula: SUM(POPULATION) * 0.031
+        expr: SUM(POPULATION) * 0.031
+      - name: autism_opportunity_above_national_avg
+        synonyms: [
+          "autism above average", "underserved autism population",
+          "autism gap", "autism market opportunity"
+        ]
+        description: >
+          Population-weighted autism estimate for ZIP codes where the autism 
+          rate exceeds the 3.1% national average. Currently uses the 3.1% 
+          national baseline to flag high-opportunity markets.
+        expr: SUM(CASE WHEN POPULATION > 0 THEN POPULATION * 0.031 ELSE 0 END)
+
+  # ----------------------------------------------------------
+  # FACT: Insurance policies
+  # ----------------------------------------------------------
+  - name: fact_insurance_policy
+    description: "Active and historical insurance policies per insured member"
+    base_table:
+      database: ICBD_DB
+      schema: GROWTH
+      table: FACT_INSURANCE_POLICY
+    dimensions:
+      - name: policy_id
+        synonyms: ["policy", "insurance policy id"]
+        description: "Primary key for insurance policy"
+        expr: POLICY_ID
+        data_type: VARCHAR
+        unique: true
+      - name: insured_id
+        synonyms: ["member id", "subscriber id"]
+        description: "Links to DIM_INSURED_PARTY"
+        expr: INSURED_ID
+        data_type: VARCHAR
+      - name: payer_id
+        synonyms: ["payer id", "insurer id"]
+        description: "Links to DIM_PAYORS (ABA)"
+        expr: PAYER_ID
+        data_type: VARCHAR
+      - name: zip_code
+        synonyms: ["member zip", "policy zip"]
+        description: "Member ZIP — links to DIM_ZIP"
+        expr: ZIP_CODE
+        data_type: VARCHAR
+      - name: inactive_flag
+        synonyms: ["policy status", "active policy", "terminated"]
+        description: "Whether the policy is inactive"
+        expr: INACTIVE
+        data_type: BOOLEAN
+    time_dimensions:
+      - name: effective_date
+        synonyms: ["policy start", "start date", "coverage start"]
+        description: "Date the policy became effective"
+        expr: EFFECTIVE_DATE
+        data_type: DATE
+      - name: term_date
+        synonyms: ["policy end", "termination date", "coverage end"]
+        description: "Date the policy was terminated"
+        expr: TERM_DATE
+        data_type: DATE
+    facts:
+      - name: policy_count_raw
+        description: "Counts one per policy row"
+        expr: 1
+        data_type: NUMBER
+        access_modifier: private_access
+    metrics:
+      - name: total_policies
+        synonyms: ["policy count", "number of policies", "active policies"]
+        description: "Total count of insurance policies"
+        expr: COUNT(POLICY_ID)
+      - name: active_policy_count
+        synonyms: ["active policies", "current policies", "open policies"]
+        description: "Count of currently active (non-inactive) policies"
+        expr: COUNT(CASE WHEN INACTIVE = FALSE OR INACTIVE IS NULL THEN POLICY_ID END)
+    filters:
+      - name: active_policies_only
+        synonyms: ["active only", "current coverage"]
+        description: "Filter to only active, non-terminated policies"
+        expr: "INACTIVE = FALSE OR INACTIVE IS NULL"
+      - name: active_policies_today
+        synonyms: ["in-force today", "current policies today"]
+        description: "Policies currently in force (effective <= today <= term or no term)"
+        expr: "EFFECTIVE_DATE <= CURRENT_DATE() AND (TERM_DATE IS NULL OR TERM_DATE >= CURRENT_DATE())"
+
+
+# ============================================================
+# RELATIONSHIPS (join type auto-inferred by Snowflake)
+# ============================================================
+relationships:
+
+  # Geography spine
+  - name: zip_to_state
+    left_table: dim_zip
+    right_table: dim_state
+    relationship_columns:
+      - left_column: state_code
+        right_column: state_code
+
+  - name: zip_to_county
+    left_table: dim_zip
+    right_table: dim_county
+    relationship_columns:
+      - left_column: zip_code
+        right_column: county_name    # note: composite — add state_code below
+      - left_column: state_code
+        right_column: state_code
+
+  - name: zip_to_msa
+    left_table: dim_zip
+    right_table: dim_msa
+    relationship_columns:
+      - left_column: msa_name
+        right_column: msa_name
+      - left_column: state_code
+        right_column: state_code
+
+  - name: clinic_map_to_zip
+    left_table: map_clinic_to_zip
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: clinic_map_to_clinic
+    left_table: map_clinic_to_zip
+    right_table: dim_clinic
+    relationship_columns:
+      - left_column: clinic_name
+        right_column: clinic_name
+      - left_column: state_code
+        right_column: state_code
+
+  # Payer hierarchy
+  - name: payers_to_parent
+    left_table: dim_payers
+    right_table: dim_parent_payer
+    relationship_columns:
+      - left_column: parent_payer_id
+        right_column: parent_payer_id
+
+  - name: aba_payors_to_payers
+    left_table: dim_payors_aba
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payor_id
+        right_column: payer_id
+
+  # FACT → DIM joins (ZIP-level facts)
+  - name: zip_lives_to_dim_zip
+    left_table: fact_zip_enrolled_lives
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: zip_lives_to_payers
+    left_table: fact_zip_enrolled_lives
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payer_id
+
+  - name: zip_lives_to_clinic_map
+    left_table: fact_zip_enrolled_lives
+    right_table: map_clinic_to_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: county_lives_to_payers
+    left_table: fact_county_enrolled_lives
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payer_id
+
+  - name: county_lives_to_county
+    left_table: fact_county_enrolled_lives
+    right_table: dim_county
+    relationship_columns:
+      - left_column: county_name
+        right_column: county_name
+      - left_column: state_code
+        right_column: state_code
+
+  - name: msa_lives_to_payers
+    left_table: fact_msa_enrolled_lives
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payer_id
+
+  - name: msa_lives_to_msa
+    left_table: fact_msa_enrolled_lives
+    right_table: dim_msa
+    relationship_columns:
+      - left_column: msa_name
+        right_column: msa_name
+      - left_column: state_code
+        right_column: state_code
+
+  - name: state_lives_to_payers
+    left_table: fact_state_enrolled_lives
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payer_id
+
+  - name: state_lives_to_state
+    left_table: fact_state_enrolled_lives
+    right_table: dim_state
+    relationship_columns:
+      - left_column: state_code
+        right_column: state_code
+
+  - name: bcab_to_dim_zip
+    left_table: fact_bcab_counts
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: bcab_to_payers
+    left_table: fact_bcab_counts
+    right_table: dim_payers
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payer_id
+
+  - name: bcab_to_clinic_map
+    left_table: fact_bcab_counts
+    right_table: map_clinic_to_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: pop_by_age_to_dim_zip
+    left_table: fact_zip_pop_by_age
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: pop_by_age_to_clinic_map
+    left_table: fact_zip_pop_by_age
+    right_table: map_clinic_to_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: insurance_policy_to_insured
+    left_table: fact_insurance_policy
+    right_table: dim_insured_party
+    relationship_columns:
+      - left_column: insured_id
+        right_column: insured_id
+
+  - name: insurance_policy_to_aba_payors
+    left_table: fact_insurance_policy
+    right_table: dim_payors_aba
+    relationship_columns:
+      - left_column: payer_id
+        right_column: payor_id
+
+  - name: insurance_policy_to_dim_zip
+    left_table: fact_insurance_policy
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+  - name: insured_party_to_dim_zip
+    left_table: dim_insured_party
+    right_table: dim_zip
+    relationship_columns:
+      - left_column: zip_code
+        right_column: zip_code
+
+
+# ============================================================
+# DERIVED (VIEW-LEVEL) METRICS
+# ============================================================
+metrics:
+
+  - name: payer_market_share_by_state
+    synonyms: ["market share", "payer share", "payer market share percentage"]
+    description: >
+      Payer's share of total enrolled lives within a state.
+      Formula: payer enrolled lives ÷ total state enrolled lives × 100.
+      Use with STATE_CODE and PAYER_NAME dimensions.
+    expr: >
+      fact_state_enrolled_lives.total_state_enrolled_lives
+      / NULLIF(SUM(fact_state_enrolled_lives.total_state_enrolled_lives) OVER (PARTITION BY fact_state_enrolled_lives.state_code), 0)
+      * 100
+
+  - name: clinic_covered_lives_pct
+    synonyms: ["clinic coverage percentage", "clinic market penetration"]
+    description: >
+      Percentage of enrolled lives attributed to each clinic territory 
+      out of total enrolled lives.
+    expr: >
+      fact_zip_enrolled_lives.total_enrolled_lives
+      / NULLIF(SUM(fact_zip_enrolled_lives.total_enrolled_lives) OVER (), 0)
+      * 100
+
+  - name: autism_penetration_rate
+    synonyms: ["autism coverage ratio", "autism lives covered vs estimated"]
+    description: >
+      Ratio of enrolled lives to estimated autism population (3.1% of total pop).
+      Measures how much of the autism market ICBD is covering.
+      Formula: enrolled lives ÷ (total population × 0.031) × 100
+    expr: >
+      fact_zip_enrolled_lives.total_enrolled_lives
+      / NULLIF(fact_zip_pop_by_age.estimated_autism_population, 0)
+      * 100
+
+
+# ============================================================
+# VERIFIED QUERIES (Onboarding + Business Use Cases)
+# ============================================================
+verified_queries:
+
+  # ── Covered Lives ──────────────────────────────────────────
+
+  - name: covered_lives_by_state
+    question: "What are the total covered lives by state?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        s.STATE_NAME,
+        f.STATE_CODE,
+        SUM(f.ENROLLED_LIVES) AS TOTAL_ENROLLED_LIVES
+      FROM FACT_STATE_ENROLLEDLIVES f
+      JOIN DIM_STATE s ON f.STATE_CODE = s.STATE_CODE
+      GROUP BY s.STATE_NAME, f.STATE_CODE
+      ORDER BY TOTAL_ENROLLED_LIVES DESC;
+
+  - name: covered_lives_by_payer_and_state
+    question: "Show me covered lives broken down by payer and state."
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        s.STATE_NAME,
+        p.PAYER_NAME,
+        pp.PARENT_PAYER_NAME,
+        SUM(f.ENROLLED_LIVES) AS ENROLLED_LIVES
+      FROM FACT_STATE_ENROLLEDLIVES f
+      JOIN DIM_STATE s ON f.STATE_CODE = s.STATE_CODE
+      JOIN DIM_PAYERS p ON f.PAYER_ID = p.PAYER_ID
+      LEFT JOIN DIM_PARENT_PAYER pp ON p.PARENT_PAYER_ID = pp.PARENT_PAYER_ID
+      GROUP BY s.STATE_NAME, p.PAYER_NAME, pp.PARENT_PAYER_NAME
+      ORDER BY s.STATE_NAME, ENROLLED_LIVES DESC;
+
+  - name: covered_lives_by_clinic_territory
+    question: "What are the total covered lives within each clinic's service territory?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        m.CLINIC_NAME,
+        m.STATE_CODE,
+        SUM(f.ENROLLED_LIVES) AS ENROLLED_LIVES,
+        COUNT(DISTINCT f.ZIP_CODE) AS ZIP_COUNT
+      FROM FACT_ZIP_ENROLLEDLIVES f
+      JOIN MAP_CLINIC_TO_ZIP m ON f.ZIP_CODE = m.ZIP_CODE
+      WHERE m.CLINIC_NAME IS NOT NULL
+      GROUP BY m.CLINIC_NAME, m.STATE_CODE
+      ORDER BY ENROLLED_LIVES DESC;
+
+  - name: covered_lives_pct_by_state
+    question: "What percentage of total covered lives does each state represent?"
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH state_totals AS (
+        SELECT
+          STATE_CODE,
+          SUM(ENROLLED_LIVES) AS STATE_LIVES
+        FROM FACT_STATE_ENROLLEDLIVES
+        GROUP BY STATE_CODE
+      ),
+      grand_total AS (
+        SELECT SUM(ENROLLED_LIVES) AS TOTAL_LIVES FROM FACT_STATE_ENROLLEDLIVES
+      )
+      SELECT
+        s.STATE_NAME,
+        st.STATE_CODE,
+        st.STATE_LIVES,
+        ROUND(st.STATE_LIVES / gt.TOTAL_LIVES * 100, 2) AS PCT_OF_TOTAL
+      FROM state_totals st
+      JOIN DIM_STATE s ON st.STATE_CODE = s.STATE_CODE
+      CROSS JOIN grand_total gt
+      ORDER BY PCT_OF_TOTAL DESC;
+
+  - name: covered_lives_by_county
+    question: "Show covered lives by county."
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        f.STATE_CODE,
+        f.COUNTY_NAME,
+        SUM(f.ENROLLED_LIVES) AS ENROLLED_LIVES
+      FROM FACT_COUNTY_ENROLLEDLIVES f
+      GROUP BY f.STATE_CODE, f.COUNTY_NAME
+      ORDER BY f.STATE_CODE, ENROLLED_LIVES DESC;
+
+  - name: covered_lives_by_msa
+    question: "What are covered lives by metro area (MSA)?"
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        f.STATE_CODE,
+        f.MSA_NAME,
+        SUM(f.ENROLLED_LIVES) AS ENROLLED_LIVES
+      FROM FACT_MSA_ENROLLEDLIVES f
+      GROUP BY f.STATE_CODE, f.MSA_NAME
+      ORDER BY ENROLLED_LIVES DESC;
+
+  # ── Market Share ──────────────────────────────────────────
+
+  - name: payer_market_share_all_states
+    question: "What is the market share of each payer across all states?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH total_lives AS (
+        SELECT SUM(ENROLLED_LIVES) AS GRAND_TOTAL
+        FROM FACT_STATE_ENROLLEDLIVES
+      ),
+      payer_lives AS (
+        SELECT
+          p.PAYER_NAME,
+          pp.PARENT_PAYER_NAME,
+          SUM(f.ENROLLED_LIVES) AS PAYER_TOTAL
+        FROM FACT_STATE_ENROLLEDLIVES f
+        JOIN DIM_PAYERS p ON f.PAYER_ID = p.PAYER_ID
+        LEFT JOIN DIM_PARENT_PAYER pp ON p.PARENT_PAYER_ID = pp.PARENT_PAYER_ID
+        GROUP BY p.PAYER_NAME, pp.PARENT_PAYER_NAME
+      )
+      SELECT
+        pl.PARENT_PAYER_NAME,
+        pl.PAYER_NAME,
+        pl.PAYER_TOTAL,
+        ROUND(pl.PAYER_TOTAL / tl.GRAND_TOTAL * 100, 2) AS MARKET_SHARE_PCT
+      FROM payer_lives pl
+      CROSS JOIN total_lives tl
+      ORDER BY MARKET_SHARE_PCT DESC;
+
+  - name: top_3_payers_georgia
+    question: "Who are the top 3 payers by enrolled lives in Georgia?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH ga_total AS (
+        SELECT SUM(ENROLLED_LIVES) AS GA_TOTAL
+        FROM FACT_STATE_ENROLLEDLIVES
+        WHERE STATE_CODE = 'GA'
+      )
+      SELECT
+        p.PAYER_NAME,
+        pp.PARENT_PAYER_NAME,
+        SUM(f.ENROLLED_LIVES) AS ENROLLED_LIVES,
+        ROUND(SUM(f.ENROLLED_LIVES) / gt.GA_TOTAL * 100, 2) AS MARKET_SHARE_PCT
+      FROM FACT_STATE_ENROLLEDLIVES f
+      JOIN DIM_PAYERS p ON f.PAYER_ID = p.PAYER_ID
+      LEFT JOIN DIM_PARENT_PAYER pp ON p.PARENT_PAYER_ID = pp.PARENT_PAYER_ID
+      CROSS JOIN ga_total gt
+      WHERE f.STATE_CODE = 'GA'
+      GROUP BY p.PAYER_NAME, pp.PARENT_PAYER_NAME, gt.GA_TOTAL
+      ORDER BY ENROLLED_LIVES DESC
+      LIMIT 3;
+
+  - name: payer_market_share_by_state_detail
+    question: "Show me payer market share for each state with payer rankings."
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH state_payer AS (
+        SELECT
+          f.STATE_CODE,
+          s.STATE_NAME,
+          p.PAYER_NAME,
+          pp.PARENT_PAYER_NAME,
+          SUM(f.ENROLLED_LIVES) AS PAYER_STATE_LIVES
+        FROM FACT_STATE_ENROLLEDLIVES f
+        JOIN DIM_STATE s ON f.STATE_CODE = s.STATE_CODE
+        JOIN DIM_PAYERS p ON f.PAYER_ID = p.PAYER_ID
+        LEFT JOIN DIM_PARENT_PAYER pp ON p.PARENT_PAYER_ID = pp.PARENT_PAYER_ID
+        GROUP BY f.STATE_CODE, s.STATE_NAME, p.PAYER_NAME, pp.PARENT_PAYER_NAME
+      ),
+      state_total AS (
+        SELECT STATE_CODE, SUM(ENROLLED_LIVES) AS STATE_TOTAL
+        FROM FACT_STATE_ENROLLEDLIVES
+        GROUP BY STATE_CODE
+      )
+      SELECT
+        sp.STATE_NAME,
+        sp.STATE_CODE,
+        sp.PARENT_PAYER_NAME,
+        sp.PAYER_NAME,
+        sp.PAYER_STATE_LIVES,
+        ROUND(sp.PAYER_STATE_LIVES / st.STATE_TOTAL * 100, 2) AS MARKET_SHARE_PCT,
+        RANK() OVER (PARTITION BY sp.STATE_CODE ORDER BY sp.PAYER_STATE_LIVES DESC) AS PAYER_RANK
+      FROM state_payer sp
+      JOIN state_total st ON sp.STATE_CODE = st.STATE_CODE
+      ORDER BY sp.STATE_NAME, PAYER_RANK;
+
+  - name: parent_payer_market_share
+    question: "What is the market share by parent payer company (e.g., BCBS, UnitedHealth)?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH grand_total AS (
+        SELECT SUM(ENROLLED_LIVES) AS TOTAL FROM FACT_STATE_ENROLLEDLIVES
+      )
+      SELECT
+        pp.PARENT_PAYER_NAME,
+        SUM(f.ENROLLED_LIVES) AS TOTAL_LIVES,
+        ROUND(SUM(f.ENROLLED_LIVES) / gt.TOTAL * 100, 2) AS MARKET_SHARE_PCT
+      FROM FACT_STATE_ENROLLEDLIVES f
+      JOIN DIM_PAYERS p ON f.PAYER_ID = p.PAYER_ID
+      LEFT JOIN DIM_PARENT_PAYER pp ON p.PARENT_PAYER_ID = pp.PARENT_PAYER_ID
+      CROSS JOIN grand_total gt
+      GROUP BY pp.PARENT_PAYER_NAME, gt.TOTAL
+      ORDER BY MARKET_SHARE_PCT DESC;
+
+  # ── Autism Population Analysis ────────────────────────────
+
+  - name: autism_estimate_by_state
+    question: "What is the estimated autism population by state using the 3.1% national average?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        p.STATE_CODE,
+        s.STATE_NAME,
+        SUM(p.POPULATION) AS TOTAL_POPULATION,
+        ROUND(SUM(p.POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_POPULATION
+      FROM FACT_ZIP_POP_BY_AGE p
+      JOIN DIM_STATE s ON p.STATE_CODE = s.STATE_CODE
+      GROUP BY p.STATE_CODE, s.STATE_NAME
+      ORDER BY ESTIMATED_AUTISM_POPULATION DESC;
+
+  - name: autism_estimate_by_age_band
+    question: "How many people with autism are estimated by age group?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        AGE_BAND,
+        SUM(POPULATION) AS TOTAL_POPULATION,
+        ROUND(SUM(POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_COUNT
+      FROM FACT_ZIP_POP_BY_AGE
+      GROUP BY AGE_BAND
+      ORDER BY AGE_BAND;
+
+  - name: autism_estimate_by_clinic_territory
+    question: "What is the estimated autism population within each clinic's service territory?"
+    use_as_onboarding_question: true
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        m.CLINIC_NAME,
+        m.STATE_CODE,
+        SUM(p.POPULATION) AS TOTAL_POPULATION,
+        ROUND(SUM(p.POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_POPULATION
+      FROM FACT_ZIP_POP_BY_AGE p
+      JOIN MAP_CLINIC_TO_ZIP m ON p.ZIP_CODE = m.ZIP_CODE
+      WHERE m.CLINIC_NAME IS NOT NULL
+      GROUP BY m.CLINIC_NAME, m.STATE_CODE
+      ORDER BY ESTIMATED_AUTISM_POPULATION DESC;
+
+  - name: autism_estimate_by_age_and_state
+    question: "Show the autism population estimate broken down by age band and state."
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        s.STATE_NAME,
+        p.STATE_CODE,
+        p.AGE_BAND,
+        SUM(p.POPULATION) AS TOTAL_POPULATION,
+        ROUND(SUM(p.POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_COUNT
+      FROM FACT_ZIP_POP_BY_AGE p
+      JOIN DIM_STATE s ON p.STATE_CODE = s.STATE_CODE
+      GROUP BY s.STATE_NAME, p.STATE_CODE, p.AGE_BAND
+      ORDER BY s.STATE_NAME, p.AGE_BAND;
+
+  - name: autism_coverage_gap_by_state
+    question: "How does the number of enrolled lives compare to the estimated autism population by state?"
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH autism_pop AS (
+        SELECT
+          STATE_CODE,
+          ROUND(SUM(POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_POP
+        FROM FACT_ZIP_POP_BY_AGE
+        GROUP BY STATE_CODE
+      ),
+      enrolled AS (
+        SELECT
+          STATE_CODE,
+          SUM(ENROLLED_LIVES) AS ENROLLED_LIVES
+        FROM FACT_STATE_ENROLLEDLIVES
+        GROUP BY STATE_CODE
+      )
+      SELECT
+        s.STATE_NAME,
+        e.STATE_CODE,
+        e.ENROLLED_LIVES,
+        a.ESTIMATED_AUTISM_POP,
+        a.ESTIMATED_AUTISM_POP - e.ENROLLED_LIVES AS COVERAGE_GAP,
+        ROUND(e.ENROLLED_LIVES / NULLIF(a.ESTIMATED_AUTISM_POP, 0) * 100, 2) AS COVERAGE_PCT
+      FROM enrolled e
+      JOIN autism_pop a ON e.STATE_CODE = a.STATE_CODE
+      JOIN DIM_STATE s ON e.STATE_CODE = s.STATE_CODE
+      ORDER BY COVERAGE_GAP DESC;
+
+  - name: autism_opportunity_by_county
+    question: "Which counties have the highest autism opportunity (estimated autism population)?"
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      SELECT
+        z.COUNTY_NAME,
+        p.STATE_CODE,
+        SUM(p.POPULATION) AS TOTAL_POPULATION,
+        ROUND(SUM(p.POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM_POP
+      FROM FACT_ZIP_POP_BY_AGE p
+      JOIN DIM_ZIP z ON p.ZIP_CODE = z.ZIP_CODE
+      GROUP BY z.COUNTY_NAME, p.STATE_CODE
+      ORDER BY ESTIMATED_AUTISM_POP DESC
+      LIMIT 25;
+
+  - name: bcab_to_autism_ratio_by_state
+    question: "Compare BCAB authorization case volume to estimated autism population by state."
+    verified_by: "ICBD Growth Analytics Team"
+    sql: |
+      WITH bcab AS (
+        SELECT STATE_CODE, SUM(BCAB_COUNT) AS TOTAL_BCAB
+        FROM FACT_BCAB_COUNTS
+        GROUP BY STATE_CODE
+      ),
+      autism_pop AS (
+        SELECT STATE_CODE, ROUND(SUM(POPULATION) * 0.031, 0) AS ESTIMATED_AUTISM
+        FROM FACT_ZIP_POP_BY_AGE
+        GROUP BY STATE_CODE
+      )
+      SELECT
+        s.STATE_NAME,
+        b.STATE_CODE,
+        b.TOTAL_BCAB,
+        a.ESTIMATED_AUTISM,
+        ROUND(b.TOTAL_BCAB / NULLIF(a.ESTIMATED_AUTISM, 0) * 100, 2) AS BCAB_PENETRATION_PCT
+      FROM bcab b
+      JOIN autism_pop a ON b.STATE_CODE = a.STATE_CODE
+      JOIN DIM_STATE s ON b.STATE_CODE = s.STATE_CODE
+      ORDER BY BCAB_PENETRATION_PCT DESC;
