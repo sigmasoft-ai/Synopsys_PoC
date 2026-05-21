@@ -1,0 +1,393 @@
+STATE_NAME,MSA_NAME,MSA_CODE,CREATED_AT
+Alabama,Anniston-Oxford,11500,2026-03-02 06:44:59.841 -0500
+Alabama,Auburn-Opelika,12220,2026-03-02 06:44:59.841 -0500
+Alabama,Birmingham,13820,2026-03-02 06:44:59.841 -0500
+Alabama,Daphne-Fairhope-Foley,19300,2026-03-02 06:44:59.841 -0500
+Alabama,Decatur,19460,2026-03-02 06:44:59.841 -0500
+Alabama,Dothan,20020,2026-03-02 06:44:59.841 -0500
+Alabama,Florence-Muscle Shoals,22520,2026-03-02 06:44:59.841 -0500
+Alabama,Gadsden,23460,2026-03-02 06:44:59.841 -0500
+Alabama,Huntsville,26620,2026-03-02 06:44:59.841 -0500
+Alabama,Mobile,33660,2026-03-02 06:44:59.841 -0500
+Alabama,Montgomery,33860,2026-03-02 06:44:59.841 -0500
+Alabama,Tuscaloosa,46220,2026-03-02 06:44:59.841 -0500
+Alaska,Anchorage,11260,2026-03-02 06:44:59.841 -0500
+Alaska,Fairbanks-College,21820,2026-03-02 06:44:59.841 -0500
+Arizona,Flagstaff,22380,2026-03-02 06:44:59.841 -0500
+Arizona,Lake Havasu City-Kingman,29420,2026-03-02 06:44:59.841 -0500
+Arizona,Phoenix-Mesa-Chandler,38060,2026-03-02 06:44:59.841 -0500
+Arizona,Prescott Valley-Prescott,39150,2026-03-02 06:44:59.841 -0500
+Arizona,Sierra Vista-Douglas,43420,2026-03-02 06:44:59.841 -0500
+Arizona,Tucson,46060,2026-03-02 06:44:59.841 -0500
+Arizona,Yuma,49740,2026-03-02 06:44:59.841 -0500
+Arkansas,Fayetteville-Springdale-Rogers,22220,2026-03-02 06:44:59.841 -0500
+Arkansas,Hot Springs,26300,2026-03-02 06:44:59.841 -0500
+Arkansas,Jonesboro,27860,2026-03-02 06:44:59.841 -0500
+Arkansas,Little Rock-North Little Rock-Conway,30780,2026-03-02 06:44:59.841 -0500
+Arkansas-Oklahoma,Fort Smith,22900,2026-03-02 06:44:59.841 -0500
+Arkansas-Texas,Texarkana,45500,2026-03-02 06:44:59.841 -0500
+California,Bakersfield-Delano,12540,2026-03-02 06:44:59.841 -0500
+California,Chico,17020,2026-03-02 06:44:59.841 -0500
+California,El Centro,20940,2026-03-02 06:44:59.841 -0500
+California,Fresno,23420,2026-03-02 06:44:59.841 -0500
+California,Hanford-Corcoran,25260,2026-03-02 06:44:59.841 -0500
+California,Los Angeles-Long Beach-Anaheim,31080,2026-03-02 06:44:59.841 -0500
+California,Merced,32900,2026-03-02 06:44:59.841 -0500
+California,Modesto,33700,2026-03-02 06:44:59.841 -0500
+California,Napa,34900,2026-03-02 06:44:59.841 -0500
+California,Oxnard-Thousand Oaks-Ventura,37100,2026-03-02 06:44:59.841 -0500
+California,Redding,39820,2026-03-02 06:44:59.841 -0500
+California,Riverside-San Bernardino-Ontario,40140,2026-03-02 06:44:59.841 -0500
+California,Sacramento-Roseville-Folsom,40900,2026-03-02 06:44:59.841 -0500
+California,Salinas,41500,2026-03-02 06:44:59.841 -0500
+California,San Diego-Chula Vista-Carlsbad,41740,2026-03-02 06:44:59.841 -0500
+California,San Francisco-Oakland-Fremont,41860,2026-03-02 06:44:59.841 -0500
+California,San Jose-Sunnyvale-Santa Clara,41940,2026-03-02 06:44:59.841 -0500
+California,San Luis Obispo-Paso Robles,42020,2026-03-02 06:44:59.841 -0500
+California,Santa Cruz-Watsonville,42100,2026-03-02 06:44:59.841 -0500
+California,Santa Maria-Santa Barbara,42200,2026-03-02 06:44:59.841 -0500
+California,Santa Rosa-Petaluma,42220,2026-03-02 06:44:59.841 -0500
+California,Stockton-Lodi,44700,2026-03-02 06:44:59.841 -0500
+California,Vallejo,46700,2026-03-02 06:44:59.841 -0500
+California,Visalia,47300,2026-03-02 06:44:59.841 -0500
+California,Yuba City,49700,2026-03-02 06:44:59.841 -0500
+Colorado,Boulder,14500,2026-03-02 06:44:59.841 -0500
+Colorado,Colorado Springs,17820,2026-03-02 06:44:59.841 -0500
+Colorado,Denver-Aurora-Centennial,19740,2026-03-02 06:44:59.841 -0500
+Colorado,Fort Collins-Loveland,22660,2026-03-02 06:44:59.841 -0500
+Colorado,Grand Junction,24300,2026-03-02 06:44:59.841 -0500
+Colorado,Greeley,24540,2026-03-02 06:44:59.841 -0500
+Colorado,Pueblo,39380,2026-03-02 06:44:59.841 -0500
+Connecticut,Bridgeport-Stamford-Danbury,14860,2026-03-02 06:44:59.841 -0500
+Connecticut,Hartford-West Hartford-East Hartford,25540,2026-03-02 06:44:59.841 -0500
+Connecticut,New Haven,35300,2026-03-02 06:44:59.841 -0500
+Connecticut,Norwich-New London-Willimantic,35980,2026-03-02 06:44:59.841 -0500
+Delaware,Dover,20100,2026-03-02 06:44:59.841 -0500
+Florida,Cape Coral-Fort Myers,15980,2026-03-02 06:44:59.841 -0500
+Florida,Crestview-Fort Walton Beach-Destin,18880,2026-03-02 06:44:59.841 -0500
+Florida,Deltona-Daytona Beach-Ormond Beach,19660,2026-03-02 06:44:59.841 -0500
+Florida,Gainesville,23540,2026-03-02 06:44:59.841 -0500
+Florida,Homosassa Springs,26140,2026-03-02 06:44:59.841 -0500
+Florida,Jacksonville,27260,2026-03-02 06:44:59.841 -0500
+Florida,Lakeland-Winter Haven,29460,2026-03-02 06:44:59.841 -0500
+Florida,Miami-Fort Lauderdale-West Palm Beach,33100,2026-03-02 06:44:59.841 -0500
+Florida,Naples-Marco Island,34940,2026-03-02 06:44:59.841 -0500
+Florida,North Port-Bradenton-Sarasota,35840,2026-03-02 06:44:59.841 -0500
+Florida,Ocala,36100,2026-03-02 06:44:59.841 -0500
+Florida,Orlando-Kissimmee-Sanford,36740,2026-03-02 06:44:59.841 -0500
+Florida,Palm Bay-Melbourne-Titusville,37340,2026-03-02 06:44:59.841 -0500
+Florida,Panama City-Panama City Beach,37460,2026-03-02 06:44:59.841 -0500
+Florida,Pensacola-Ferry Pass-Brent,37860,2026-03-02 06:44:59.841 -0500
+Florida,Port St. Lucie,38940,2026-03-02 06:44:59.841 -0500
+Florida,Punta Gorda,39460,2026-03-02 06:44:59.841 -0500
+Florida,Sebastian-Vero Beach-West Vero Corridor,42680,2026-03-02 06:44:59.841 -0500
+Florida,Sebring,42700,2026-03-02 06:44:59.841 -0500
+Florida,Tallahassee,45220,2026-03-02 06:44:59.841 -0500
+Florida,Tampa-St. Petersburg-Clearwater,45300,2026-03-02 06:44:59.841 -0500
+Florida,Wildwood-The Villages,48680,2026-03-02 06:44:59.841 -0500
+Georgia,Albany,10500,2026-03-02 06:44:59.841 -0500
+Georgia,Athens-Clarke County,12020,2026-03-02 06:44:59.841 -0500
+Georgia,Atlanta-Sandy Springs-Roswell,12060,2026-03-02 06:44:59.841 -0500
+Georgia,Brunswick-St. Simons,15260,2026-03-02 06:44:59.841 -0500
+Georgia,Dalton,19140,2026-03-02 06:44:59.841 -0500
+Georgia,Gainesville,23580,2026-03-02 06:44:59.841 -0500
+Georgia,Hinesville,25980,2026-03-02 06:44:59.841 -0500
+Georgia,Macon-Bibb County,31420,2026-03-02 06:44:59.841 -0500
+Georgia,Rome,40660,2026-03-02 06:44:59.841 -0500
+Georgia,Savannah,42340,2026-03-02 06:44:59.841 -0500
+Georgia,Valdosta,46660,2026-03-02 06:44:59.841 -0500
+Georgia,Warner Robins,47580,2026-03-02 06:44:59.841 -0500
+Georgia-Alabama,Columbus,17980,2026-03-02 06:44:59.841 -0500
+Georgia-South Carolina,Augusta-Richmond County,12260,2026-03-02 06:44:59.841 -0500
+Georgia-Tennessee,Chattanooga,16860,2026-03-02 06:44:59.841 -0500
+Hawaii,Kahului-Wailuku,27980,2026-03-02 06:44:59.841 -0500
+Hawaii,Urban Honolulu,46520,2026-03-02 06:44:59.841 -0500
+Idaho,Boise City,14260,2026-03-02 06:44:59.841 -0500
+Idaho,Coeur d'Alene,17660,2026-03-02 06:44:59.841 -0500
+Idaho,Idaho Falls,26820,2026-03-02 06:44:59.841 -0500
+Idaho,Pocatello,38540,2026-03-02 06:44:59.841 -0500
+Idaho,Twin Falls,46300,2026-03-02 06:44:59.841 -0500
+Idaho-Utah,Logan,30860,2026-03-02 06:44:59.841 -0500
+Idaho-Washington,Lewiston,30300,2026-03-02 06:44:59.841 -0500
+Illinois,Bloomington,14010,2026-03-02 06:44:59.841 -0500
+Illinois,Champaign-Urbana,16580,2026-03-02 06:44:59.841 -0500
+Illinois,Decatur,19500,2026-03-02 06:44:59.841 -0500
+Illinois,Kankakee,28100,2026-03-02 06:44:59.841 -0500
+Illinois,Peoria,37900,2026-03-02 06:44:59.841 -0500
+Illinois,Rockford,40420,2026-03-02 06:44:59.841 -0500
+Illinois,Springfield,44100,2026-03-02 06:44:59.841 -0500
+Illinois-Indiana,Chicago-Naperville-Elgin,16980,2026-03-02 06:44:59.841 -0500
+Illinois-Kentucky,Paducah,37140,2026-03-02 06:44:59.841 -0500
+Illinois-Missouri,Cape Girardeau,16020,2026-03-02 06:44:59.841 -0500
+Illinois-Missouri,St. Louis,41180,2026-03-02 06:44:59.841 -0500
+Indiana,Bloomington,14020,2026-03-02 06:44:59.841 -0500
+Indiana,Columbus,18020,2026-03-02 06:44:59.841 -0500
+Indiana,Elkhart-Goshen,21140,2026-03-02 06:44:59.841 -0500
+Indiana,Evansville,21780,2026-03-02 06:44:59.841 -0500
+Indiana,Fort Wayne,23060,2026-03-02 06:44:59.841 -0500
+Indiana,Indianapolis-Carmel-Greenwood,26900,2026-03-02 06:44:59.841 -0500
+Indiana,Kokomo,29020,2026-03-02 06:44:59.841 -0500
+Indiana,Lafayette-West Lafayette,29200,2026-03-02 06:44:59.841 -0500
+Indiana,Michigan City-La Porte,33140,2026-03-02 06:44:59.841 -0500
+Indiana,Muncie,34620,2026-03-02 06:44:59.841 -0500
+Indiana,Terre Haute,45460,2026-03-02 06:44:59.841 -0500
+Indiana-Kentucky,Louisville/Jefferson County,31140,2026-03-02 06:44:59.841 -0500
+Indiana-Kentucky-Ohio,Cincinnati,17140,2026-03-02 06:44:59.841 -0500
+Indiana-Michigan,South Bend-Mishawaka,43780,2026-03-02 06:44:59.841 -0500
+Iowa,Ames,11180,2026-03-02 06:44:59.841 -0500
+Iowa,Cedar Rapids,16300,2026-03-02 06:44:59.841 -0500
+Iowa,Des Moines-West Des Moines,19780,2026-03-02 06:44:59.841 -0500
+Iowa,Dubuque,20220,2026-03-02 06:44:59.841 -0500
+Iowa,Iowa City,26980,2026-03-02 06:44:59.841 -0500
+Iowa,Waterloo-Cedar Falls,47940,2026-03-02 06:44:59.841 -0500
+Iowa-Illinois,Davenport-Moline-Rock Island,19340,2026-03-02 06:44:59.841 -0500
+Iowa-Nebraska,Omaha,36540,2026-03-02 06:44:59.841 -0500
+Iowa-Nebraska-South Dakota,Sioux City,43580,2026-03-02 06:44:59.841 -0500
+Kansas,Lawrence,29940,2026-03-02 06:44:59.841 -0500
+Kansas,Manhattan,31740,2026-03-02 06:44:59.841 -0500
+Kansas,Topeka,45820,2026-03-02 06:44:59.841 -0500
+Kansas,Wichita,48620,2026-03-02 06:44:59.841 -0500
+Kansas-Missouri,Joplin,27900,2026-03-02 06:44:59.841 -0500
+Kansas-Missouri,Kansas City,28140,2026-03-02 06:44:59.841 -0500
+Kansas-Missouri,St. Joseph,41140,2026-03-02 06:44:59.841 -0500
+Kentucky,Bowling Green,14540,2026-03-02 06:44:59.841 -0500
+Kentucky,Elizabethtown,21060,2026-03-02 06:44:59.841 -0500
+Kentucky,Lexington-Fayette,30460,2026-03-02 06:44:59.841 -0500
+Kentucky,Owensboro,36980,2026-03-02 06:44:59.841 -0500
+Kentucky-Ohio-West Virginia,Huntington-Ashland,26580,2026-03-02 06:44:59.841 -0500
+Kentucky-Tennessee,Clarksville,17300,2026-03-02 06:44:59.841 -0500
+Louisiana,Alexandria,10780,2026-03-02 06:44:59.841 -0500
+Louisiana,Baton Rouge,12940,2026-03-02 06:44:59.841 -0500
+Louisiana,Hammond,25220,2026-03-02 06:44:59.841 -0500
+Louisiana,Houma-Bayou Cane-Thibodaux,26380,2026-03-02 06:44:59.841 -0500
+Louisiana,Lafayette,29180,2026-03-02 06:44:59.841 -0500
+Louisiana,Lake Charles,29340,2026-03-02 06:44:59.841 -0500
+Louisiana,Monroe,33740,2026-03-02 06:44:59.841 -0500
+Louisiana,New Orleans-Metairie,35380,2026-03-02 06:44:59.841 -0500
+Louisiana,Shreveport-Bossier City,43340,2026-03-02 06:44:59.841 -0500
+Louisiana,Slidell-Mandeville-Covington,43640,2026-03-02 06:44:59.841 -0500
+Maine,Bangor,12620,2026-03-02 06:44:59.841 -0500
+Maine,Lewiston-Auburn,30340,2026-03-02 06:44:59.841 -0500
+Maine,Portland-South Portland,38860,2026-03-02 06:44:59.841 -0500
+Maryland,Baltimore-Columbia-Towson,12580,2026-03-02 06:44:59.841 -0500
+Maryland,Lexington Park,30500,2026-03-02 06:44:59.841 -0500
+Maryland,Salisbury,41540,2026-03-02 06:44:59.841 -0500
+Maryland-New Jersey-Pennsylvania-Delaware,Philadelphia-Camden-Wilmington,37980,2026-03-02 06:44:59.841 -0500
+Maryland-Virginia-West Virginia-District of Columbia,Washington-Arlington-Alexandria,47900,2026-03-02 06:44:59.841 -0500
+Maryland-West Virginia,Hagerstown-Martinsburg,25180,2026-03-02 06:44:59.841 -0500
+Massachusetts,Amherst Town-Northampton,11200,2026-03-02 06:44:59.841 -0500
+Massachusetts,Barnstable Town,12700,2026-03-02 06:44:59.841 -0500
+Massachusetts,Pittsfield,38340,2026-03-02 06:44:59.841 -0500
+Massachusetts,Springfield,44140,2026-03-02 06:44:59.841 -0500
+Massachusetts,Worcester,49340,2026-03-02 06:44:59.841 -0500
+Massachusetts-New Hampshire,Boston-Cambridge-Newton,14460,2026-03-02 06:44:59.841 -0500
+Massachusetts-Rhode Island,Providence-Warwick,39300,2026-03-02 06:44:59.841 -0500
+Michigan,Ann Arbor,11460,2026-03-02 06:44:59.841 -0500
+Michigan,Battle Creek,12980,2026-03-02 06:44:59.841 -0500
+Michigan,Bay City,13020,2026-03-02 06:44:59.841 -0500
+Michigan,Detroit-Warren-Dearborn,19820,2026-03-02 06:44:59.841 -0500
+Michigan,Flint,22420,2026-03-02 06:44:59.841 -0500
+Michigan,Grand Rapids-Wyoming-Kentwood,24340,2026-03-02 06:44:59.841 -0500
+Michigan,Jackson,27100,2026-03-02 06:44:59.841 -0500
+Michigan,Kalamazoo-Portage,28020,2026-03-02 06:44:59.841 -0500
+Michigan,Lansing-East Lansing,29620,2026-03-02 06:44:59.841 -0500
+Michigan,Midland,33220,2026-03-02 06:44:59.841 -0500
+Michigan,Monroe,33780,2026-03-02 06:44:59.841 -0500
+Michigan,Muskegon-Norton Shores,34740,2026-03-02 06:44:59.841 -0500
+Michigan,Niles,35660,2026-03-02 06:44:59.841 -0500
+Michigan,Saginaw,40980,2026-03-02 06:44:59.841 -0500
+Michigan,Traverse City,45900,2026-03-02 06:44:59.841 -0500
+Minnesota,Mankato,31860,2026-03-02 06:44:59.841 -0500
+Minnesota,Rochester,40340,2026-03-02 06:44:59.841 -0500
+Minnesota,St. Cloud,41060,2026-03-02 06:44:59.841 -0500
+Minnesota-North Dakota,Fargo,22020,2026-03-02 06:44:59.841 -0500
+Minnesota-North Dakota,Grand Forks,24220,2026-03-02 06:44:59.841 -0500
+Minnesota-South Dakota,Sioux Falls,43620,2026-03-02 06:44:59.841 -0500
+Minnesota-Wisconsin,Duluth,20260,2026-03-02 06:44:59.841 -0500
+Minnesota-Wisconsin,La Crosse-Onalaska,29100,2026-03-02 06:44:59.841 -0500
+Minnesota-Wisconsin,Minneapolis-St. Paul-Bloomington,33460,2026-03-02 06:44:59.841 -0500
+Mississippi,Gulfport-Biloxi,25060,2026-03-02 06:44:59.841 -0500
+Mississippi,Hattiesburg,25620,2026-03-02 06:44:59.841 -0500
+Mississippi,Jackson,27140,2026-03-02 06:44:59.841 -0500
+Mississippi-Arkansas-Tennessee,Memphis,32820,2026-03-02 06:44:59.841 -0500
+Missouri,Columbia,17860,2026-03-02 06:44:59.841 -0500
+Missouri,Jefferson City,27620,2026-03-02 06:44:59.841 -0500
+Missouri,Springfield,44180,2026-03-02 06:44:59.841 -0500
+Montana,Billings,13740,2026-03-02 06:44:59.841 -0500
+Montana,Bozeman,14580,2026-03-02 06:44:59.841 -0500
+Montana,Great Falls,24500,2026-03-02 06:44:59.841 -0500
+Montana,Helena,25740,2026-03-02 06:44:59.841 -0500
+Montana,Missoula,33540,2026-03-02 06:44:59.841 -0500
+Nebraska,Grand Island,24260,2026-03-02 06:44:59.841 -0500
+Nebraska,Lincoln,30700,2026-03-02 06:44:59.841 -0500
+Nevada,Carson City,16180,2026-03-02 06:44:59.841 -0500
+Nevada,Las Vegas-Henderson-North Las Vegas,29820,2026-03-02 06:44:59.841 -0500
+Nevada,Reno,39900,2026-03-02 06:44:59.841 -0500
+New Hampshire,Manchester-Nashua,31700,2026-03-02 06:44:59.841 -0500
+New Jersey,Atlantic City-Hammonton,12100,2026-03-02 06:44:59.841 -0500
+New Jersey,Trenton-Princeton,45940,2026-03-02 06:44:59.841 -0500
+New Jersey,Vineland,47220,2026-03-02 06:44:59.841 -0500
+New Jersey-New York,New York-Newark-Jersey City,35620,2026-03-02 06:44:59.841 -0500
+New Jersey-Pennsylvania,Allentown-Bethlehem-Easton,10900,2026-03-02 06:44:59.841 -0500
+New Mexico,Albuquerque,10740,2026-03-02 06:44:59.841 -0500
+New Mexico,Farmington,22140,2026-03-02 06:44:59.841 -0500
+New Mexico,Las Cruces,29740,2026-03-02 06:44:59.841 -0500
+New Mexico,Santa Fe,42140,2026-03-02 06:44:59.841 -0500
+New York,Albany-Schenectady-Troy,10580,2026-03-02 06:44:59.841 -0500
+New York,Binghamton,13780,2026-03-02 06:44:59.841 -0500
+New York,Buffalo-Cheektowaga,15380,2026-03-02 06:44:59.841 -0500
+New York,Elmira,21300,2026-03-02 06:44:59.841 -0500
+New York,Glens Falls,24020,2026-03-02 06:44:59.841 -0500
+New York,Ithaca,27060,2026-03-02 06:44:59.841 -0500
+New York,Kingston,28740,2026-03-02 06:44:59.841 -0500
+New York,Kiryas Joel-Poughkeepsie-Newburgh,28880,2026-03-02 06:44:59.841 -0500
+New York,Rochester,40380,2026-03-02 06:44:59.841 -0500
+New York,Syracuse,45060,2026-03-02 06:44:59.841 -0500
+New York,Utica-Rome,46540,2026-03-02 06:44:59.841 -0500
+New York,Watertown-Fort Drum,48060,2026-03-02 06:44:59.841 -0500
+North Carolina,Asheville,11700,2026-03-02 06:44:59.841 -0500
+North Carolina,Burlington,15500,2026-03-02 06:44:59.841 -0500
+North Carolina,Durham-Chapel Hill,20500,2026-03-02 06:44:59.841 -0500
+North Carolina,Fayetteville,22180,2026-03-02 06:44:59.841 -0500
+North Carolina,Goldsboro,24140,2026-03-02 06:44:59.841 -0500
+North Carolina,Greensboro-High Point,24660,2026-03-02 06:44:59.841 -0500
+North Carolina,Greenville,24780,2026-03-02 06:44:59.841 -0500
+North Carolina,Hickory-Lenoir-Morganton,25860,2026-03-02 06:44:59.841 -0500
+North Carolina,Jacksonville,27340,2026-03-02 06:44:59.841 -0500
+North Carolina,Pinehurst-Southern Pines,38240,2026-03-02 06:44:59.841 -0500
+North Carolina,Raleigh-Cary,39580,2026-03-02 06:44:59.841 -0500
+North Carolina,Rocky Mount,40580,2026-03-02 06:44:59.841 -0500
+North Carolina,Wilmington,48900,2026-03-02 06:44:59.841 -0500
+North Carolina,Winston-Salem,49180,2026-03-02 06:44:59.841 -0500
+North Carolina-South Carolina,Charlotte-Concord-Gastonia,16740,2026-03-02 06:44:59.841 -0500
+North Carolina-Virginia,Virginia Beach-Chesapeake-Norfolk,47260,2026-03-02 06:44:59.841 -0500
+North Dakota,Bismarck,13900,2026-03-02 06:44:59.841 -0500
+North Dakota,Minot,33500,2026-03-02 06:44:59.841 -0500
+Ohio,Akron,10420,2026-03-02 06:44:59.841 -0500
+Ohio,Canton-Massillon,15940,2026-03-02 06:44:59.841 -0500
+Ohio,Cleveland,17410,2026-03-02 06:44:59.841 -0500
+Ohio,Columbus,18140,2026-03-02 06:44:59.841 -0500
+Ohio,Dayton-Kettering-Beavercreek,19430,2026-03-02 06:44:59.841 -0500
+Ohio,Lima,30620,2026-03-02 06:44:59.841 -0500
+Ohio,Mansfield,31900,2026-03-02 06:44:59.841 -0500
+Ohio,Sandusky,41780,2026-03-02 06:44:59.841 -0500
+Ohio,Springfield,44220,2026-03-02 06:44:59.841 -0500
+Ohio,Toledo,45780,2026-03-02 06:44:59.841 -0500
+Ohio,Youngstown-Warren,49660,2026-03-02 06:44:59.841 -0500
+Ohio-West Virginia,Weirton-Steubenville,48260,2026-03-02 06:44:59.841 -0500
+Ohio-West Virginia,Wheeling,48540,2026-03-02 06:44:59.841 -0500
+Oklahoma,Enid,21420,2026-03-02 06:44:59.841 -0500
+Oklahoma,Lawton,30020,2026-03-02 06:44:59.841 -0500
+Oklahoma,Oklahoma City,36420,2026-03-02 06:44:59.841 -0500
+Oklahoma,Tulsa,46140,2026-03-02 06:44:59.841 -0500
+Oregon,Albany,10540,2026-03-02 06:44:59.841 -0500
+Oregon,Bend,13460,2026-03-02 06:44:59.841 -0500
+Oregon,Corvallis,18700,2026-03-02 06:44:59.841 -0500
+Oregon,Eugene-Springfield,21660,2026-03-02 06:44:59.841 -0500
+Oregon,Grants Pass,24420,2026-03-02 06:44:59.841 -0500
+Oregon,Medford,32780,2026-03-02 06:44:59.841 -0500
+Oregon,Salem,41420,2026-03-02 06:44:59.841 -0500
+Oregon-Washington,Portland-Vancouver-Hillsboro,38900,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Altoona,11020,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Chambersburg,16540,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Erie,21500,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Gettysburg,23900,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Harrisburg-Carlisle,25420,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Johnstown,27780,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Lancaster,29540,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Lebanon,30140,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Pittsburgh,38300,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Reading,39740,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Scranton--Wilkes-Barre,42540,2026-03-02 06:44:59.841 -0500
+Pennsylvania,State College,44300,2026-03-02 06:44:59.841 -0500
+Pennsylvania,Williamsport,48700,2026-03-02 06:44:59.841 -0500
+Pennsylvania,York-Hanover,49620,2026-03-02 06:44:59.841 -0500
+Puerto Rico,Aguadilla,10380,2026-03-02 06:44:59.841 -0500
+Puerto Rico,Arecibo,11640,2026-03-02 06:44:59.841 -0500
+Puerto Rico,Guayama,25020,2026-03-02 06:44:59.841 -0500
+Puerto Rico,Mayaguez,32420,2026-03-02 06:44:59.841 -0500
+Puerto Rico,Ponce,38660,2026-03-02 06:44:59.841 -0500
+Puerto Rico,San Juan-Bayam�n-Caguas,41980,2026-03-02 06:44:59.841 -0500
+South Carolina,Charleston-North Charleston,16700,2026-03-02 06:44:59.841 -0500
+South Carolina,Columbia,17900,2026-03-02 06:44:59.841 -0500
+South Carolina,Florence,22500,2026-03-02 06:44:59.841 -0500
+South Carolina,Greenville-Anderson-Greer,24860,2026-03-02 06:44:59.841 -0500
+South Carolina,Hilton Head Island-Bluffton-Port Royal,25940,2026-03-02 06:44:59.841 -0500
+South Carolina,Myrtle Beach-Conway-North Myrtle Beach,34820,2026-03-02 06:44:59.841 -0500
+South Carolina,Spartanburg,43900,2026-03-02 06:44:59.841 -0500
+South Carolina,Sumter,44940,2026-03-02 06:44:59.841 -0500
+South Dakota,Rapid City,39660,2026-03-02 06:44:59.841 -0500
+Tennessee,Cleveland,17420,2026-03-02 06:44:59.841 -0500
+Tennessee,Jackson,27180,2026-03-02 06:44:59.841 -0500
+Tennessee,Johnson City,27740,2026-03-02 06:44:59.841 -0500
+Tennessee,Knoxville,28940,2026-03-02 06:44:59.841 -0500
+Tennessee,Morristown,34100,2026-03-02 06:44:59.841 -0500
+Tennessee,Nashville-Davidson--Murfreesboro--Franklin,34980,2026-03-02 06:44:59.841 -0500
+Tennessee-Virginia,Kingsport-Bristol,28700,2026-03-02 06:44:59.841 -0500
+Texas,Abilene,10180,2026-03-02 06:44:59.841 -0500
+Texas,Amarillo,11100,2026-03-02 06:44:59.841 -0500
+Texas,Austin-Round Rock-San Marcos,12420,2026-03-02 06:44:59.841 -0500
+Texas,Beaumont-Port Arthur,13140,2026-03-02 06:44:59.841 -0500
+Texas,Brownsville-Harlingen,15180,2026-03-02 06:44:59.841 -0500
+Texas,College Station-Bryan,17780,2026-03-02 06:44:59.841 -0500
+Texas,Corpus Christi,18580,2026-03-02 06:44:59.841 -0500
+Texas,Dallas-Fort Worth-Arlington,19100,2026-03-02 06:44:59.841 -0500
+Texas,Eagle Pass,20580,2026-03-02 06:44:59.841 -0500
+Texas,El Paso,21340,2026-03-02 06:44:59.841 -0500
+Texas,Houston-Pasadena-The Woodlands,26420,2026-03-02 06:44:59.841 -0500
+Texas,Killeen-Temple,28660,2026-03-02 06:44:59.841 -0500
+Texas,Laredo,29700,2026-03-02 06:44:59.841 -0500
+Texas,Longview,30980,2026-03-02 06:44:59.841 -0500
+Texas,Lubbock,31180,2026-03-02 06:44:59.841 -0500
+Texas,McAllen-Edinburg-Mission,32580,2026-03-02 06:44:59.841 -0500
+Texas,Midland,33260,2026-03-02 06:44:59.841 -0500
+Texas,Odessa,36220,2026-03-02 06:44:59.841 -0500
+Texas,San Angelo,41660,2026-03-02 06:44:59.841 -0500
+Texas,San Antonio-New Braunfels,41700,2026-03-02 06:44:59.841 -0500
+Texas,Sherman-Denison,43300,2026-03-02 06:44:59.841 -0500
+Texas,Tyler,46340,2026-03-02 06:44:59.841 -0500
+Texas,Victoria,47020,2026-03-02 06:44:59.841 -0500
+Texas,Waco,47380,2026-03-02 06:44:59.841 -0500
+Texas,Wichita Falls,48660,2026-03-02 06:44:59.841 -0500
+Utah,Ogden,36260,2026-03-02 06:44:59.841 -0500
+Utah,Provo-Orem-Lehi,39340,2026-03-02 06:44:59.841 -0500
+Utah,Salt Lake City-Murray,41620,2026-03-02 06:44:59.841 -0500
+Utah,St. George,41100,2026-03-02 06:44:59.841 -0500
+Vermont,Burlington-South Burlington,15540,2026-03-02 06:44:59.841 -0500
+Virginia,Blacksburg-Christiansburg-Radford,13980,2026-03-02 06:44:59.841 -0500
+Virginia,Charlottesville,16820,2026-03-02 06:44:59.841 -0500
+Virginia,Harrisonburg,25500,2026-03-02 06:44:59.841 -0500
+Virginia,Lynchburg,31340,2026-03-02 06:44:59.841 -0500
+Virginia,Richmond,40060,2026-03-02 06:44:59.841 -0500
+Virginia,Roanoke,40220,2026-03-02 06:44:59.841 -0500
+Virginia,Staunton-Stuarts Draft,44420,2026-03-02 06:44:59.841 -0500
+Virginia-West Virginia,Winchester,49020,2026-03-02 06:44:59.841 -0500
+Washington,Bellingham,13380,2026-03-02 06:44:59.841 -0500
+Washington,Bremerton-Silverdale-Port Orchard,14740,2026-03-02 06:44:59.841 -0500
+Washington,Kennewick-Richland,28420,2026-03-02 06:44:59.841 -0500
+Washington,Longview-Kelso,31020,2026-03-02 06:44:59.841 -0500
+Washington,Mount Vernon-Anacortes,34580,2026-03-02 06:44:59.841 -0500
+Washington,Olympia-Lacey-Tumwater,36500,2026-03-02 06:44:59.841 -0500
+Washington,Seattle-Tacoma-Bellevue,42660,2026-03-02 06:44:59.841 -0500
+Washington,Spokane-Spokane Valley,44060,2026-03-02 06:44:59.841 -0500
+Washington,Walla Walla,47460,2026-03-02 06:44:59.841 -0500
+Washington,Wenatchee-East Wenatchee,48300,2026-03-02 06:44:59.841 -0500
+Washington,Yakima,49420,2026-03-02 06:44:59.841 -0500
+West Virginia,Beckley,13220,2026-03-02 06:44:59.841 -0500
+West Virginia,Charleston,16620,2026-03-02 06:44:59.841 -0500
+West Virginia,Morgantown,34060,2026-03-02 06:44:59.841 -0500
+West Virginia,Parkersburg-Vienna,37620,2026-03-02 06:44:59.841 -0500
+Wisconsin,Appleton,11540,2026-03-02 06:44:59.841 -0500
+Wisconsin,Eau Claire,20740,2026-03-02 06:44:59.841 -0500
+Wisconsin,Fond du Lac,22540,2026-03-02 06:44:59.841 -0500
+Wisconsin,Green Bay,24580,2026-03-02 06:44:59.841 -0500
+Wisconsin,Janesville-Beloit,27500,2026-03-02 06:44:59.841 -0500
+Wisconsin,Kenosha,28450,2026-03-02 06:44:59.841 -0500
+Wisconsin,Madison,31540,2026-03-02 06:44:59.841 -0500
+Wisconsin,Milwaukee-Waukesha,33340,2026-03-02 06:44:59.841 -0500
+Wisconsin,Oshkosh-Neenah,36780,2026-03-02 06:44:59.841 -0500
+Wisconsin,Racine-Mount Pleasant,39540,2026-03-02 06:44:59.841 -0500
+Wisconsin,Sheboygan,43100,2026-03-02 06:44:59.841 -0500
+Wisconsin,Wausau,48140,2026-03-02 06:44:59.841 -0500
+Wyoming,Casper,16220,2026-03-02 06:44:59.841 -0500
+Wyoming,Cheyenne,16940,2026-03-02 06:44:59.841 -0500

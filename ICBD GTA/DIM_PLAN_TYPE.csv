@@ -1,0 +1,24 @@
+PLAN_TYPE_KEY,PLAN_TYPE_CODE,PLAN_TYPE_NAME,CATEGORY_GROUP,SORT_ORDER
+1,OVERALL,Overall,Overall,10
+2,COMMERCIAL,Commercial (Total),Commercial,20
+3,COMMERCIAL_FI,Commercial - Fully Insured (Total),Commercial,30
+4,FI_HMO,Fully Insured - HMO,Commercial,40
+5,FI_PPO,Fully Insured - PPO,Commercial,50
+6,FI_POS,Fully Insured - POS,Commercial,60
+7,FI_INDEMNITY,Fully Insured - Indemnity,Commercial,70
+8,FI_CDHP,Fully Insured - CDHP,Commercial,80
+9,PUBLIC_HIX_INDIVIDUAL,Public HIX - Individual,Commercial,90
+10,PUBLIC_HIX_SHOP,Public HIX - SHOP,Commercial,100
+11,COMMERCIAL_SI,Commercial - Self Insured (Total),Commercial,110
+12,SI_HMO,Self Insured - HMO,Commercial,120
+13,SI_PPO,Self Insured - PPO,Commercial,130
+14,SI_POS,Self Insured - POS,Commercial,140
+15,SI_INDEMNITY,Self Insured - Indemnity,Commercial,150
+16,SI_CDHP,Self Insured - CDHP,Commercial,160
+17,MEDICARE_ADVANTAGE_C,Medicare Advantage,Medicare,200
+18,PAYER_MANAGED_MEDICAID,Managed Medicaid (Total),Medicaid,300
+19,MANAGED_MEDICAID_TITLE19,Managed Medicaid - Title XIX,Medicaid,310
+20,MANAGED_MEDICAID_TITLE21,Managed Medicaid - Title XXI,Medicaid,320
+21,MANAGED_MEDICAID_SPECIALTY,Managed Medicaid - Specialty,Medicaid,330
+22,MANAGED_MEDICAID_DUAL,Managed Medicaid - Dual,Medicaid,340
+23,TRICARE,TRICARE,Other,400

@@ -1,0 +1,3275 @@
+STATE_NAME,COUNTY_NAME,COUNTY_CODE,CREATED_AT
+Alabama,Autauga County,1001,2026-03-02 06:43:05.668 -0500
+Alabama,Baldwin County,1003,2026-03-02 06:43:05.668 -0500
+Alabama,Barbour County,1005,2026-03-02 06:43:05.668 -0500
+Alabama,Bibb County,1007,2026-03-02 06:43:05.668 -0500
+Alabama,Blount County,1009,2026-03-02 06:43:05.668 -0500
+Alabama,Bullock County,1011,2026-03-02 06:43:05.668 -0500
+Alabama,Butler County,1013,2026-03-02 06:43:05.668 -0500
+Alabama,Calhoun County,1015,2026-03-02 06:43:05.668 -0500
+Alabama,Chambers County,1017,2026-03-02 06:43:05.668 -0500
+Alabama,Cherokee County,1019,2026-03-02 06:43:05.668 -0500
+Alabama,Chilton County,1021,2026-03-02 06:43:05.668 -0500
+Alabama,Choctaw County,1023,2026-03-02 06:43:05.668 -0500
+Alabama,Clarke County,1025,2026-03-02 06:43:05.668 -0500
+Alabama,Clay County,1027,2026-03-02 06:43:05.668 -0500
+Alabama,Cleburne County,1029,2026-03-02 06:43:05.668 -0500
+Alabama,Coffee County,1031,2026-03-02 06:43:05.668 -0500
+Alabama,Colbert County,1033,2026-03-02 06:43:05.668 -0500
+Alabama,Conecuh County,1035,2026-03-02 06:43:05.668 -0500
+Alabama,Coosa County,1037,2026-03-02 06:43:05.668 -0500
+Alabama,Covington County,1039,2026-03-02 06:43:05.668 -0500
+Alabama,Crenshaw County,1041,2026-03-02 06:43:05.668 -0500
+Alabama,Cullman County,1043,2026-03-02 06:43:05.668 -0500
+Alabama,Dale County,1045,2026-03-02 06:43:05.668 -0500
+Alabama,Dallas County,1047,2026-03-02 06:43:05.668 -0500
+Alabama,DeKalb County,1049,2026-03-02 06:43:05.668 -0500
+Alabama,Elmore County,1051,2026-03-02 06:43:05.668 -0500
+Alabama,Escambia County,1053,2026-03-02 06:43:05.668 -0500
+Alabama,Etowah County,1055,2026-03-02 06:43:05.668 -0500
+Alabama,Fayette County,1057,2026-03-02 06:43:05.668 -0500
+Alabama,Franklin County,1059,2026-03-02 06:43:05.668 -0500
+Alabama,Geneva County,1061,2026-03-02 06:43:05.668 -0500
+Alabama,Greene County,1063,2026-03-02 06:43:05.668 -0500
+Alabama,Hale County,1065,2026-03-02 06:43:05.668 -0500
+Alabama,Henry County,1067,2026-03-02 06:43:05.668 -0500
+Alabama,Houston County,1069,2026-03-02 06:43:05.668 -0500
+Alabama,Jackson County,1071,2026-03-02 06:43:05.668 -0500
+Alabama,Jefferson County,1073,2026-03-02 06:43:05.668 -0500
+Alabama,Lamar County,1075,2026-03-02 06:43:05.668 -0500
+Alabama,Lauderdale County,1077,2026-03-02 06:43:05.668 -0500
+Alabama,Lawrence County,1079,2026-03-02 06:43:05.668 -0500
+Alabama,Lee County,1081,2026-03-02 06:43:05.668 -0500
+Alabama,Limestone County,1083,2026-03-02 06:43:05.668 -0500
+Alabama,Lowndes County,1085,2026-03-02 06:43:05.668 -0500
+Alabama,Macon County,1087,2026-03-02 06:43:05.668 -0500
+Alabama,Madison County,1089,2026-03-02 06:43:05.668 -0500
+Alabama,Marengo County,1091,2026-03-02 06:43:05.668 -0500
+Alabama,Marion County,1093,2026-03-02 06:43:05.668 -0500
+Alabama,Marshall County,1095,2026-03-02 06:43:05.668 -0500
+Alabama,Mobile County,1097,2026-03-02 06:43:05.668 -0500
+Alabama,Monroe County,1099,2026-03-02 06:43:05.668 -0500
+Alabama,Montgomery County,1101,2026-03-02 06:43:05.668 -0500
+Alabama,Morgan County,1103,2026-03-02 06:43:05.668 -0500
+Alabama,Other County,1000,2026-03-02 06:43:05.668 -0500
+Alabama,Perry County,1105,2026-03-02 06:43:05.668 -0500
+Alabama,Pickens County,1107,2026-03-02 06:43:05.668 -0500
+Alabama,Pike County,1109,2026-03-02 06:43:05.668 -0500
+Alabama,Randolph County,1111,2026-03-02 06:43:05.668 -0500
+Alabama,Russell County,1113,2026-03-02 06:43:05.668 -0500
+Alabama,Shelby County,1117,2026-03-02 06:43:05.668 -0500
+Alabama,St. Clair County,1115,2026-03-02 06:43:05.668 -0500
+Alabama,Sumter County,1119,2026-03-02 06:43:05.668 -0500
+Alabama,Talladega County,1121,2026-03-02 06:43:05.668 -0500
+Alabama,Tallapoosa County,1123,2026-03-02 06:43:05.668 -0500
+Alabama,Tuscaloosa County,1125,2026-03-02 06:43:05.668 -0500
+Alabama,Walker County,1127,2026-03-02 06:43:05.668 -0500
+Alabama,Washington County,1129,2026-03-02 06:43:05.668 -0500
+Alabama,Wilcox County,1131,2026-03-02 06:43:05.668 -0500
+Alabama,Winston County,1133,2026-03-02 06:43:05.668 -0500
+Alaska,Aleutians East Borough,2013,2026-03-02 06:43:05.668 -0500
+Alaska,Aleutians West Census Area,2016,2026-03-02 06:43:05.668 -0500
+Alaska,Anchorage Municipality,2020,2026-03-02 06:43:05.668 -0500
+Alaska,Bethel Census Area,2050,2026-03-02 06:43:05.668 -0500
+Alaska,Bristol Bay Borough,2060,2026-03-02 06:43:05.668 -0500
+Alaska,Chugach Census Area,2063,2026-03-02 06:43:05.668 -0500
+Alaska,Copper River Census Area,2066,2026-03-02 06:43:05.668 -0500
+Alaska,Denali Borough,2068,2026-03-02 06:43:05.668 -0500
+Alaska,Dillingham Census Area,2070,2026-03-02 06:43:05.668 -0500
+Alaska,Fairbanks North Star Borough,2090,2026-03-02 06:43:05.668 -0500
+Alaska,Haines Borough,2100,2026-03-02 06:43:05.668 -0500
+Alaska,Hoonah-Angoon Census Area,2105,2026-03-02 06:43:05.668 -0500
+Alaska,Juneau City and Borough,2110,2026-03-02 06:43:05.668 -0500
+Alaska,Kenai Peninsula Borough,2122,2026-03-02 06:43:05.668 -0500
+Alaska,Ketchikan Gateway Borough,2130,2026-03-02 06:43:05.668 -0500
+Alaska,Kodiak Island Borough,2150,2026-03-02 06:43:05.668 -0500
+Alaska,Kusilvak Census Area,2158,2026-03-02 06:43:05.668 -0500
+Alaska,Lake and Peninsula Borough,2164,2026-03-02 06:43:05.668 -0500
+Alaska,Matanuska-Susitna Borough,2170,2026-03-02 06:43:05.668 -0500
+Alaska,Nome Census Area,2180,2026-03-02 06:43:05.668 -0500
+Alaska,North Slope Borough,2185,2026-03-02 06:43:05.668 -0500
+Alaska,Northwest Arctic Borough,2188,2026-03-02 06:43:05.668 -0500
+Alaska,Other County,2000,2026-03-02 06:43:05.668 -0500
+Alaska,Petersburg Borough,2195,2026-03-02 06:43:05.668 -0500
+Alaska,Prince of Wales-Hyder Census Area,2198,2026-03-02 06:43:05.668 -0500
+Alaska,Sitka City and Borough,2220,2026-03-02 06:43:05.668 -0500
+Alaska,Skagway Municipality,2230,2026-03-02 06:43:05.668 -0500
+Alaska,Southeast Fairbanks Census Area,2240,2026-03-02 06:43:05.668 -0500
+Alaska,Wrangell City and Borough,2275,2026-03-02 06:43:05.668 -0500
+Alaska,Yakutat City and Borough,2282,2026-03-02 06:43:05.668 -0500
+Alaska,Yukon-Koyukuk Census Area,2290,2026-03-02 06:43:05.668 -0500
+Arizona,Apache County,4001,2026-03-02 06:43:05.668 -0500
+Arizona,Cochise County,4003,2026-03-02 06:43:05.668 -0500
+Arizona,Coconino County,4005,2026-03-02 06:43:05.668 -0500
+Arizona,Gila County,4007,2026-03-02 06:43:05.668 -0500
+Arizona,Graham County,4009,2026-03-02 06:43:05.668 -0500
+Arizona,Greenlee County,4011,2026-03-02 06:43:05.668 -0500
+Arizona,La Paz County,4012,2026-03-02 06:43:05.668 -0500
+Arizona,Maricopa County,4013,2026-03-02 06:43:05.668 -0500
+Arizona,Mohave County,4015,2026-03-02 06:43:05.668 -0500
+Arizona,Navajo County,4017,2026-03-02 06:43:05.668 -0500
+Arizona,Other County,4000,2026-03-02 06:43:05.668 -0500
+Arizona,Pima County,4019,2026-03-02 06:43:05.668 -0500
+Arizona,Pinal County,4021,2026-03-02 06:43:05.668 -0500
+Arizona,Santa Cruz County,4023,2026-03-02 06:43:05.668 -0500
+Arizona,Yavapai County,4025,2026-03-02 06:43:05.668 -0500
+Arizona,Yuma County,4027,2026-03-02 06:43:05.668 -0500
+Arkansas,Arkansas County,5001,2026-03-02 06:43:05.668 -0500
+Arkansas,Ashley County,5003,2026-03-02 06:43:05.668 -0500
+Arkansas,Baxter County,5005,2026-03-02 06:43:05.668 -0500
+Arkansas,Benton County,5007,2026-03-02 06:43:05.668 -0500
+Arkansas,Boone County,5009,2026-03-02 06:43:05.668 -0500
+Arkansas,Bradley County,5011,2026-03-02 06:43:05.668 -0500
+Arkansas,Calhoun County,5013,2026-03-02 06:43:05.668 -0500
+Arkansas,Carroll County,5015,2026-03-02 06:43:05.668 -0500
+Arkansas,Chicot County,5017,2026-03-02 06:43:05.668 -0500
+Arkansas,Clark County,5019,2026-03-02 06:43:05.668 -0500
+Arkansas,Clay County,5021,2026-03-02 06:43:05.668 -0500
+Arkansas,Cleburne County,5023,2026-03-02 06:43:05.668 -0500
+Arkansas,Cleveland County,5025,2026-03-02 06:43:05.668 -0500
+Arkansas,Columbia County,5027,2026-03-02 06:43:05.668 -0500
+Arkansas,Conway County,5029,2026-03-02 06:43:05.668 -0500
+Arkansas,Craighead County,5031,2026-03-02 06:43:05.668 -0500
+Arkansas,Crawford County,5033,2026-03-02 06:43:05.668 -0500
+Arkansas,Crittenden County,5035,2026-03-02 06:43:05.668 -0500
+Arkansas,Cross County,5037,2026-03-02 06:43:05.668 -0500
+Arkansas,Dallas County,5039,2026-03-02 06:43:05.668 -0500
+Arkansas,Desha County,5041,2026-03-02 06:43:05.668 -0500
+Arkansas,Drew County,5043,2026-03-02 06:43:05.668 -0500
+Arkansas,Faulkner County,5045,2026-03-02 06:43:05.668 -0500
+Arkansas,Franklin County,5047,2026-03-02 06:43:05.668 -0500
+Arkansas,Fulton County,5049,2026-03-02 06:43:05.668 -0500
+Arkansas,Garland County,5051,2026-03-02 06:43:05.668 -0500
+Arkansas,Grant County,5053,2026-03-02 06:43:05.668 -0500
+Arkansas,Greene County,5055,2026-03-02 06:43:05.668 -0500
+Arkansas,Hempstead County,5057,2026-03-02 06:43:05.668 -0500
+Arkansas,Hot Spring County,5059,2026-03-02 06:43:05.668 -0500
+Arkansas,Howard County,5061,2026-03-02 06:43:05.668 -0500
+Arkansas,Independence County,5063,2026-03-02 06:43:05.668 -0500
+Arkansas,Izard County,5065,2026-03-02 06:43:05.668 -0500
+Arkansas,Jackson County,5067,2026-03-02 06:43:05.668 -0500
+Arkansas,Jefferson County,5069,2026-03-02 06:43:05.668 -0500
+Arkansas,Johnson County,5071,2026-03-02 06:43:05.668 -0500
+Arkansas,Lafayette County,5073,2026-03-02 06:43:05.668 -0500
+Arkansas,Lawrence County,5075,2026-03-02 06:43:05.668 -0500
+Arkansas,Lee County,5077,2026-03-02 06:43:05.668 -0500
+Arkansas,Lincoln County,5079,2026-03-02 06:43:05.668 -0500
+Arkansas,Little River County,5081,2026-03-02 06:43:05.668 -0500
+Arkansas,Logan County,5083,2026-03-02 06:43:05.668 -0500
+Arkansas,Lonoke County,5085,2026-03-02 06:43:05.668 -0500
+Arkansas,Madison County,5087,2026-03-02 06:43:05.668 -0500
+Arkansas,Marion County,5089,2026-03-02 06:43:05.668 -0500
+Arkansas,Miller County,5091,2026-03-02 06:43:05.668 -0500
+Arkansas,Mississippi County,5093,2026-03-02 06:43:05.668 -0500
+Arkansas,Monroe County,5095,2026-03-02 06:43:05.668 -0500
+Arkansas,Montgomery County,5097,2026-03-02 06:43:05.668 -0500
+Arkansas,Nevada County,5099,2026-03-02 06:43:05.668 -0500
+Arkansas,Newton County,5101,2026-03-02 06:43:05.668 -0500
+Arkansas,Other County,5000,2026-03-02 06:43:05.668 -0500
+Arkansas,Ouachita County,5103,2026-03-02 06:43:05.668 -0500
+Arkansas,Perry County,5105,2026-03-02 06:43:05.668 -0500
+Arkansas,Phillips County,5107,2026-03-02 06:43:05.668 -0500
+Arkansas,Pike County,5109,2026-03-02 06:43:05.668 -0500
+Arkansas,Poinsett County,5111,2026-03-02 06:43:05.668 -0500
+Arkansas,Polk County,5113,2026-03-02 06:43:05.668 -0500
+Arkansas,Pope County,5115,2026-03-02 06:43:05.668 -0500
+Arkansas,Prairie County,5117,2026-03-02 06:43:05.668 -0500
+Arkansas,Pulaski County,5119,2026-03-02 06:43:05.668 -0500
+Arkansas,Randolph County,5121,2026-03-02 06:43:05.668 -0500
+Arkansas,Saline County,5125,2026-03-02 06:43:05.668 -0500
+Arkansas,Scott County,5127,2026-03-02 06:43:05.668 -0500
+Arkansas,Searcy County,5129,2026-03-02 06:43:05.668 -0500
+Arkansas,Sebastian County,5131,2026-03-02 06:43:05.668 -0500
+Arkansas,Sevier County,5133,2026-03-02 06:43:05.668 -0500
+Arkansas,Sharp County,5135,2026-03-02 06:43:05.668 -0500
+Arkansas,St. Francis County,5123,2026-03-02 06:43:05.668 -0500
+Arkansas,Stone County,5137,2026-03-02 06:43:05.668 -0500
+Arkansas,Union County,5139,2026-03-02 06:43:05.668 -0500
+Arkansas,Van Buren County,5141,2026-03-02 06:43:05.668 -0500
+Arkansas,Washington County,5143,2026-03-02 06:43:05.668 -0500
+Arkansas,White County,5145,2026-03-02 06:43:05.668 -0500
+Arkansas,Woodruff County,5147,2026-03-02 06:43:05.668 -0500
+Arkansas,Yell County,5149,2026-03-02 06:43:05.668 -0500
+California,Alameda County,6001,2026-03-02 06:43:05.668 -0500
+California,Alpine County,6003,2026-03-02 06:43:05.668 -0500
+California,Amador County,6005,2026-03-02 06:43:05.668 -0500
+California,Butte County,6007,2026-03-02 06:43:05.668 -0500
+California,Calaveras County,6009,2026-03-02 06:43:05.668 -0500
+California,Colusa County,6011,2026-03-02 06:43:05.668 -0500
+California,Contra Costa County,6013,2026-03-02 06:43:05.668 -0500
+California,Del Norte County,6015,2026-03-02 06:43:05.668 -0500
+California,El Dorado County,6017,2026-03-02 06:43:05.668 -0500
+California,Fresno County,6019,2026-03-02 06:43:05.668 -0500
+California,Glenn County,6021,2026-03-02 06:43:05.668 -0500
+California,Humboldt County,6023,2026-03-02 06:43:05.668 -0500
+California,Imperial County,6025,2026-03-02 06:43:05.668 -0500
+California,Inyo County,6027,2026-03-02 06:43:05.668 -0500
+California,Kern County,6029,2026-03-02 06:43:05.668 -0500
+California,Kings County,6031,2026-03-02 06:43:05.668 -0500
+California,Lake County,6033,2026-03-02 06:43:05.668 -0500
+California,Lassen County,6035,2026-03-02 06:43:05.668 -0500
+California,Los Angeles County,6037,2026-03-02 06:43:05.668 -0500
+California,Madera County,6039,2026-03-02 06:43:05.668 -0500
+California,Marin County,6041,2026-03-02 06:43:05.668 -0500
+California,Mariposa County,6043,2026-03-02 06:43:05.668 -0500
+California,Mendocino County,6045,2026-03-02 06:43:05.668 -0500
+California,Merced County,6047,2026-03-02 06:43:05.668 -0500
+California,Modoc County,6049,2026-03-02 06:43:05.668 -0500
+California,Mono County,6051,2026-03-02 06:43:05.668 -0500
+California,Monterey County,6053,2026-03-02 06:43:05.668 -0500
+California,Napa County,6055,2026-03-02 06:43:05.668 -0500
+California,Nevada County,6057,2026-03-02 06:43:05.668 -0500
+California,Orange County,6059,2026-03-02 06:43:05.668 -0500
+California,Other County,6000,2026-03-02 06:43:05.668 -0500
+California,Placer County,6061,2026-03-02 06:43:05.668 -0500
+California,Plumas County,6063,2026-03-02 06:43:05.668 -0500
+California,Riverside County,6065,2026-03-02 06:43:05.668 -0500
+California,Sacramento County,6067,2026-03-02 06:43:05.668 -0500
+California,San Benito County,6069,2026-03-02 06:43:05.668 -0500
+California,San Bernardino County,6071,2026-03-02 06:43:05.668 -0500
+California,San Diego County,6073,2026-03-02 06:43:05.668 -0500
+California,San Francisco County,6075,2026-03-02 06:43:05.668 -0500
+California,San Joaquin County,6077,2026-03-02 06:43:05.668 -0500
+California,San Luis Obispo County,6079,2026-03-02 06:43:05.668 -0500
+California,San Mateo County,6081,2026-03-02 06:43:05.668 -0500
+California,Santa Barbara County,6083,2026-03-02 06:43:05.668 -0500
+California,Santa Clara County,6085,2026-03-02 06:43:05.668 -0500
+California,Santa Cruz County,6087,2026-03-02 06:43:05.668 -0500
+California,Shasta County,6089,2026-03-02 06:43:05.668 -0500
+California,Sierra County,6091,2026-03-02 06:43:05.668 -0500
+California,Siskiyou County,6093,2026-03-02 06:43:05.668 -0500
+California,Solano County,6095,2026-03-02 06:43:05.668 -0500
+California,Sonoma County,6097,2026-03-02 06:43:05.668 -0500
+California,Stanislaus County,6099,2026-03-02 06:43:05.668 -0500
+California,Sutter County,6101,2026-03-02 06:43:05.668 -0500
+California,Tehama County,6103,2026-03-02 06:43:05.668 -0500
+California,Trinity County,6105,2026-03-02 06:43:05.668 -0500
+California,Tulare County,6107,2026-03-02 06:43:05.668 -0500
+California,Tuolumne County,6109,2026-03-02 06:43:05.668 -0500
+California,Ventura County,6111,2026-03-02 06:43:05.668 -0500
+California,Yolo County,6113,2026-03-02 06:43:05.668 -0500
+California,Yuba County,6115,2026-03-02 06:43:05.668 -0500
+Colorado,Adams County,8001,2026-03-02 06:43:05.668 -0500
+Colorado,Alamosa County,8003,2026-03-02 06:43:05.668 -0500
+Colorado,Arapahoe County,8005,2026-03-02 06:43:05.668 -0500
+Colorado,Archuleta County,8007,2026-03-02 06:43:05.668 -0500
+Colorado,Baca County,8009,2026-03-02 06:43:05.668 -0500
+Colorado,Bent County,8011,2026-03-02 06:43:05.668 -0500
+Colorado,Boulder County,8013,2026-03-02 06:43:05.668 -0500
+Colorado,Broomfield County,8014,2026-03-02 06:43:05.668 -0500
+Colorado,Chaffee County,8015,2026-03-02 06:43:05.668 -0500
+Colorado,Cheyenne County,8017,2026-03-02 06:43:05.668 -0500
+Colorado,Clear Creek County,8019,2026-03-02 06:43:05.668 -0500
+Colorado,Conejos County,8021,2026-03-02 06:43:05.668 -0500
+Colorado,Costilla County,8023,2026-03-02 06:43:05.668 -0500
+Colorado,Crowley County,8025,2026-03-02 06:43:05.668 -0500
+Colorado,Custer County,8027,2026-03-02 06:43:05.668 -0500
+Colorado,Delta County,8029,2026-03-02 06:43:05.668 -0500
+Colorado,Denver County,8031,2026-03-02 06:43:05.668 -0500
+Colorado,Dolores County,8033,2026-03-02 06:43:05.668 -0500
+Colorado,Douglas County,8035,2026-03-02 06:43:05.668 -0500
+Colorado,Eagle County,8037,2026-03-02 06:43:05.668 -0500
+Colorado,El Paso County,8041,2026-03-02 06:43:05.668 -0500
+Colorado,Elbert County,8039,2026-03-02 06:43:05.668 -0500
+Colorado,Fremont County,8043,2026-03-02 06:43:05.668 -0500
+Colorado,Garfield County,8045,2026-03-02 06:43:05.668 -0500
+Colorado,Gilpin County,8047,2026-03-02 06:43:05.668 -0500
+Colorado,Grand County,8049,2026-03-02 06:43:05.668 -0500
+Colorado,Gunnison County,8051,2026-03-02 06:43:05.668 -0500
+Colorado,Hinsdale County,8053,2026-03-02 06:43:05.668 -0500
+Colorado,Huerfano County,8055,2026-03-02 06:43:05.668 -0500
+Colorado,Jackson County,8057,2026-03-02 06:43:05.668 -0500
+Colorado,Jefferson County,8059,2026-03-02 06:43:05.668 -0500
+Colorado,Kiowa County,8061,2026-03-02 06:43:05.668 -0500
+Colorado,Kit Carson County,8063,2026-03-02 06:43:05.668 -0500
+Colorado,La Plata County,8067,2026-03-02 06:43:05.668 -0500
+Colorado,Lake County,8065,2026-03-02 06:43:05.668 -0500
+Colorado,Larimer County,8069,2026-03-02 06:43:05.668 -0500
+Colorado,Las Animas County,8071,2026-03-02 06:43:05.668 -0500
+Colorado,Lincoln County,8073,2026-03-02 06:43:05.668 -0500
+Colorado,Logan County,8075,2026-03-02 06:43:05.668 -0500
+Colorado,Mesa County,8077,2026-03-02 06:43:05.668 -0500
+Colorado,Mineral County,8079,2026-03-02 06:43:05.668 -0500
+Colorado,Moffat County,8081,2026-03-02 06:43:05.668 -0500
+Colorado,Montezuma County,8083,2026-03-02 06:43:05.668 -0500
+Colorado,Montrose County,8085,2026-03-02 06:43:05.668 -0500
+Colorado,Morgan County,8087,2026-03-02 06:43:05.668 -0500
+Colorado,Otero County,8089,2026-03-02 06:43:05.668 -0500
+Colorado,Other County,8000,2026-03-02 06:43:05.668 -0500
+Colorado,Ouray County,8091,2026-03-02 06:43:05.668 -0500
+Colorado,Park County,8093,2026-03-02 06:43:05.668 -0500
+Colorado,Phillips County,8095,2026-03-02 06:43:05.668 -0500
+Colorado,Pitkin County,8097,2026-03-02 06:43:05.668 -0500
+Colorado,Prowers County,8099,2026-03-02 06:43:05.668 -0500
+Colorado,Pueblo County,8101,2026-03-02 06:43:05.668 -0500
+Colorado,Rio Blanco County,8103,2026-03-02 06:43:05.668 -0500
+Colorado,Rio Grande County,8105,2026-03-02 06:43:05.668 -0500
+Colorado,Routt County,8107,2026-03-02 06:43:05.668 -0500
+Colorado,Saguache County,8109,2026-03-02 06:43:05.668 -0500
+Colorado,San Juan County,8111,2026-03-02 06:43:05.668 -0500
+Colorado,San Miguel County,8113,2026-03-02 06:43:05.668 -0500
+Colorado,Sedgwick County,8115,2026-03-02 06:43:05.668 -0500
+Colorado,Summit County,8117,2026-03-02 06:43:05.668 -0500
+Colorado,Teller County,8119,2026-03-02 06:43:05.668 -0500
+Colorado,Washington County,8121,2026-03-02 06:43:05.668 -0500
+Colorado,Weld County,8123,2026-03-02 06:43:05.668 -0500
+Colorado,Yuma County,8125,2026-03-02 06:43:05.668 -0500
+Connecticut,Fairfield County,9001,2026-03-02 06:43:05.668 -0500
+Connecticut,Hartford County,9003,2026-03-02 06:43:05.668 -0500
+Connecticut,Litchfield County,9005,2026-03-02 06:43:05.668 -0500
+Connecticut,Middlesex County,9007,2026-03-02 06:43:05.668 -0500
+Connecticut,New Haven County,9009,2026-03-02 06:43:05.668 -0500
+Connecticut,New London County,9011,2026-03-02 06:43:05.668 -0500
+Connecticut,Other County,9000,2026-03-02 06:43:05.668 -0500
+Connecticut,Tolland County,9013,2026-03-02 06:43:05.668 -0500
+Connecticut,Windham County,9015,2026-03-02 06:43:05.668 -0500
+Delaware,Kent County,10001,2026-03-02 06:43:05.668 -0500
+Delaware,New Castle County,10003,2026-03-02 06:43:05.668 -0500
+Delaware,Other County,10000,2026-03-02 06:43:05.668 -0500
+Delaware,Sussex County,10005,2026-03-02 06:43:05.668 -0500
+District of Columbia,District of Columbia County,11001,2026-03-02 06:43:05.668 -0500
+Florida,Alachua County,12001,2026-03-02 06:43:05.668 -0500
+Florida,Baker County,12003,2026-03-02 06:43:05.668 -0500
+Florida,Bay County,12005,2026-03-02 06:43:05.668 -0500
+Florida,Bradford County,12007,2026-03-02 06:43:05.668 -0500
+Florida,Brevard County,12009,2026-03-02 06:43:05.668 -0500
+Florida,Broward County,12011,2026-03-02 06:43:05.668 -0500
+Florida,Calhoun County,12013,2026-03-02 06:43:05.668 -0500
+Florida,Charlotte County,12015,2026-03-02 06:43:05.668 -0500
+Florida,Citrus County,12017,2026-03-02 06:43:05.668 -0500
+Florida,Clay County,12019,2026-03-02 06:43:05.668 -0500
+Florida,Collier County,12021,2026-03-02 06:43:05.668 -0500
+Florida,Columbia County,12023,2026-03-02 06:43:05.668 -0500
+Florida,DeSoto County,12027,2026-03-02 06:43:05.668 -0500
+Florida,Dixie County,12029,2026-03-02 06:43:05.668 -0500
+Florida,Duval County,12031,2026-03-02 06:43:05.668 -0500
+Florida,Escambia County,12033,2026-03-02 06:43:05.668 -0500
+Florida,Flagler County,12035,2026-03-02 06:43:05.668 -0500
+Florida,Franklin County,12037,2026-03-02 06:43:05.668 -0500
+Florida,Gadsden County,12039,2026-03-02 06:43:05.668 -0500
+Florida,Gilchrist County,12041,2026-03-02 06:43:05.668 -0500
+Florida,Glades County,12043,2026-03-02 06:43:05.668 -0500
+Florida,Gulf County,12045,2026-03-02 06:43:05.668 -0500
+Florida,Hamilton County,12047,2026-03-02 06:43:05.668 -0500
+Florida,Hardee County,12049,2026-03-02 06:43:05.668 -0500
+Florida,Hendry County,12051,2026-03-02 06:43:05.668 -0500
+Florida,Hernando County,12053,2026-03-02 06:43:05.668 -0500
+Florida,Highlands County,12055,2026-03-02 06:43:05.668 -0500
+Florida,Hillsborough County,12057,2026-03-02 06:43:05.668 -0500
+Florida,Holmes County,12059,2026-03-02 06:43:05.668 -0500
+Florida,Indian River County,12061,2026-03-02 06:43:05.668 -0500
+Florida,Jackson County,12063,2026-03-02 06:43:05.668 -0500
+Florida,Jefferson County,12065,2026-03-02 06:43:05.668 -0500
+Florida,Lafayette County,12067,2026-03-02 06:43:05.668 -0500
+Florida,Lake County,12069,2026-03-02 06:43:05.668 -0500
+Florida,Lee County,12071,2026-03-02 06:43:05.668 -0500
+Florida,Leon County,12073,2026-03-02 06:43:05.668 -0500
+Florida,Levy County,12075,2026-03-02 06:43:05.668 -0500
+Florida,Liberty County,12077,2026-03-02 06:43:05.668 -0500
+Florida,Madison County,12079,2026-03-02 06:43:05.668 -0500
+Florida,Manatee County,12081,2026-03-02 06:43:05.668 -0500
+Florida,Marion County,12083,2026-03-02 06:43:05.668 -0500
+Florida,Martin County,12085,2026-03-02 06:43:05.668 -0500
+Florida,Miami-Dade County,12086,2026-03-02 06:43:05.668 -0500
+Florida,Monroe County,12087,2026-03-02 06:43:05.668 -0500
+Florida,Nassau County,12089,2026-03-02 06:43:05.668 -0500
+Florida,Okaloosa County,12091,2026-03-02 06:43:05.668 -0500
+Florida,Okeechobee County,12093,2026-03-02 06:43:05.668 -0500
+Florida,Orange County,12095,2026-03-02 06:43:05.668 -0500
+Florida,Osceola County,12097,2026-03-02 06:43:05.668 -0500
+Florida,Other County,12000,2026-03-02 06:43:05.668 -0500
+Florida,Palm Beach County,12099,2026-03-02 06:43:05.668 -0500
+Florida,Pasco County,12101,2026-03-02 06:43:05.668 -0500
+Florida,Pinellas County,12103,2026-03-02 06:43:05.668 -0500
+Florida,Polk County,12105,2026-03-02 06:43:05.668 -0500
+Florida,Putnam County,12107,2026-03-02 06:43:05.668 -0500
+Florida,Santa Rosa County,12113,2026-03-02 06:43:05.668 -0500
+Florida,Sarasota County,12115,2026-03-02 06:43:05.668 -0500
+Florida,Seminole County,12117,2026-03-02 06:43:05.668 -0500
+Florida,St. Johns County,12109,2026-03-02 06:43:05.668 -0500
+Florida,St. Lucie County,12111,2026-03-02 06:43:05.668 -0500
+Florida,Sumter County,12119,2026-03-02 06:43:05.668 -0500
+Florida,Suwannee County,12121,2026-03-02 06:43:05.668 -0500
+Florida,Taylor County,12123,2026-03-02 06:43:05.668 -0500
+Florida,Union County,12125,2026-03-02 06:43:05.668 -0500
+Florida,Volusia County,12127,2026-03-02 06:43:05.668 -0500
+Florida,Wakulla County,12129,2026-03-02 06:43:05.668 -0500
+Florida,Walton County,12131,2026-03-02 06:43:05.668 -0500
+Florida,Washington County,12133,2026-03-02 06:43:05.668 -0500
+Georgia,Appling County,13001,2026-03-02 06:43:05.668 -0500
+Georgia,Atkinson County,13003,2026-03-02 06:43:05.668 -0500
+Georgia,Bacon County,13005,2026-03-02 06:43:05.668 -0500
+Georgia,Baker County,13007,2026-03-02 06:43:05.668 -0500
+Georgia,Baldwin County,13009,2026-03-02 06:43:05.668 -0500
+Georgia,Banks County,13011,2026-03-02 06:43:05.668 -0500
+Georgia,Barrow County,13013,2026-03-02 06:43:05.668 -0500
+Georgia,Bartow County,13015,2026-03-02 06:43:05.668 -0500
+Georgia,Ben Hill County,13017,2026-03-02 06:43:05.668 -0500
+Georgia,Berrien County,13019,2026-03-02 06:43:05.668 -0500
+Georgia,Bibb County,13021,2026-03-02 06:43:05.668 -0500
+Georgia,Bleckley County,13023,2026-03-02 06:43:05.668 -0500
+Georgia,Brantley County,13025,2026-03-02 06:43:05.668 -0500
+Georgia,Brooks County,13027,2026-03-02 06:43:05.668 -0500
+Georgia,Bryan County,13029,2026-03-02 06:43:05.668 -0500
+Georgia,Bulloch County,13031,2026-03-02 06:43:05.668 -0500
+Georgia,Burke County,13033,2026-03-02 06:43:05.668 -0500
+Georgia,Butts County,13035,2026-03-02 06:43:05.668 -0500
+Georgia,Calhoun County,13037,2026-03-02 06:43:05.668 -0500
+Georgia,Camden County,13039,2026-03-02 06:43:05.668 -0500
+Georgia,Candler County,13043,2026-03-02 06:43:05.668 -0500
+Georgia,Carroll County,13045,2026-03-02 06:43:05.668 -0500
+Georgia,Catoosa County,13047,2026-03-02 06:43:05.668 -0500
+Georgia,Charlton County,13049,2026-03-02 06:43:05.668 -0500
+Georgia,Chatham County,13051,2026-03-02 06:43:05.668 -0500
+Georgia,Chattahoochee County,13053,2026-03-02 06:43:05.668 -0500
+Georgia,Chattooga County,13055,2026-03-02 06:43:05.668 -0500
+Georgia,Cherokee County,13057,2026-03-02 06:43:05.668 -0500
+Georgia,Clarke County,13059,2026-03-02 06:43:05.668 -0500
+Georgia,Clay County,13061,2026-03-02 06:43:05.668 -0500
+Georgia,Clayton County,13063,2026-03-02 06:43:05.668 -0500
+Georgia,Clinch County,13065,2026-03-02 06:43:05.668 -0500
+Georgia,Cobb County,13067,2026-03-02 06:43:05.668 -0500
+Georgia,Coffee County,13069,2026-03-02 06:43:05.668 -0500
+Georgia,Colquitt County,13071,2026-03-02 06:43:05.668 -0500
+Georgia,Columbia County,13073,2026-03-02 06:43:05.668 -0500
+Georgia,Cook County,13075,2026-03-02 06:43:05.668 -0500
+Georgia,Coweta County,13077,2026-03-02 06:43:05.668 -0500
+Georgia,Crawford County,13079,2026-03-02 06:43:05.668 -0500
+Georgia,Crisp County,13081,2026-03-02 06:43:05.668 -0500
+Georgia,Dade County,13083,2026-03-02 06:43:05.668 -0500
+Georgia,Dawson County,13085,2026-03-02 06:43:05.668 -0500
+Georgia,DeKalb County,13089,2026-03-02 06:43:05.668 -0500
+Georgia,Decatur County,13087,2026-03-02 06:43:05.668 -0500
+Georgia,Dodge County,13091,2026-03-02 06:43:05.668 -0500
+Georgia,Dooly County,13093,2026-03-02 06:43:05.668 -0500
+Georgia,Dougherty County,13095,2026-03-02 06:43:05.668 -0500
+Georgia,Douglas County,13097,2026-03-02 06:43:05.668 -0500
+Georgia,Early County,13099,2026-03-02 06:43:05.668 -0500
+Georgia,Echols County,13101,2026-03-02 06:43:05.668 -0500
+Georgia,Effingham County,13103,2026-03-02 06:43:05.668 -0500
+Georgia,Elbert County,13105,2026-03-02 06:43:05.668 -0500
+Georgia,Emanuel County,13107,2026-03-02 06:43:05.668 -0500
+Georgia,Evans County,13109,2026-03-02 06:43:05.668 -0500
+Georgia,Fannin County,13111,2026-03-02 06:43:05.668 -0500
+Georgia,Fayette County,13113,2026-03-02 06:43:05.668 -0500
+Georgia,Floyd County,13115,2026-03-02 06:43:05.668 -0500
+Georgia,Forsyth County,13117,2026-03-02 06:43:05.668 -0500
+Georgia,Franklin County,13119,2026-03-02 06:43:05.668 -0500
+Georgia,Fulton County,13121,2026-03-02 06:43:05.668 -0500
+Georgia,Gilmer County,13123,2026-03-02 06:43:05.668 -0500
+Georgia,Glascock County,13125,2026-03-02 06:43:05.668 -0500
+Georgia,Glynn County,13127,2026-03-02 06:43:05.668 -0500
+Georgia,Gordon County,13129,2026-03-02 06:43:05.668 -0500
+Georgia,Grady County,13131,2026-03-02 06:43:05.668 -0500
+Georgia,Greene County,13133,2026-03-02 06:43:05.668 -0500
+Georgia,Gwinnett County,13135,2026-03-02 06:43:05.668 -0500
+Georgia,Habersham County,13137,2026-03-02 06:43:05.668 -0500
+Georgia,Hall County,13139,2026-03-02 06:43:05.668 -0500
+Georgia,Hancock County,13141,2026-03-02 06:43:05.668 -0500
+Georgia,Haralson County,13143,2026-03-02 06:43:05.668 -0500
+Georgia,Harris County,13145,2026-03-02 06:43:05.668 -0500
+Georgia,Hart County,13147,2026-03-02 06:43:05.668 -0500
+Georgia,Heard County,13149,2026-03-02 06:43:05.668 -0500
+Georgia,Henry County,13151,2026-03-02 06:43:05.668 -0500
+Georgia,Houston County,13153,2026-03-02 06:43:05.668 -0500
+Georgia,Irwin County,13155,2026-03-02 06:43:05.668 -0500
+Georgia,Jackson County,13157,2026-03-02 06:43:05.668 -0500
+Georgia,Jasper County,13159,2026-03-02 06:43:05.668 -0500
+Georgia,Jeff Davis County,13161,2026-03-02 06:43:05.668 -0500
+Georgia,Jefferson County,13163,2026-03-02 06:43:05.668 -0500
+Georgia,Jenkins County,13165,2026-03-02 06:43:05.668 -0500
+Georgia,Johnson County,13167,2026-03-02 06:43:05.668 -0500
+Georgia,Jones County,13169,2026-03-02 06:43:05.668 -0500
+Georgia,Lamar County,13171,2026-03-02 06:43:05.668 -0500
+Georgia,Lanier County,13173,2026-03-02 06:43:05.668 -0500
+Georgia,Laurens County,13175,2026-03-02 06:43:05.668 -0500
+Georgia,Lee County,13177,2026-03-02 06:43:05.668 -0500
+Georgia,Liberty County,13179,2026-03-02 06:43:05.668 -0500
+Georgia,Lincoln County,13181,2026-03-02 06:43:05.668 -0500
+Georgia,Long County,13183,2026-03-02 06:43:05.668 -0500
+Georgia,Lowndes County,13185,2026-03-02 06:43:05.668 -0500
+Georgia,Lumpkin County,13187,2026-03-02 06:43:05.668 -0500
+Georgia,Macon County,13193,2026-03-02 06:43:05.668 -0500
+Georgia,Madison County,13195,2026-03-02 06:43:05.668 -0500
+Georgia,Marion County,13197,2026-03-02 06:43:05.668 -0500
+Georgia,McDuffie County,13189,2026-03-02 06:43:05.668 -0500
+Georgia,McIntosh County,13191,2026-03-02 06:43:05.668 -0500
+Georgia,Meriwether County,13199,2026-03-02 06:43:05.668 -0500
+Georgia,Miller County,13201,2026-03-02 06:43:05.668 -0500
+Georgia,Mitchell County,13205,2026-03-02 06:43:05.668 -0500
+Georgia,Monroe County,13207,2026-03-02 06:43:05.668 -0500
+Georgia,Montgomery County,13209,2026-03-02 06:43:05.668 -0500
+Georgia,Morgan County,13211,2026-03-02 06:43:05.668 -0500
+Georgia,Murray County,13213,2026-03-02 06:43:05.668 -0500
+Georgia,Muscogee County,13215,2026-03-02 06:43:05.668 -0500
+Georgia,Newton County,13217,2026-03-02 06:43:05.668 -0500
+Georgia,Oconee County,13219,2026-03-02 06:43:05.668 -0500
+Georgia,Oglethorpe County,13221,2026-03-02 06:43:05.668 -0500
+Georgia,Other County,13000,2026-03-02 06:43:05.668 -0500
+Georgia,Paulding County,13223,2026-03-02 06:43:05.668 -0500
+Georgia,Peach County,13225,2026-03-02 06:43:05.668 -0500
+Georgia,Pickens County,13227,2026-03-02 06:43:05.668 -0500
+Georgia,Pierce County,13229,2026-03-02 06:43:05.668 -0500
+Georgia,Pike County,13231,2026-03-02 06:43:05.668 -0500
+Georgia,Polk County,13233,2026-03-02 06:43:05.668 -0500
+Georgia,Pulaski County,13235,2026-03-02 06:43:05.668 -0500
+Georgia,Putnam County,13237,2026-03-02 06:43:05.668 -0500
+Georgia,Quitman County,13239,2026-03-02 06:43:05.668 -0500
+Georgia,Rabun County,13241,2026-03-02 06:43:05.668 -0500
+Georgia,Randolph County,13243,2026-03-02 06:43:05.668 -0500
+Georgia,Richmond County,13245,2026-03-02 06:43:05.668 -0500
+Georgia,Rockdale County,13247,2026-03-02 06:43:05.668 -0500
+Georgia,Schley County,13249,2026-03-02 06:43:05.668 -0500
+Georgia,Screven County,13251,2026-03-02 06:43:05.668 -0500
+Georgia,Seminole County,13253,2026-03-02 06:43:05.668 -0500
+Georgia,Spalding County,13255,2026-03-02 06:43:05.668 -0500
+Georgia,Stephens County,13257,2026-03-02 06:43:05.668 -0500
+Georgia,Stewart County,13259,2026-03-02 06:43:05.668 -0500
+Georgia,Sumter County,13261,2026-03-02 06:43:05.668 -0500
+Georgia,Talbot County,13263,2026-03-02 06:43:05.668 -0500
+Georgia,Taliaferro County,13265,2026-03-02 06:43:05.668 -0500
+Georgia,Tattnall County,13267,2026-03-02 06:43:05.668 -0500
+Georgia,Taylor County,13269,2026-03-02 06:43:05.668 -0500
+Georgia,Telfair County,13271,2026-03-02 06:43:05.668 -0500
+Georgia,Terrell County,13273,2026-03-02 06:43:05.668 -0500
+Georgia,Thomas County,13275,2026-03-02 06:43:05.668 -0500
+Georgia,Tift County,13277,2026-03-02 06:43:05.668 -0500
+Georgia,Toombs County,13279,2026-03-02 06:43:05.668 -0500
+Georgia,Towns County,13281,2026-03-02 06:43:05.668 -0500
+Georgia,Treutlen County,13283,2026-03-02 06:43:05.668 -0500
+Georgia,Troup County,13285,2026-03-02 06:43:05.668 -0500
+Georgia,Turner County,13287,2026-03-02 06:43:05.668 -0500
+Georgia,Twiggs County,13289,2026-03-02 06:43:05.668 -0500
+Georgia,Union County,13291,2026-03-02 06:43:05.668 -0500
+Georgia,Upson County,13293,2026-03-02 06:43:05.668 -0500
+Georgia,Walker County,13295,2026-03-02 06:43:05.668 -0500
+Georgia,Walton County,13297,2026-03-02 06:43:05.668 -0500
+Georgia,Ware County,13299,2026-03-02 06:43:05.668 -0500
+Georgia,Warren County,13301,2026-03-02 06:43:05.668 -0500
+Georgia,Washington County,13303,2026-03-02 06:43:05.668 -0500
+Georgia,Wayne County,13305,2026-03-02 06:43:05.668 -0500
+Georgia,Webster County,13307,2026-03-02 06:43:05.668 -0500
+Georgia,Wheeler County,13309,2026-03-02 06:43:05.668 -0500
+Georgia,White County,13311,2026-03-02 06:43:05.668 -0500
+Georgia,Whitfield County,13313,2026-03-02 06:43:05.668 -0500
+Georgia,Wilcox County,13315,2026-03-02 06:43:05.668 -0500
+Georgia,Wilkes County,13317,2026-03-02 06:43:05.668 -0500
+Georgia,Wilkinson County,13319,2026-03-02 06:43:05.668 -0500
+Georgia,Worth County,13321,2026-03-02 06:43:05.668 -0500
+Guam,Guam County,66010,2026-03-02 06:43:05.668 -0500
+Hawaii,Hawaii County,15001,2026-03-02 06:43:05.668 -0500
+Hawaii,Honolulu County,15003,2026-03-02 06:43:05.668 -0500
+Hawaii,Kalawao County,15005,2026-03-02 06:43:05.668 -0500
+Hawaii,Kauai County,15007,2026-03-02 06:43:05.668 -0500
+Hawaii,Maui County,15009,2026-03-02 06:43:05.668 -0500
+Hawaii,Other County,15000,2026-03-02 06:43:05.668 -0500
+Idaho,Ada County,16001,2026-03-02 06:43:05.668 -0500
+Idaho,Adams County,16003,2026-03-02 06:43:05.668 -0500
+Idaho,Bannock County,16005,2026-03-02 06:43:05.668 -0500
+Idaho,Bear Lake County,16007,2026-03-02 06:43:05.668 -0500
+Idaho,Benewah County,16009,2026-03-02 06:43:05.668 -0500
+Idaho,Bingham County,16011,2026-03-02 06:43:05.668 -0500
+Idaho,Blaine County,16013,2026-03-02 06:43:05.668 -0500
+Idaho,Boise County,16015,2026-03-02 06:43:05.668 -0500
+Idaho,Bonner County,16017,2026-03-02 06:43:05.668 -0500
+Idaho,Bonneville County,16019,2026-03-02 06:43:05.668 -0500
+Idaho,Boundary County,16021,2026-03-02 06:43:05.668 -0500
+Idaho,Butte County,16023,2026-03-02 06:43:05.668 -0500
+Idaho,Camas County,16025,2026-03-02 06:43:05.668 -0500
+Idaho,Canyon County,16027,2026-03-02 06:43:05.668 -0500
+Idaho,Caribou County,16029,2026-03-02 06:43:05.668 -0500
+Idaho,Cassia County,16031,2026-03-02 06:43:05.668 -0500
+Idaho,Clark County,16033,2026-03-02 06:43:05.668 -0500
+Idaho,Clearwater County,16035,2026-03-02 06:43:05.668 -0500
+Idaho,Custer County,16037,2026-03-02 06:43:05.668 -0500
+Idaho,Elmore County,16039,2026-03-02 06:43:05.668 -0500
+Idaho,Franklin County,16041,2026-03-02 06:43:05.668 -0500
+Idaho,Fremont County,16043,2026-03-02 06:43:05.668 -0500
+Idaho,Gem County,16045,2026-03-02 06:43:05.668 -0500
+Idaho,Gooding County,16047,2026-03-02 06:43:05.668 -0500
+Idaho,Idaho County,16049,2026-03-02 06:43:05.668 -0500
+Idaho,Jefferson County,16051,2026-03-02 06:43:05.668 -0500
+Idaho,Jerome County,16053,2026-03-02 06:43:05.668 -0500
+Idaho,Kootenai County,16055,2026-03-02 06:43:05.668 -0500
+Idaho,Latah County,16057,2026-03-02 06:43:05.668 -0500
+Idaho,Lemhi County,16059,2026-03-02 06:43:05.668 -0500
+Idaho,Lewis County,16061,2026-03-02 06:43:05.668 -0500
+Idaho,Lincoln County,16063,2026-03-02 06:43:05.668 -0500
+Idaho,Madison County,16065,2026-03-02 06:43:05.668 -0500
+Idaho,Minidoka County,16067,2026-03-02 06:43:05.668 -0500
+Idaho,Nez Perce County,16069,2026-03-02 06:43:05.668 -0500
+Idaho,Oneida County,16071,2026-03-02 06:43:05.668 -0500
+Idaho,Other County,16000,2026-03-02 06:43:05.668 -0500
+Idaho,Owyhee County,16073,2026-03-02 06:43:05.668 -0500
+Idaho,Payette County,16075,2026-03-02 06:43:05.668 -0500
+Idaho,Power County,16077,2026-03-02 06:43:05.668 -0500
+Idaho,Shoshone County,16079,2026-03-02 06:43:05.668 -0500
+Idaho,Teton County,16081,2026-03-02 06:43:05.668 -0500
+Idaho,Twin Falls County,16083,2026-03-02 06:43:05.668 -0500
+Idaho,Valley County,16085,2026-03-02 06:43:05.668 -0500
+Idaho,Washington County,16087,2026-03-02 06:43:05.668 -0500
+Illinois,Adams County,17001,2026-03-02 06:43:05.668 -0500
+Illinois,Alexander County,17003,2026-03-02 06:43:05.668 -0500
+Illinois,Bond County,17005,2026-03-02 06:43:05.668 -0500
+Illinois,Boone County,17007,2026-03-02 06:43:05.668 -0500
+Illinois,Brown County,17009,2026-03-02 06:43:05.668 -0500
+Illinois,Bureau County,17011,2026-03-02 06:43:05.668 -0500
+Illinois,Calhoun County,17013,2026-03-02 06:43:05.668 -0500
+Illinois,Carroll County,17015,2026-03-02 06:43:05.668 -0500
+Illinois,Cass County,17017,2026-03-02 06:43:05.668 -0500
+Illinois,Champaign County,17019,2026-03-02 06:43:05.668 -0500
+Illinois,Christian County,17021,2026-03-02 06:43:05.668 -0500
+Illinois,Clark County,17023,2026-03-02 06:43:05.668 -0500
+Illinois,Clay County,17025,2026-03-02 06:43:05.668 -0500
+Illinois,Clinton County,17027,2026-03-02 06:43:05.668 -0500
+Illinois,Coles County,17029,2026-03-02 06:43:05.668 -0500
+Illinois,Cook County,17031,2026-03-02 06:43:05.668 -0500
+Illinois,Crawford County,17033,2026-03-02 06:43:05.668 -0500
+Illinois,Cumberland County,17035,2026-03-02 06:43:05.668 -0500
+Illinois,De Witt County,17039,2026-03-02 06:43:05.668 -0500
+Illinois,DeKalb County,17037,2026-03-02 06:43:05.668 -0500
+Illinois,Douglas County,17041,2026-03-02 06:43:05.668 -0500
+Illinois,DuPage County,17043,2026-03-02 06:43:05.668 -0500
+Illinois,Edgar County,17045,2026-03-02 06:43:05.668 -0500
+Illinois,Edwards County,17047,2026-03-02 06:43:05.668 -0500
+Illinois,Effingham County,17049,2026-03-02 06:43:05.668 -0500
+Illinois,Fayette County,17051,2026-03-02 06:43:05.668 -0500
+Illinois,Ford County,17053,2026-03-02 06:43:05.668 -0500
+Illinois,Franklin County,17055,2026-03-02 06:43:05.668 -0500
+Illinois,Fulton County,17057,2026-03-02 06:43:05.668 -0500
+Illinois,Gallatin County,17059,2026-03-02 06:43:05.668 -0500
+Illinois,Greene County,17061,2026-03-02 06:43:05.668 -0500
+Illinois,Grundy County,17063,2026-03-02 06:43:05.668 -0500
+Illinois,Hamilton County,17065,2026-03-02 06:43:05.668 -0500
+Illinois,Hancock County,17067,2026-03-02 06:43:05.668 -0500
+Illinois,Hardin County,17069,2026-03-02 06:43:05.668 -0500
+Illinois,Henderson County,17071,2026-03-02 06:43:05.668 -0500
+Illinois,Henry County,17073,2026-03-02 06:43:05.668 -0500
+Illinois,Iroquois County,17075,2026-03-02 06:43:05.668 -0500
+Illinois,Jackson County,17077,2026-03-02 06:43:05.668 -0500
+Illinois,Jasper County,17079,2026-03-02 06:43:05.668 -0500
+Illinois,Jefferson County,17081,2026-03-02 06:43:05.668 -0500
+Illinois,Jersey County,17083,2026-03-02 06:43:05.668 -0500
+Illinois,Jo Daviess County,17085,2026-03-02 06:43:05.668 -0500
+Illinois,Johnson County,17087,2026-03-02 06:43:05.668 -0500
+Illinois,Kane County,17089,2026-03-02 06:43:05.668 -0500
+Illinois,Kankakee County,17091,2026-03-02 06:43:05.668 -0500
+Illinois,Kendall County,17093,2026-03-02 06:43:05.668 -0500
+Illinois,Knox County,17095,2026-03-02 06:43:05.668 -0500
+Illinois,LaSalle County,17099,2026-03-02 06:43:05.668 -0500
+Illinois,Lake County,17097,2026-03-02 06:43:05.668 -0500
+Illinois,Lawrence County,17101,2026-03-02 06:43:05.668 -0500
+Illinois,Lee County,17103,2026-03-02 06:43:05.668 -0500
+Illinois,Livingston County,17105,2026-03-02 06:43:05.668 -0500
+Illinois,Logan County,17107,2026-03-02 06:43:05.668 -0500
+Illinois,Macon County,17115,2026-03-02 06:43:05.668 -0500
+Illinois,Macoupin County,17117,2026-03-02 06:43:05.668 -0500
+Illinois,Madison County,17119,2026-03-02 06:43:05.668 -0500
+Illinois,Marion County,17121,2026-03-02 06:43:05.668 -0500
+Illinois,Marshall County,17123,2026-03-02 06:43:05.668 -0500
+Illinois,Mason County,17125,2026-03-02 06:43:05.668 -0500
+Illinois,Massac County,17127,2026-03-02 06:43:05.668 -0500
+Illinois,McDonough County,17109,2026-03-02 06:43:05.668 -0500
+Illinois,McHenry County,17111,2026-03-02 06:43:05.668 -0500
+Illinois,McLean County,17113,2026-03-02 06:43:05.668 -0500
+Illinois,Menard County,17129,2026-03-02 06:43:05.668 -0500
+Illinois,Mercer County,17131,2026-03-02 06:43:05.668 -0500
+Illinois,Monroe County,17133,2026-03-02 06:43:05.668 -0500
+Illinois,Montgomery County,17135,2026-03-02 06:43:05.668 -0500
+Illinois,Morgan County,17137,2026-03-02 06:43:05.668 -0500
+Illinois,Moultrie County,17139,2026-03-02 06:43:05.668 -0500
+Illinois,Ogle County,17141,2026-03-02 06:43:05.668 -0500
+Illinois,Other County,17000,2026-03-02 06:43:05.668 -0500
+Illinois,Peoria County,17143,2026-03-02 06:43:05.668 -0500
+Illinois,Perry County,17145,2026-03-02 06:43:05.668 -0500
+Illinois,Piatt County,17147,2026-03-02 06:43:05.668 -0500
+Illinois,Pike County,17149,2026-03-02 06:43:05.668 -0500
+Illinois,Pope County,17151,2026-03-02 06:43:05.668 -0500
+Illinois,Pulaski County,17153,2026-03-02 06:43:05.668 -0500
+Illinois,Putnam County,17155,2026-03-02 06:43:05.668 -0500
+Illinois,Randolph County,17157,2026-03-02 06:43:05.668 -0500
+Illinois,Richland County,17159,2026-03-02 06:43:05.668 -0500
+Illinois,Rock Island County,17161,2026-03-02 06:43:05.668 -0500
+Illinois,Saline County,17165,2026-03-02 06:43:05.668 -0500
+Illinois,Sangamon County,17167,2026-03-02 06:43:05.668 -0500
+Illinois,Schuyler County,17169,2026-03-02 06:43:05.668 -0500
+Illinois,Scott County,17171,2026-03-02 06:43:05.668 -0500
+Illinois,Shelby County,17173,2026-03-02 06:43:05.668 -0500
+Illinois,St. Clair County,17163,2026-03-02 06:43:05.668 -0500
+Illinois,Stark County,17175,2026-03-02 06:43:05.668 -0500
+Illinois,Stephenson County,17177,2026-03-02 06:43:05.668 -0500
+Illinois,Tazewell County,17179,2026-03-02 06:43:05.668 -0500
+Illinois,Union County,17181,2026-03-02 06:43:05.668 -0500
+Illinois,Vermilion County,17183,2026-03-02 06:43:05.668 -0500
+Illinois,Wabash County,17185,2026-03-02 06:43:05.668 -0500
+Illinois,Warren County,17187,2026-03-02 06:43:05.668 -0500
+Illinois,Washington County,17189,2026-03-02 06:43:05.668 -0500
+Illinois,Wayne County,17191,2026-03-02 06:43:05.668 -0500
+Illinois,White County,17193,2026-03-02 06:43:05.668 -0500
+Illinois,Whiteside County,17195,2026-03-02 06:43:05.668 -0500
+Illinois,Will County,17197,2026-03-02 06:43:05.668 -0500
+Illinois,Williamson County,17199,2026-03-02 06:43:05.668 -0500
+Illinois,Winnebago County,17201,2026-03-02 06:43:05.668 -0500
+Illinois,Woodford County,17203,2026-03-02 06:43:05.668 -0500
+Indiana,Adams County,18001,2026-03-02 06:43:05.668 -0500
+Indiana,Allen County,18003,2026-03-02 06:43:05.668 -0500
+Indiana,Bartholomew County,18005,2026-03-02 06:43:05.668 -0500
+Indiana,Benton County,18007,2026-03-02 06:43:05.668 -0500
+Indiana,Blackford County,18009,2026-03-02 06:43:05.668 -0500
+Indiana,Boone County,18011,2026-03-02 06:43:05.668 -0500
+Indiana,Brown County,18013,2026-03-02 06:43:05.668 -0500
+Indiana,Carroll County,18015,2026-03-02 06:43:05.668 -0500
+Indiana,Cass County,18017,2026-03-02 06:43:05.668 -0500
+Indiana,Clark County,18019,2026-03-02 06:43:05.668 -0500
+Indiana,Clay County,18021,2026-03-02 06:43:05.668 -0500
+Indiana,Clinton County,18023,2026-03-02 06:43:05.668 -0500
+Indiana,Crawford County,18025,2026-03-02 06:43:05.668 -0500
+Indiana,Daviess County,18027,2026-03-02 06:43:05.668 -0500
+Indiana,DeKalb County,18033,2026-03-02 06:43:05.668 -0500
+Indiana,Dearborn County,18029,2026-03-02 06:43:05.668 -0500
+Indiana,Decatur County,18031,2026-03-02 06:43:05.668 -0500
+Indiana,Delaware County,18035,2026-03-02 06:43:05.668 -0500
+Indiana,Dubois County,18037,2026-03-02 06:43:05.668 -0500
+Indiana,Elkhart County,18039,2026-03-02 06:43:05.668 -0500
+Indiana,Fayette County,18041,2026-03-02 06:43:05.668 -0500
+Indiana,Floyd County,18043,2026-03-02 06:43:05.668 -0500
+Indiana,Fountain County,18045,2026-03-02 06:43:05.668 -0500
+Indiana,Franklin County,18047,2026-03-02 06:43:05.668 -0500
+Indiana,Fulton County,18049,2026-03-02 06:43:05.668 -0500
+Indiana,Gibson County,18051,2026-03-02 06:43:05.668 -0500
+Indiana,Grant County,18053,2026-03-02 06:43:05.668 -0500
+Indiana,Greene County,18055,2026-03-02 06:43:05.668 -0500
+Indiana,Hamilton County,18057,2026-03-02 06:43:05.668 -0500
+Indiana,Hancock County,18059,2026-03-02 06:43:05.668 -0500
+Indiana,Harrison County,18061,2026-03-02 06:43:05.668 -0500
+Indiana,Hendricks County,18063,2026-03-02 06:43:05.668 -0500
+Indiana,Henry County,18065,2026-03-02 06:43:05.668 -0500
+Indiana,Howard County,18067,2026-03-02 06:43:05.668 -0500
+Indiana,Huntington County,18069,2026-03-02 06:43:05.668 -0500
+Indiana,Jackson County,18071,2026-03-02 06:43:05.668 -0500
+Indiana,Jasper County,18073,2026-03-02 06:43:05.668 -0500
+Indiana,Jay County,18075,2026-03-02 06:43:05.668 -0500
+Indiana,Jefferson County,18077,2026-03-02 06:43:05.668 -0500
+Indiana,Jennings County,18079,2026-03-02 06:43:05.668 -0500
+Indiana,Johnson County,18081,2026-03-02 06:43:05.668 -0500
+Indiana,Knox County,18083,2026-03-02 06:43:05.668 -0500
+Indiana,Kosciusko County,18085,2026-03-02 06:43:05.668 -0500
+Indiana,LaGrange County,18087,2026-03-02 06:43:05.668 -0500
+Indiana,LaPorte County,18091,2026-03-02 06:43:05.668 -0500
+Indiana,Lake County,18089,2026-03-02 06:43:05.668 -0500
+Indiana,Lawrence County,18093,2026-03-02 06:43:05.668 -0500
+Indiana,Madison County,18095,2026-03-02 06:43:05.668 -0500
+Indiana,Marion County,18097,2026-03-02 06:43:05.668 -0500
+Indiana,Marshall County,18099,2026-03-02 06:43:05.668 -0500
+Indiana,Martin County,18101,2026-03-02 06:43:05.668 -0500
+Indiana,Miami County,18103,2026-03-02 06:43:05.668 -0500
+Indiana,Monroe County,18105,2026-03-02 06:43:05.668 -0500
+Indiana,Montgomery County,18107,2026-03-02 06:43:05.668 -0500
+Indiana,Morgan County,18109,2026-03-02 06:43:05.668 -0500
+Indiana,Newton County,18111,2026-03-02 06:43:05.668 -0500
+Indiana,Noble County,18113,2026-03-02 06:43:05.668 -0500
+Indiana,Ohio County,18115,2026-03-02 06:43:05.668 -0500
+Indiana,Orange County,18117,2026-03-02 06:43:05.668 -0500
+Indiana,Other County,18000,2026-03-02 06:43:05.668 -0500
+Indiana,Owen County,18119,2026-03-02 06:43:05.668 -0500
+Indiana,Parke County,18121,2026-03-02 06:43:05.668 -0500
+Indiana,Perry County,18123,2026-03-02 06:43:05.668 -0500
+Indiana,Pike County,18125,2026-03-02 06:43:05.668 -0500
+Indiana,Porter County,18127,2026-03-02 06:43:05.668 -0500
+Indiana,Posey County,18129,2026-03-02 06:43:05.668 -0500
+Indiana,Pulaski County,18131,2026-03-02 06:43:05.668 -0500
+Indiana,Putnam County,18133,2026-03-02 06:43:05.668 -0500
+Indiana,Randolph County,18135,2026-03-02 06:43:05.668 -0500
+Indiana,Ripley County,18137,2026-03-02 06:43:05.668 -0500
+Indiana,Rush County,18139,2026-03-02 06:43:05.668 -0500
+Indiana,Scott County,18143,2026-03-02 06:43:05.668 -0500
+Indiana,Shelby County,18145,2026-03-02 06:43:05.668 -0500
+Indiana,Spencer County,18147,2026-03-02 06:43:05.668 -0500
+Indiana,St. Joseph County,18141,2026-03-02 06:43:05.668 -0500
+Indiana,Starke County,18149,2026-03-02 06:43:05.668 -0500
+Indiana,Steuben County,18151,2026-03-02 06:43:05.668 -0500
+Indiana,Sullivan County,18153,2026-03-02 06:43:05.668 -0500
+Indiana,Switzerland County,18155,2026-03-02 06:43:05.668 -0500
+Indiana,Tippecanoe County,18157,2026-03-02 06:43:05.668 -0500
+Indiana,Tipton County,18159,2026-03-02 06:43:05.668 -0500
+Indiana,Union County,18161,2026-03-02 06:43:05.668 -0500
+Indiana,Vanderburgh County,18163,2026-03-02 06:43:05.668 -0500
+Indiana,Vermillion County,18165,2026-03-02 06:43:05.668 -0500
+Indiana,Vigo County,18167,2026-03-02 06:43:05.668 -0500
+Indiana,Wabash County,18169,2026-03-02 06:43:05.668 -0500
+Indiana,Warren County,18171,2026-03-02 06:43:05.668 -0500
+Indiana,Warrick County,18173,2026-03-02 06:43:05.668 -0500
+Indiana,Washington County,18175,2026-03-02 06:43:05.668 -0500
+Indiana,Wayne County,18177,2026-03-02 06:43:05.668 -0500
+Indiana,Wells County,18179,2026-03-02 06:43:05.668 -0500
+Indiana,White County,18181,2026-03-02 06:43:05.668 -0500
+Indiana,Whitley County,18183,2026-03-02 06:43:05.668 -0500
+Iowa,Adair County,19001,2026-03-02 06:43:05.668 -0500
+Iowa,Adams County,19003,2026-03-02 06:43:05.668 -0500
+Iowa,Allamakee County,19005,2026-03-02 06:43:05.668 -0500
+Iowa,Appanoose County,19007,2026-03-02 06:43:05.668 -0500
+Iowa,Audubon County,19009,2026-03-02 06:43:05.668 -0500
+Iowa,Benton County,19011,2026-03-02 06:43:05.668 -0500
+Iowa,Black Hawk County,19013,2026-03-02 06:43:05.668 -0500
+Iowa,Boone County,19015,2026-03-02 06:43:05.668 -0500
+Iowa,Bremer County,19017,2026-03-02 06:43:05.668 -0500
+Iowa,Buchanan County,19019,2026-03-02 06:43:05.668 -0500
+Iowa,Buena Vista County,19021,2026-03-02 06:43:05.668 -0500
+Iowa,Butler County,19023,2026-03-02 06:43:05.668 -0500
+Iowa,Calhoun County,19025,2026-03-02 06:43:05.668 -0500
+Iowa,Carroll County,19027,2026-03-02 06:43:05.668 -0500
+Iowa,Cass County,19029,2026-03-02 06:43:05.668 -0500
+Iowa,Cedar County,19031,2026-03-02 06:43:05.668 -0500
+Iowa,Cerro Gordo County,19033,2026-03-02 06:43:05.668 -0500
+Iowa,Cherokee County,19035,2026-03-02 06:43:05.668 -0500
+Iowa,Chickasaw County,19037,2026-03-02 06:43:05.668 -0500
+Iowa,Clarke County,19039,2026-03-02 06:43:05.668 -0500
+Iowa,Clay County,19041,2026-03-02 06:43:05.668 -0500
+Iowa,Clayton County,19043,2026-03-02 06:43:05.668 -0500
+Iowa,Clinton County,19045,2026-03-02 06:43:05.668 -0500
+Iowa,Crawford County,19047,2026-03-02 06:43:05.668 -0500
+Iowa,Dallas County,19049,2026-03-02 06:43:05.668 -0500
+Iowa,Davis County,19051,2026-03-02 06:43:05.668 -0500
+Iowa,Decatur County,19053,2026-03-02 06:43:05.668 -0500
+Iowa,Delaware County,19055,2026-03-02 06:43:05.668 -0500
+Iowa,Des Moines County,19057,2026-03-02 06:43:05.668 -0500
+Iowa,Dickinson County,19059,2026-03-02 06:43:05.668 -0500
+Iowa,Dubuque County,19061,2026-03-02 06:43:05.668 -0500
+Iowa,Emmet County,19063,2026-03-02 06:43:05.668 -0500
+Iowa,Fayette County,19065,2026-03-02 06:43:05.668 -0500
+Iowa,Floyd County,19067,2026-03-02 06:43:05.668 -0500
+Iowa,Franklin County,19069,2026-03-02 06:43:05.668 -0500
+Iowa,Fremont County,19071,2026-03-02 06:43:05.668 -0500
+Iowa,Greene County,19073,2026-03-02 06:43:05.668 -0500
+Iowa,Grundy County,19075,2026-03-02 06:43:05.668 -0500
+Iowa,Guthrie County,19077,2026-03-02 06:43:05.668 -0500
+Iowa,Hamilton County,19079,2026-03-02 06:43:05.668 -0500
+Iowa,Hancock County,19081,2026-03-02 06:43:05.668 -0500
+Iowa,Hardin County,19083,2026-03-02 06:43:05.668 -0500
+Iowa,Harrison County,19085,2026-03-02 06:43:05.668 -0500
+Iowa,Henry County,19087,2026-03-02 06:43:05.668 -0500
+Iowa,Howard County,19089,2026-03-02 06:43:05.668 -0500
+Iowa,Humboldt County,19091,2026-03-02 06:43:05.668 -0500
+Iowa,Ida County,19093,2026-03-02 06:43:05.668 -0500
+Iowa,Iowa County,19095,2026-03-02 06:43:05.668 -0500
+Iowa,Jackson County,19097,2026-03-02 06:43:05.668 -0500
+Iowa,Jasper County,19099,2026-03-02 06:43:05.668 -0500
+Iowa,Jefferson County,19101,2026-03-02 06:43:05.668 -0500
+Iowa,Johnson County,19103,2026-03-02 06:43:05.668 -0500
+Iowa,Jones County,19105,2026-03-02 06:43:05.668 -0500
+Iowa,Keokuk County,19107,2026-03-02 06:43:05.668 -0500
+Iowa,Kossuth County,19109,2026-03-02 06:43:05.668 -0500
+Iowa,Lee County,19111,2026-03-02 06:43:05.668 -0500
+Iowa,Linn County,19113,2026-03-02 06:43:05.668 -0500
+Iowa,Louisa County,19115,2026-03-02 06:43:05.668 -0500
+Iowa,Lucas County,19117,2026-03-02 06:43:05.668 -0500
+Iowa,Lyon County,19119,2026-03-02 06:43:05.668 -0500
+Iowa,Madison County,19121,2026-03-02 06:43:05.668 -0500
+Iowa,Mahaska County,19123,2026-03-02 06:43:05.668 -0500
+Iowa,Marion County,19125,2026-03-02 06:43:05.668 -0500
+Iowa,Marshall County,19127,2026-03-02 06:43:05.668 -0500
+Iowa,Mills County,19129,2026-03-02 06:43:05.668 -0500
+Iowa,Mitchell County,19131,2026-03-02 06:43:05.668 -0500
+Iowa,Monona County,19133,2026-03-02 06:43:05.668 -0500
+Iowa,Monroe County,19135,2026-03-02 06:43:05.668 -0500
+Iowa,Montgomery County,19137,2026-03-02 06:43:05.668 -0500
+Iowa,Muscatine County,19139,2026-03-02 06:43:05.668 -0500
+Iowa,O'Brien County,19141,2026-03-02 06:43:05.668 -0500
+Iowa,Osceola County,19143,2026-03-02 06:43:05.668 -0500
+Iowa,Other County,19000,2026-03-02 06:43:05.668 -0500
+Iowa,Page County,19145,2026-03-02 06:43:05.668 -0500
+Iowa,Palo Alto County,19147,2026-03-02 06:43:05.668 -0500
+Iowa,Plymouth County,19149,2026-03-02 06:43:05.668 -0500
+Iowa,Pocahontas County,19151,2026-03-02 06:43:05.668 -0500
+Iowa,Polk County,19153,2026-03-02 06:43:05.668 -0500
+Iowa,Pottawattamie County,19155,2026-03-02 06:43:05.668 -0500
+Iowa,Poweshiek County,19157,2026-03-02 06:43:05.668 -0500
+Iowa,Ringgold County,19159,2026-03-02 06:43:05.668 -0500
+Iowa,Sac County,19161,2026-03-02 06:43:05.668 -0500
+Iowa,Scott County,19163,2026-03-02 06:43:05.668 -0500
+Iowa,Shelby County,19165,2026-03-02 06:43:05.668 -0500
+Iowa,Sioux County,19167,2026-03-02 06:43:05.668 -0500
+Iowa,Story County,19169,2026-03-02 06:43:05.668 -0500
+Iowa,Tama County,19171,2026-03-02 06:43:05.668 -0500
+Iowa,Taylor County,19173,2026-03-02 06:43:05.668 -0500
+Iowa,Union County,19175,2026-03-02 06:43:05.668 -0500
+Iowa,Van Buren County,19177,2026-03-02 06:43:05.668 -0500
+Iowa,Wapello County,19179,2026-03-02 06:43:05.668 -0500
+Iowa,Warren County,19181,2026-03-02 06:43:05.668 -0500
+Iowa,Washington County,19183,2026-03-02 06:43:05.668 -0500
+Iowa,Wayne County,19185,2026-03-02 06:43:05.668 -0500
+Iowa,Webster County,19187,2026-03-02 06:43:05.668 -0500
+Iowa,Winnebago County,19189,2026-03-02 06:43:05.668 -0500
+Iowa,Winneshiek County,19191,2026-03-02 06:43:05.668 -0500
+Iowa,Woodbury County,19193,2026-03-02 06:43:05.668 -0500
+Iowa,Worth County,19195,2026-03-02 06:43:05.668 -0500
+Iowa,Wright County,19197,2026-03-02 06:43:05.668 -0500
+Kansas,Allen County,20001,2026-03-02 06:43:05.668 -0500
+Kansas,Anderson County,20003,2026-03-02 06:43:05.668 -0500
+Kansas,Atchison County,20005,2026-03-02 06:43:05.668 -0500
+Kansas,Barber County,20007,2026-03-02 06:43:05.668 -0500
+Kansas,Barton County,20009,2026-03-02 06:43:05.668 -0500
+Kansas,Bourbon County,20011,2026-03-02 06:43:05.668 -0500
+Kansas,Brown County,20013,2026-03-02 06:43:05.668 -0500
+Kansas,Butler County,20015,2026-03-02 06:43:05.668 -0500
+Kansas,Chase County,20017,2026-03-02 06:43:05.668 -0500
+Kansas,Chautauqua County,20019,2026-03-02 06:43:05.668 -0500
+Kansas,Cherokee County,20021,2026-03-02 06:43:05.668 -0500
+Kansas,Cheyenne County,20023,2026-03-02 06:43:05.668 -0500
+Kansas,Clark County,20025,2026-03-02 06:43:05.668 -0500
+Kansas,Clay County,20027,2026-03-02 06:43:05.668 -0500
+Kansas,Cloud County,20029,2026-03-02 06:43:05.668 -0500
+Kansas,Coffey County,20031,2026-03-02 06:43:05.668 -0500
+Kansas,Comanche County,20033,2026-03-02 06:43:05.668 -0500
+Kansas,Cowley County,20035,2026-03-02 06:43:05.668 -0500
+Kansas,Crawford County,20037,2026-03-02 06:43:05.668 -0500
+Kansas,Decatur County,20039,2026-03-02 06:43:05.668 -0500
+Kansas,Dickinson County,20041,2026-03-02 06:43:05.668 -0500
+Kansas,Doniphan County,20043,2026-03-02 06:43:05.668 -0500
+Kansas,Douglas County,20045,2026-03-02 06:43:05.668 -0500
+Kansas,Edwards County,20047,2026-03-02 06:43:05.668 -0500
+Kansas,Elk County,20049,2026-03-02 06:43:05.668 -0500
+Kansas,Ellis County,20051,2026-03-02 06:43:05.668 -0500
+Kansas,Ellsworth County,20053,2026-03-02 06:43:05.668 -0500
+Kansas,Finney County,20055,2026-03-02 06:43:05.668 -0500
+Kansas,Ford County,20057,2026-03-02 06:43:05.668 -0500
+Kansas,Franklin County,20059,2026-03-02 06:43:05.668 -0500
+Kansas,Geary County,20061,2026-03-02 06:43:05.668 -0500
+Kansas,Gove County,20063,2026-03-02 06:43:05.668 -0500
+Kansas,Graham County,20065,2026-03-02 06:43:05.668 -0500
+Kansas,Grant County,20067,2026-03-02 06:43:05.668 -0500
+Kansas,Gray County,20069,2026-03-02 06:43:05.668 -0500
+Kansas,Greeley County,20071,2026-03-02 06:43:05.668 -0500
+Kansas,Greenwood County,20073,2026-03-02 06:43:05.668 -0500
+Kansas,Hamilton County,20075,2026-03-02 06:43:05.668 -0500
+Kansas,Harper County,20077,2026-03-02 06:43:05.668 -0500
+Kansas,Harvey County,20079,2026-03-02 06:43:05.668 -0500
+Kansas,Haskell County,20081,2026-03-02 06:43:05.668 -0500
+Kansas,Hodgeman County,20083,2026-03-02 06:43:05.668 -0500
+Kansas,Jackson County,20085,2026-03-02 06:43:05.668 -0500
+Kansas,Jefferson County,20087,2026-03-02 06:43:05.668 -0500
+Kansas,Jewell County,20089,2026-03-02 06:43:05.668 -0500
+Kansas,Johnson County,20091,2026-03-02 06:43:05.668 -0500
+Kansas,Kearny County,20093,2026-03-02 06:43:05.668 -0500
+Kansas,Kingman County,20095,2026-03-02 06:43:05.668 -0500
+Kansas,Kiowa County,20097,2026-03-02 06:43:05.668 -0500
+Kansas,Labette County,20099,2026-03-02 06:43:05.668 -0500
+Kansas,Lane County,20101,2026-03-02 06:43:05.668 -0500
+Kansas,Leavenworth County,20103,2026-03-02 06:43:05.668 -0500
+Kansas,Lincoln County,20105,2026-03-02 06:43:05.668 -0500
+Kansas,Linn County,20107,2026-03-02 06:43:05.668 -0500
+Kansas,Logan County,20109,2026-03-02 06:43:05.668 -0500
+Kansas,Lyon County,20111,2026-03-02 06:43:05.668 -0500
+Kansas,Marion County,20115,2026-03-02 06:43:05.668 -0500
+Kansas,Marshall County,20117,2026-03-02 06:43:05.668 -0500
+Kansas,McPherson County,20113,2026-03-02 06:43:05.668 -0500
+Kansas,Meade County,20119,2026-03-02 06:43:05.668 -0500
+Kansas,Miami County,20121,2026-03-02 06:43:05.668 -0500
+Kansas,Mitchell County,20123,2026-03-02 06:43:05.668 -0500
+Kansas,Montgomery County,20125,2026-03-02 06:43:05.668 -0500
+Kansas,Morris County,20127,2026-03-02 06:43:05.668 -0500
+Kansas,Morton County,20129,2026-03-02 06:43:05.668 -0500
+Kansas,Nemaha County,20131,2026-03-02 06:43:05.668 -0500
+Kansas,Neosho County,20133,2026-03-02 06:43:05.668 -0500
+Kansas,Ness County,20135,2026-03-02 06:43:05.668 -0500
+Kansas,Norton County,20137,2026-03-02 06:43:05.668 -0500
+Kansas,Osage County,20139,2026-03-02 06:43:05.668 -0500
+Kansas,Osborne County,20141,2026-03-02 06:43:05.668 -0500
+Kansas,Other County,20000,2026-03-02 06:43:05.668 -0500
+Kansas,Ottawa County,20143,2026-03-02 06:43:05.668 -0500
+Kansas,Pawnee County,20145,2026-03-02 06:43:05.668 -0500
+Kansas,Phillips County,20147,2026-03-02 06:43:05.668 -0500
+Kansas,Pottawatomie County,20149,2026-03-02 06:43:05.668 -0500
+Kansas,Pratt County,20151,2026-03-02 06:43:05.668 -0500
+Kansas,Rawlins County,20153,2026-03-02 06:43:05.668 -0500
+Kansas,Reno County,20155,2026-03-02 06:43:05.668 -0500
+Kansas,Republic County,20157,2026-03-02 06:43:05.668 -0500
+Kansas,Rice County,20159,2026-03-02 06:43:05.668 -0500
+Kansas,Riley County,20161,2026-03-02 06:43:05.668 -0500
+Kansas,Rooks County,20163,2026-03-02 06:43:05.668 -0500
+Kansas,Rush County,20165,2026-03-02 06:43:05.668 -0500
+Kansas,Russell County,20167,2026-03-02 06:43:05.668 -0500
+Kansas,Saline County,20169,2026-03-02 06:43:05.668 -0500
+Kansas,Scott County,20171,2026-03-02 06:43:05.668 -0500
+Kansas,Sedgwick County,20173,2026-03-02 06:43:05.668 -0500
+Kansas,Seward County,20175,2026-03-02 06:43:05.668 -0500
+Kansas,Shawnee County,20177,2026-03-02 06:43:05.668 -0500
+Kansas,Sheridan County,20179,2026-03-02 06:43:05.668 -0500
+Kansas,Sherman County,20181,2026-03-02 06:43:05.668 -0500
+Kansas,Smith County,20183,2026-03-02 06:43:05.668 -0500
+Kansas,Stafford County,20185,2026-03-02 06:43:05.668 -0500
+Kansas,Stanton County,20187,2026-03-02 06:43:05.668 -0500
+Kansas,Stevens County,20189,2026-03-02 06:43:05.668 -0500
+Kansas,Sumner County,20191,2026-03-02 06:43:05.668 -0500
+Kansas,Thomas County,20193,2026-03-02 06:43:05.668 -0500
+Kansas,Trego County,20195,2026-03-02 06:43:05.668 -0500
+Kansas,Wabaunsee County,20197,2026-03-02 06:43:05.668 -0500
+Kansas,Wallace County,20199,2026-03-02 06:43:05.668 -0500
+Kansas,Washington County,20201,2026-03-02 06:43:05.668 -0500
+Kansas,Wichita County,20203,2026-03-02 06:43:05.668 -0500
+Kansas,Wilson County,20205,2026-03-02 06:43:05.668 -0500
+Kansas,Woodson County,20207,2026-03-02 06:43:05.668 -0500
+Kansas,Wyandotte County,20209,2026-03-02 06:43:05.668 -0500
+Kentucky,Adair County,21001,2026-03-02 06:43:05.668 -0500
+Kentucky,Allen County,21003,2026-03-02 06:43:05.668 -0500
+Kentucky,Anderson County,21005,2026-03-02 06:43:05.668 -0500
+Kentucky,Ballard County,21007,2026-03-02 06:43:05.668 -0500
+Kentucky,Barren County,21009,2026-03-02 06:43:05.668 -0500
+Kentucky,Bath County,21011,2026-03-02 06:43:05.668 -0500
+Kentucky,Bell County,21013,2026-03-02 06:43:05.668 -0500
+Kentucky,Boone County,21015,2026-03-02 06:43:05.668 -0500
+Kentucky,Bourbon County,21017,2026-03-02 06:43:05.668 -0500
+Kentucky,Boyd County,21019,2026-03-02 06:43:05.668 -0500
+Kentucky,Boyle County,21021,2026-03-02 06:43:05.668 -0500
+Kentucky,Bracken County,21023,2026-03-02 06:43:05.668 -0500
+Kentucky,Breathitt County,21025,2026-03-02 06:43:05.668 -0500
+Kentucky,Breckinridge County,21027,2026-03-02 06:43:05.668 -0500
+Kentucky,Bullitt County,21029,2026-03-02 06:43:05.668 -0500
+Kentucky,Butler County,21031,2026-03-02 06:43:05.668 -0500
+Kentucky,Caldwell County,21033,2026-03-02 06:43:05.668 -0500
+Kentucky,Calloway County,21035,2026-03-02 06:43:05.668 -0500
+Kentucky,Campbell County,21037,2026-03-02 06:43:05.668 -0500
+Kentucky,Carlisle County,21039,2026-03-02 06:43:05.668 -0500
+Kentucky,Carroll County,21041,2026-03-02 06:43:05.668 -0500
+Kentucky,Carter County,21043,2026-03-02 06:43:05.668 -0500
+Kentucky,Casey County,21045,2026-03-02 06:43:05.668 -0500
+Kentucky,Christian County,21047,2026-03-02 06:43:05.668 -0500
+Kentucky,Clark County,21049,2026-03-02 06:43:05.668 -0500
+Kentucky,Clay County,21051,2026-03-02 06:43:05.668 -0500
+Kentucky,Clinton County,21053,2026-03-02 06:43:05.668 -0500
+Kentucky,Crittenden County,21055,2026-03-02 06:43:05.668 -0500
+Kentucky,Cumberland County,21057,2026-03-02 06:43:05.668 -0500
+Kentucky,Daviess County,21059,2026-03-02 06:43:05.668 -0500
+Kentucky,Edmonson County,21061,2026-03-02 06:43:05.668 -0500
+Kentucky,Elliott County,21063,2026-03-02 06:43:05.668 -0500
+Kentucky,Estill County,21065,2026-03-02 06:43:05.668 -0500
+Kentucky,Fayette County,21067,2026-03-02 06:43:05.668 -0500
+Kentucky,Fleming County,21069,2026-03-02 06:43:05.668 -0500
+Kentucky,Floyd County,21071,2026-03-02 06:43:05.668 -0500
+Kentucky,Franklin County,21073,2026-03-02 06:43:05.668 -0500
+Kentucky,Fulton County,21075,2026-03-02 06:43:05.668 -0500
+Kentucky,Gallatin County,21077,2026-03-02 06:43:05.668 -0500
+Kentucky,Garrard County,21079,2026-03-02 06:43:05.668 -0500
+Kentucky,Grant County,21081,2026-03-02 06:43:05.668 -0500
+Kentucky,Graves County,21083,2026-03-02 06:43:05.668 -0500
+Kentucky,Grayson County,21085,2026-03-02 06:43:05.668 -0500
+Kentucky,Green County,21087,2026-03-02 06:43:05.668 -0500
+Kentucky,Greenup County,21089,2026-03-02 06:43:05.668 -0500
+Kentucky,Hancock County,21091,2026-03-02 06:43:05.668 -0500
+Kentucky,Hardin County,21093,2026-03-02 06:43:05.668 -0500
+Kentucky,Harlan County,21095,2026-03-02 06:43:05.668 -0500
+Kentucky,Harrison County,21097,2026-03-02 06:43:05.668 -0500
+Kentucky,Hart County,21099,2026-03-02 06:43:05.668 -0500
+Kentucky,Henderson County,21101,2026-03-02 06:43:05.668 -0500
+Kentucky,Henry County,21103,2026-03-02 06:43:05.668 -0500
+Kentucky,Hickman County,21105,2026-03-02 06:43:05.668 -0500
+Kentucky,Hopkins County,21107,2026-03-02 06:43:05.668 -0500
+Kentucky,Jackson County,21109,2026-03-02 06:43:05.668 -0500
+Kentucky,Jefferson County,21111,2026-03-02 06:43:05.668 -0500
+Kentucky,Jessamine County,21113,2026-03-02 06:43:05.668 -0500
+Kentucky,Johnson County,21115,2026-03-02 06:43:05.668 -0500
+Kentucky,Kenton County,21117,2026-03-02 06:43:05.668 -0500
+Kentucky,Knott County,21119,2026-03-02 06:43:05.668 -0500
+Kentucky,Knox County,21121,2026-03-02 06:43:05.668 -0500
+Kentucky,Larue County,21123,2026-03-02 06:43:05.668 -0500
+Kentucky,Laurel County,21125,2026-03-02 06:43:05.668 -0500
+Kentucky,Lawrence County,21127,2026-03-02 06:43:05.668 -0500
+Kentucky,Lee County,21129,2026-03-02 06:43:05.668 -0500
+Kentucky,Leslie County,21131,2026-03-02 06:43:05.668 -0500
+Kentucky,Letcher County,21133,2026-03-02 06:43:05.668 -0500
+Kentucky,Lewis County,21135,2026-03-02 06:43:05.668 -0500
+Kentucky,Lincoln County,21137,2026-03-02 06:43:05.668 -0500
+Kentucky,Livingston County,21139,2026-03-02 06:43:05.668 -0500
+Kentucky,Logan County,21141,2026-03-02 06:43:05.668 -0500
+Kentucky,Lyon County,21143,2026-03-02 06:43:05.668 -0500
+Kentucky,Madison County,21151,2026-03-02 06:43:05.668 -0500
+Kentucky,Magoffin County,21153,2026-03-02 06:43:05.668 -0500
+Kentucky,Marion County,21155,2026-03-02 06:43:05.668 -0500
+Kentucky,Marshall County,21157,2026-03-02 06:43:05.668 -0500
+Kentucky,Martin County,21159,2026-03-02 06:43:05.668 -0500
+Kentucky,Mason County,21161,2026-03-02 06:43:05.668 -0500
+Kentucky,McCracken County,21145,2026-03-02 06:43:05.668 -0500
+Kentucky,McCreary County,21147,2026-03-02 06:43:05.668 -0500
+Kentucky,McLean County,21149,2026-03-02 06:43:05.668 -0500
+Kentucky,Meade County,21163,2026-03-02 06:43:05.668 -0500
+Kentucky,Menifee County,21165,2026-03-02 06:43:05.668 -0500
+Kentucky,Mercer County,21167,2026-03-02 06:43:05.668 -0500
+Kentucky,Metcalfe County,21169,2026-03-02 06:43:05.668 -0500
+Kentucky,Monroe County,21171,2026-03-02 06:43:05.668 -0500
+Kentucky,Montgomery County,21173,2026-03-02 06:43:05.668 -0500
+Kentucky,Morgan County,21175,2026-03-02 06:43:05.668 -0500
+Kentucky,Muhlenberg County,21177,2026-03-02 06:43:05.668 -0500
+Kentucky,Nelson County,21179,2026-03-02 06:43:05.668 -0500
+Kentucky,Nicholas County,21181,2026-03-02 06:43:05.668 -0500
+Kentucky,Ohio County,21183,2026-03-02 06:43:05.668 -0500
+Kentucky,Oldham County,21185,2026-03-02 06:43:05.668 -0500
+Kentucky,Other County,21000,2026-03-02 06:43:05.668 -0500
+Kentucky,Owen County,21187,2026-03-02 06:43:05.668 -0500
+Kentucky,Owsley County,21189,2026-03-02 06:43:05.668 -0500
+Kentucky,Pendleton County,21191,2026-03-02 06:43:05.668 -0500
+Kentucky,Perry County,21193,2026-03-02 06:43:05.668 -0500
+Kentucky,Pike County,21195,2026-03-02 06:43:05.668 -0500
+Kentucky,Powell County,21197,2026-03-02 06:43:05.668 -0500
+Kentucky,Pulaski County,21199,2026-03-02 06:43:05.668 -0500
+Kentucky,Robertson County,21201,2026-03-02 06:43:05.668 -0500
+Kentucky,Rockcastle County,21203,2026-03-02 06:43:05.668 -0500
+Kentucky,Rowan County,21205,2026-03-02 06:43:05.668 -0500
+Kentucky,Russell County,21207,2026-03-02 06:43:05.668 -0500
+Kentucky,Scott County,21209,2026-03-02 06:43:05.668 -0500
+Kentucky,Shelby County,21211,2026-03-02 06:43:05.668 -0500
+Kentucky,Simpson County,21213,2026-03-02 06:43:05.668 -0500
+Kentucky,Spencer County,21215,2026-03-02 06:43:05.668 -0500
+Kentucky,Taylor County,21217,2026-03-02 06:43:05.668 -0500
+Kentucky,Todd County,21219,2026-03-02 06:43:05.668 -0500
+Kentucky,Trigg County,21221,2026-03-02 06:43:05.668 -0500
+Kentucky,Trimble County,21223,2026-03-02 06:43:05.668 -0500
+Kentucky,Union County,21225,2026-03-02 06:43:05.668 -0500
+Kentucky,Warren County,21227,2026-03-02 06:43:05.668 -0500
+Kentucky,Washington County,21229,2026-03-02 06:43:05.668 -0500
+Kentucky,Wayne County,21231,2026-03-02 06:43:05.668 -0500
+Kentucky,Webster County,21233,2026-03-02 06:43:05.668 -0500
+Kentucky,Whitley County,21235,2026-03-02 06:43:05.668 -0500
+Kentucky,Wolfe County,21237,2026-03-02 06:43:05.668 -0500
+Kentucky,Woodford County,21239,2026-03-02 06:43:05.668 -0500
+Louisiana,Acadia Parish,22001,2026-03-02 06:43:05.668 -0500
+Louisiana,Allen Parish,22003,2026-03-02 06:43:05.668 -0500
+Louisiana,Ascension Parish,22005,2026-03-02 06:43:05.668 -0500
+Louisiana,Assumption Parish,22007,2026-03-02 06:43:05.668 -0500
+Louisiana,Avoyelles Parish,22009,2026-03-02 06:43:05.668 -0500
+Louisiana,Beauregard Parish,22011,2026-03-02 06:43:05.668 -0500
+Louisiana,Bienville Parish,22013,2026-03-02 06:43:05.668 -0500
+Louisiana,Bossier Parish,22015,2026-03-02 06:43:05.668 -0500
+Louisiana,Caddo Parish,22017,2026-03-02 06:43:05.668 -0500
+Louisiana,Calcasieu Parish,22019,2026-03-02 06:43:05.668 -0500
+Louisiana,Caldwell Parish,22021,2026-03-02 06:43:05.668 -0500
+Louisiana,Cameron Parish,22023,2026-03-02 06:43:05.668 -0500
+Louisiana,Catahoula Parish,22025,2026-03-02 06:43:05.668 -0500
+Louisiana,Claiborne Parish,22027,2026-03-02 06:43:05.668 -0500
+Louisiana,Concordia Parish,22029,2026-03-02 06:43:05.668 -0500
+Louisiana,De Soto Parish,22031,2026-03-02 06:43:05.668 -0500
+Louisiana,East Baton Rouge Parish,22033,2026-03-02 06:43:05.668 -0500
+Louisiana,East Carroll Parish,22035,2026-03-02 06:43:05.668 -0500
+Louisiana,East Feliciana Parish,22037,2026-03-02 06:43:05.668 -0500
+Louisiana,Evangeline Parish,22039,2026-03-02 06:43:05.668 -0500
+Louisiana,Franklin Parish,22041,2026-03-02 06:43:05.668 -0500
+Louisiana,Grant Parish,22043,2026-03-02 06:43:05.668 -0500
+Louisiana,Iberia Parish,22045,2026-03-02 06:43:05.668 -0500
+Louisiana,Iberville Parish,22047,2026-03-02 06:43:05.668 -0500
+Louisiana,Jackson Parish,22049,2026-03-02 06:43:05.668 -0500
+Louisiana,Jefferson Davis Parish,22053,2026-03-02 06:43:05.668 -0500
+Louisiana,Jefferson Parish,22051,2026-03-02 06:43:05.668 -0500
+Louisiana,LaSalle Parish,22059,2026-03-02 06:43:05.668 -0500
+Louisiana,Lafayette Parish,22055,2026-03-02 06:43:05.668 -0500
+Louisiana,Lafourche Parish,22057,2026-03-02 06:43:05.668 -0500
+Louisiana,Lincoln Parish,22061,2026-03-02 06:43:05.668 -0500
+Louisiana,Livingston Parish,22063,2026-03-02 06:43:05.668 -0500
+Louisiana,Madison Parish,22065,2026-03-02 06:43:05.668 -0500
+Louisiana,Morehouse Parish,22067,2026-03-02 06:43:05.668 -0500
+Louisiana,Natchitoches Parish,22069,2026-03-02 06:43:05.668 -0500
+Louisiana,Orleans Parish,22071,2026-03-02 06:43:05.668 -0500
+Louisiana,Other County,22000,2026-03-02 06:43:05.668 -0500
+Louisiana,Ouachita Parish,22073,2026-03-02 06:43:05.668 -0500
+Louisiana,Plaquemines Parish,22075,2026-03-02 06:43:05.668 -0500
+Louisiana,Pointe Coupee Parish,22077,2026-03-02 06:43:05.668 -0500
+Louisiana,Rapides Parish,22079,2026-03-02 06:43:05.668 -0500
+Louisiana,Red River Parish,22081,2026-03-02 06:43:05.668 -0500
+Louisiana,Richland Parish,22083,2026-03-02 06:43:05.668 -0500
+Louisiana,Sabine Parish,22085,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Bernard Parish,22087,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Charles Parish,22089,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Helena Parish,22091,2026-03-02 06:43:05.668 -0500
+Louisiana,St. James Parish,22093,2026-03-02 06:43:05.668 -0500
+Louisiana,St. John the Baptist Parish,22095,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Landry Parish,22097,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Martin Parish,22099,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Mary Parish,22101,2026-03-02 06:43:05.668 -0500
+Louisiana,St. Tammany Parish,22103,2026-03-02 06:43:05.668 -0500
+Louisiana,Tangipahoa Parish,22105,2026-03-02 06:43:05.668 -0500
+Louisiana,Tensas Parish,22107,2026-03-02 06:43:05.668 -0500
+Louisiana,Terrebonne Parish,22109,2026-03-02 06:43:05.668 -0500
+Louisiana,Union Parish,22111,2026-03-02 06:43:05.668 -0500
+Louisiana,Vermilion Parish,22113,2026-03-02 06:43:05.668 -0500
+Louisiana,Vernon Parish,22115,2026-03-02 06:43:05.668 -0500
+Louisiana,Washington Parish,22117,2026-03-02 06:43:05.668 -0500
+Louisiana,Webster Parish,22119,2026-03-02 06:43:05.668 -0500
+Louisiana,West Baton Rouge Parish,22121,2026-03-02 06:43:05.668 -0500
+Louisiana,West Carroll Parish,22123,2026-03-02 06:43:05.668 -0500
+Louisiana,West Feliciana Parish,22125,2026-03-02 06:43:05.668 -0500
+Louisiana,Winn Parish,22127,2026-03-02 06:43:05.668 -0500
+Maine,Androscoggin County,23001,2026-03-02 06:43:05.668 -0500
+Maine,Aroostook County,23003,2026-03-02 06:43:05.668 -0500
+Maine,Cumberland County,23005,2026-03-02 06:43:05.668 -0500
+Maine,Franklin County,23007,2026-03-02 06:43:05.668 -0500
+Maine,Hancock County,23009,2026-03-02 06:43:05.668 -0500
+Maine,Kennebec County,23011,2026-03-02 06:43:05.668 -0500
+Maine,Knox County,23013,2026-03-02 06:43:05.668 -0500
+Maine,Lincoln County,23015,2026-03-02 06:43:05.668 -0500
+Maine,Other County,23000,2026-03-02 06:43:05.668 -0500
+Maine,Oxford County,23017,2026-03-02 06:43:05.668 -0500
+Maine,Penobscot County,23019,2026-03-02 06:43:05.668 -0500
+Maine,Piscataquis County,23021,2026-03-02 06:43:05.668 -0500
+Maine,Sagadahoc County,23023,2026-03-02 06:43:05.668 -0500
+Maine,Somerset County,23025,2026-03-02 06:43:05.668 -0500
+Maine,Waldo County,23027,2026-03-02 06:43:05.668 -0500
+Maine,Washington County,23029,2026-03-02 06:43:05.668 -0500
+Maine,York County,23031,2026-03-02 06:43:05.668 -0500
+Maryland,Allegany County,24001,2026-03-02 06:43:05.668 -0500
+Maryland,Anne Arundel County,24003,2026-03-02 06:43:05.668 -0500
+Maryland,Baltimore County,24005,2026-03-02 06:43:05.668 -0500
+Maryland,Baltimore city,24510,2026-03-02 06:43:05.668 -0500
+Maryland,Calvert County,24009,2026-03-02 06:43:05.668 -0500
+Maryland,Caroline County,24011,2026-03-02 06:43:05.668 -0500
+Maryland,Carroll County,24013,2026-03-02 06:43:05.668 -0500
+Maryland,Cecil County,24015,2026-03-02 06:43:05.668 -0500
+Maryland,Charles County,24017,2026-03-02 06:43:05.668 -0500
+Maryland,Dorchester County,24019,2026-03-02 06:43:05.668 -0500
+Maryland,Frederick County,24021,2026-03-02 06:43:05.668 -0500
+Maryland,Garrett County,24023,2026-03-02 06:43:05.668 -0500
+Maryland,Harford County,24025,2026-03-02 06:43:05.668 -0500
+Maryland,Howard County,24027,2026-03-02 06:43:05.668 -0500
+Maryland,Kent County,24029,2026-03-02 06:43:05.668 -0500
+Maryland,Montgomery County,24031,2026-03-02 06:43:05.668 -0500
+Maryland,Other County,24000,2026-03-02 06:43:05.668 -0500
+Maryland,Prince George's County,24033,2026-03-02 06:43:05.668 -0500
+Maryland,Queen Anne's County,24035,2026-03-02 06:43:05.668 -0500
+Maryland,Somerset County,24039,2026-03-02 06:43:05.668 -0500
+Maryland,St. Mary's County,24037,2026-03-02 06:43:05.668 -0500
+Maryland,Talbot County,24041,2026-03-02 06:43:05.668 -0500
+Maryland,Washington County,24043,2026-03-02 06:43:05.668 -0500
+Maryland,Wicomico County,24045,2026-03-02 06:43:05.668 -0500
+Maryland,Worcester County,24047,2026-03-02 06:43:05.668 -0500
+Massachusetts,Barnstable County,25001,2026-03-02 06:43:05.668 -0500
+Massachusetts,Berkshire County,25003,2026-03-02 06:43:05.668 -0500
+Massachusetts,Bristol County,25005,2026-03-02 06:43:05.668 -0500
+Massachusetts,Dukes County,25007,2026-03-02 06:43:05.668 -0500
+Massachusetts,Essex County,25009,2026-03-02 06:43:05.668 -0500
+Massachusetts,Franklin County,25011,2026-03-02 06:43:05.668 -0500
+Massachusetts,Hampden County,25013,2026-03-02 06:43:05.668 -0500
+Massachusetts,Hampshire County,25015,2026-03-02 06:43:05.668 -0500
+Massachusetts,Middlesex County,25017,2026-03-02 06:43:05.668 -0500
+Massachusetts,Nantucket County,25019,2026-03-02 06:43:05.668 -0500
+Massachusetts,Norfolk County,25021,2026-03-02 06:43:05.668 -0500
+Massachusetts,Other County,25000,2026-03-02 06:43:05.668 -0500
+Massachusetts,Plymouth County,25023,2026-03-02 06:43:05.668 -0500
+Massachusetts,Suffolk County,25025,2026-03-02 06:43:05.668 -0500
+Massachusetts,Worcester County,25027,2026-03-02 06:43:05.668 -0500
+Michigan,Alcona County,26001,2026-03-02 06:43:05.668 -0500
+Michigan,Alger County,26003,2026-03-02 06:43:05.668 -0500
+Michigan,Allegan County,26005,2026-03-02 06:43:05.668 -0500
+Michigan,Alpena County,26007,2026-03-02 06:43:05.668 -0500
+Michigan,Antrim County,26009,2026-03-02 06:43:05.668 -0500
+Michigan,Arenac County,26011,2026-03-02 06:43:05.668 -0500
+Michigan,Baraga County,26013,2026-03-02 06:43:05.668 -0500
+Michigan,Barry County,26015,2026-03-02 06:43:05.668 -0500
+Michigan,Bay County,26017,2026-03-02 06:43:05.668 -0500
+Michigan,Benzie County,26019,2026-03-02 06:43:05.668 -0500
+Michigan,Berrien County,26021,2026-03-02 06:43:05.668 -0500
+Michigan,Branch County,26023,2026-03-02 06:43:05.668 -0500
+Michigan,Calhoun County,26025,2026-03-02 06:43:05.668 -0500
+Michigan,Cass County,26027,2026-03-02 06:43:05.668 -0500
+Michigan,Charlevoix County,26029,2026-03-02 06:43:05.668 -0500
+Michigan,Cheboygan County,26031,2026-03-02 06:43:05.668 -0500
+Michigan,Chippewa County,26033,2026-03-02 06:43:05.668 -0500
+Michigan,Clare County,26035,2026-03-02 06:43:05.668 -0500
+Michigan,Clinton County,26037,2026-03-02 06:43:05.668 -0500
+Michigan,Crawford County,26039,2026-03-02 06:43:05.668 -0500
+Michigan,Delta County,26041,2026-03-02 06:43:05.668 -0500
+Michigan,Dickinson County,26043,2026-03-02 06:43:05.668 -0500
+Michigan,Eaton County,26045,2026-03-02 06:43:05.668 -0500
+Michigan,Emmet County,26047,2026-03-02 06:43:05.668 -0500
+Michigan,Genesee County,26049,2026-03-02 06:43:05.668 -0500
+Michigan,Gladwin County,26051,2026-03-02 06:43:05.668 -0500
+Michigan,Gogebic County,26053,2026-03-02 06:43:05.668 -0500
+Michigan,Grand Traverse County,26055,2026-03-02 06:43:05.668 -0500
+Michigan,Gratiot County,26057,2026-03-02 06:43:05.668 -0500
+Michigan,Hillsdale County,26059,2026-03-02 06:43:05.668 -0500
+Michigan,Houghton County,26061,2026-03-02 06:43:05.668 -0500
+Michigan,Huron County,26063,2026-03-02 06:43:05.668 -0500
+Michigan,Ingham County,26065,2026-03-02 06:43:05.668 -0500
+Michigan,Ionia County,26067,2026-03-02 06:43:05.668 -0500
+Michigan,Iosco County,26069,2026-03-02 06:43:05.668 -0500
+Michigan,Iron County,26071,2026-03-02 06:43:05.668 -0500
+Michigan,Isabella County,26073,2026-03-02 06:43:05.668 -0500
+Michigan,Jackson County,26075,2026-03-02 06:43:05.668 -0500
+Michigan,Kalamazoo County,26077,2026-03-02 06:43:05.668 -0500
+Michigan,Kalkaska County,26079,2026-03-02 06:43:05.668 -0500
+Michigan,Kent County,26081,2026-03-02 06:43:05.668 -0500
+Michigan,Keweenaw County,26083,2026-03-02 06:43:05.668 -0500
+Michigan,Lake County,26085,2026-03-02 06:43:05.668 -0500
+Michigan,Lapeer County,26087,2026-03-02 06:43:05.668 -0500
+Michigan,Leelanau County,26089,2026-03-02 06:43:05.668 -0500
+Michigan,Lenawee County,26091,2026-03-02 06:43:05.668 -0500
+Michigan,Livingston County,26093,2026-03-02 06:43:05.668 -0500
+Michigan,Luce County,26095,2026-03-02 06:43:05.668 -0500
+Michigan,Mackinac County,26097,2026-03-02 06:43:05.668 -0500
+Michigan,Macomb County,26099,2026-03-02 06:43:05.668 -0500
+Michigan,Manistee County,26101,2026-03-02 06:43:05.668 -0500
+Michigan,Marquette County,26103,2026-03-02 06:43:05.668 -0500
+Michigan,Mason County,26105,2026-03-02 06:43:05.668 -0500
+Michigan,Mecosta County,26107,2026-03-02 06:43:05.668 -0500
+Michigan,Menominee County,26109,2026-03-02 06:43:05.668 -0500
+Michigan,Midland County,26111,2026-03-02 06:43:05.668 -0500
+Michigan,Missaukee County,26113,2026-03-02 06:43:05.668 -0500
+Michigan,Monroe County,26115,2026-03-02 06:43:05.668 -0500
+Michigan,Montcalm County,26117,2026-03-02 06:43:05.668 -0500
+Michigan,Montmorency County,26119,2026-03-02 06:43:05.668 -0500
+Michigan,Muskegon County,26121,2026-03-02 06:43:05.668 -0500
+Michigan,Newaygo County,26123,2026-03-02 06:43:05.668 -0500
+Michigan,Oakland County,26125,2026-03-02 06:43:05.668 -0500
+Michigan,Oceana County,26127,2026-03-02 06:43:05.668 -0500
+Michigan,Ogemaw County,26129,2026-03-02 06:43:05.668 -0500
+Michigan,Ontonagon County,26131,2026-03-02 06:43:05.668 -0500
+Michigan,Osceola County,26133,2026-03-02 06:43:05.668 -0500
+Michigan,Oscoda County,26135,2026-03-02 06:43:05.668 -0500
+Michigan,Other County,26000,2026-03-02 06:43:05.668 -0500
+Michigan,Otsego County,26137,2026-03-02 06:43:05.668 -0500
+Michigan,Ottawa County,26139,2026-03-02 06:43:05.668 -0500
+Michigan,Presque Isle County,26141,2026-03-02 06:43:05.668 -0500
+Michigan,Roscommon County,26143,2026-03-02 06:43:05.668 -0500
+Michigan,Saginaw County,26145,2026-03-02 06:43:05.668 -0500
+Michigan,Sanilac County,26151,2026-03-02 06:43:05.668 -0500
+Michigan,Schoolcraft County,26153,2026-03-02 06:43:05.668 -0500
+Michigan,Shiawassee County,26155,2026-03-02 06:43:05.668 -0500
+Michigan,St. Clair County,26147,2026-03-02 06:43:05.668 -0500
+Michigan,St. Joseph County,26149,2026-03-02 06:43:05.668 -0500
+Michigan,Tuscola County,26157,2026-03-02 06:43:05.668 -0500
+Michigan,Van Buren County,26159,2026-03-02 06:43:05.668 -0500
+Michigan,Washtenaw County,26161,2026-03-02 06:43:05.668 -0500
+Michigan,Wayne County,26163,2026-03-02 06:43:05.668 -0500
+Michigan,Wexford County,26165,2026-03-02 06:43:05.668 -0500
+Minnesota,Aitkin County,27001,2026-03-02 06:43:05.668 -0500
+Minnesota,Anoka County,27003,2026-03-02 06:43:05.668 -0500
+Minnesota,Becker County,27005,2026-03-02 06:43:05.668 -0500
+Minnesota,Beltrami County,27007,2026-03-02 06:43:05.668 -0500
+Minnesota,Benton County,27009,2026-03-02 06:43:05.668 -0500
+Minnesota,Big Stone County,27011,2026-03-02 06:43:05.668 -0500
+Minnesota,Blue Earth County,27013,2026-03-02 06:43:05.668 -0500
+Minnesota,Brown County,27015,2026-03-02 06:43:05.668 -0500
+Minnesota,Carlton County,27017,2026-03-02 06:43:05.668 -0500
+Minnesota,Carver County,27019,2026-03-02 06:43:05.668 -0500
+Minnesota,Cass County,27021,2026-03-02 06:43:05.668 -0500
+Minnesota,Chippewa County,27023,2026-03-02 06:43:05.668 -0500
+Minnesota,Chisago County,27025,2026-03-02 06:43:05.668 -0500
+Minnesota,Clay County,27027,2026-03-02 06:43:05.668 -0500
+Minnesota,Clearwater County,27029,2026-03-02 06:43:05.668 -0500
+Minnesota,Cook County,27031,2026-03-02 06:43:05.668 -0500
+Minnesota,Cottonwood County,27033,2026-03-02 06:43:05.668 -0500
+Minnesota,Crow Wing County,27035,2026-03-02 06:43:05.668 -0500
+Minnesota,Dakota County,27037,2026-03-02 06:43:05.668 -0500
+Minnesota,Dodge County,27039,2026-03-02 06:43:05.668 -0500
+Minnesota,Douglas County,27041,2026-03-02 06:43:05.668 -0500
+Minnesota,Faribault County,27043,2026-03-02 06:43:05.668 -0500
+Minnesota,Fillmore County,27045,2026-03-02 06:43:05.668 -0500
+Minnesota,Freeborn County,27047,2026-03-02 06:43:05.668 -0500
+Minnesota,Goodhue County,27049,2026-03-02 06:43:05.668 -0500
+Minnesota,Grant County,27051,2026-03-02 06:43:05.668 -0500
+Minnesota,Hennepin County,27053,2026-03-02 06:43:05.668 -0500
+Minnesota,Houston County,27055,2026-03-02 06:43:05.668 -0500
+Minnesota,Hubbard County,27057,2026-03-02 06:43:05.668 -0500
+Minnesota,Isanti County,27059,2026-03-02 06:43:05.668 -0500
+Minnesota,Itasca County,27061,2026-03-02 06:43:05.668 -0500
+Minnesota,Jackson County,27063,2026-03-02 06:43:05.668 -0500
+Minnesota,Kanabec County,27065,2026-03-02 06:43:05.668 -0500
+Minnesota,Kandiyohi County,27067,2026-03-02 06:43:05.668 -0500
+Minnesota,Kittson County,27069,2026-03-02 06:43:05.668 -0500
+Minnesota,Koochiching County,27071,2026-03-02 06:43:05.668 -0500
+Minnesota,Lac qui Parle County,27073,2026-03-02 06:43:05.668 -0500
+Minnesota,Lake County,27075,2026-03-02 06:43:05.668 -0500
+Minnesota,Lake of the Woods County,27077,2026-03-02 06:43:05.668 -0500
+Minnesota,Le Sueur County,27079,2026-03-02 06:43:05.668 -0500
+Minnesota,Lincoln County,27081,2026-03-02 06:43:05.668 -0500
+Minnesota,Lyon County,27083,2026-03-02 06:43:05.668 -0500
+Minnesota,Mahnomen County,27087,2026-03-02 06:43:05.668 -0500
+Minnesota,Marshall County,27089,2026-03-02 06:43:05.668 -0500
+Minnesota,Martin County,27091,2026-03-02 06:43:05.668 -0500
+Minnesota,McLeod County,27085,2026-03-02 06:43:05.668 -0500
+Minnesota,Meeker County,27093,2026-03-02 06:43:05.668 -0500
+Minnesota,Mille Lacs County,27095,2026-03-02 06:43:05.668 -0500
+Minnesota,Morrison County,27097,2026-03-02 06:43:05.668 -0500
+Minnesota,Mower County,27099,2026-03-02 06:43:05.668 -0500
+Minnesota,Murray County,27101,2026-03-02 06:43:05.668 -0500
+Minnesota,Nicollet County,27103,2026-03-02 06:43:05.668 -0500
+Minnesota,Nobles County,27105,2026-03-02 06:43:05.668 -0500
+Minnesota,Norman County,27107,2026-03-02 06:43:05.668 -0500
+Minnesota,Olmsted County,27109,2026-03-02 06:43:05.668 -0500
+Minnesota,Other County,27000,2026-03-02 06:43:05.668 -0500
+Minnesota,Otter Tail County,27111,2026-03-02 06:43:05.668 -0500
+Minnesota,Pennington County,27113,2026-03-02 06:43:05.668 -0500
+Minnesota,Pine County,27115,2026-03-02 06:43:05.668 -0500
+Minnesota,Pipestone County,27117,2026-03-02 06:43:05.668 -0500
+Minnesota,Polk County,27119,2026-03-02 06:43:05.668 -0500
+Minnesota,Pope County,27121,2026-03-02 06:43:05.668 -0500
+Minnesota,Ramsey County,27123,2026-03-02 06:43:05.668 -0500
+Minnesota,Red Lake County,27125,2026-03-02 06:43:05.668 -0500
+Minnesota,Redwood County,27127,2026-03-02 06:43:05.668 -0500
+Minnesota,Renville County,27129,2026-03-02 06:43:05.668 -0500
+Minnesota,Rice County,27131,2026-03-02 06:43:05.668 -0500
+Minnesota,Rock County,27133,2026-03-02 06:43:05.668 -0500
+Minnesota,Roseau County,27135,2026-03-02 06:43:05.668 -0500
+Minnesota,Scott County,27139,2026-03-02 06:43:05.668 -0500
+Minnesota,Sherburne County,27141,2026-03-02 06:43:05.668 -0500
+Minnesota,Sibley County,27143,2026-03-02 06:43:05.668 -0500
+Minnesota,St. Louis County,27137,2026-03-02 06:43:05.668 -0500
+Minnesota,Stearns County,27145,2026-03-02 06:43:05.668 -0500
+Minnesota,Steele County,27147,2026-03-02 06:43:05.668 -0500
+Minnesota,Stevens County,27149,2026-03-02 06:43:05.668 -0500
+Minnesota,Swift County,27151,2026-03-02 06:43:05.668 -0500
+Minnesota,Todd County,27153,2026-03-02 06:43:05.668 -0500
+Minnesota,Traverse County,27155,2026-03-02 06:43:05.668 -0500
+Minnesota,Wabasha County,27157,2026-03-02 06:43:05.668 -0500
+Minnesota,Wadena County,27159,2026-03-02 06:43:05.668 -0500
+Minnesota,Waseca County,27161,2026-03-02 06:43:05.668 -0500
+Minnesota,Washington County,27163,2026-03-02 06:43:05.668 -0500
+Minnesota,Watonwan County,27165,2026-03-02 06:43:05.668 -0500
+Minnesota,Wilkin County,27167,2026-03-02 06:43:05.668 -0500
+Minnesota,Winona County,27169,2026-03-02 06:43:05.668 -0500
+Minnesota,Wright County,27171,2026-03-02 06:43:05.668 -0500
+Minnesota,Yellow Medicine County,27173,2026-03-02 06:43:05.668 -0500
+Mississippi,Adams County,28001,2026-03-02 06:43:05.668 -0500
+Mississippi,Alcorn County,28003,2026-03-02 06:43:05.668 -0500
+Mississippi,Amite County,28005,2026-03-02 06:43:05.668 -0500
+Mississippi,Attala County,28007,2026-03-02 06:43:05.668 -0500
+Mississippi,Benton County,28009,2026-03-02 06:43:05.668 -0500
+Mississippi,Bolivar County,28011,2026-03-02 06:43:05.668 -0500
+Mississippi,Calhoun County,28013,2026-03-02 06:43:05.668 -0500
+Mississippi,Carroll County,28015,2026-03-02 06:43:05.668 -0500
+Mississippi,Chickasaw County,28017,2026-03-02 06:43:05.668 -0500
+Mississippi,Choctaw County,28019,2026-03-02 06:43:05.668 -0500
+Mississippi,Claiborne County,28021,2026-03-02 06:43:05.668 -0500
+Mississippi,Clarke County,28023,2026-03-02 06:43:05.668 -0500
+Mississippi,Clay County,28025,2026-03-02 06:43:05.668 -0500
+Mississippi,Coahoma County,28027,2026-03-02 06:43:05.668 -0500
+Mississippi,Copiah County,28029,2026-03-02 06:43:05.668 -0500
+Mississippi,Covington County,28031,2026-03-02 06:43:05.668 -0500
+Mississippi,DeSoto County,28033,2026-03-02 06:43:05.668 -0500
+Mississippi,Forrest County,28035,2026-03-02 06:43:05.668 -0500
+Mississippi,Franklin County,28037,2026-03-02 06:43:05.668 -0500
+Mississippi,George County,28039,2026-03-02 06:43:05.668 -0500
+Mississippi,Greene County,28041,2026-03-02 06:43:05.668 -0500
+Mississippi,Grenada County,28043,2026-03-02 06:43:05.668 -0500
+Mississippi,Hancock County,28045,2026-03-02 06:43:05.668 -0500
+Mississippi,Harrison County,28047,2026-03-02 06:43:05.668 -0500
+Mississippi,Hinds County,28049,2026-03-02 06:43:05.668 -0500
+Mississippi,Holmes County,28051,2026-03-02 06:43:05.668 -0500
+Mississippi,Humphreys County,28053,2026-03-02 06:43:05.668 -0500
+Mississippi,Issaquena County,28055,2026-03-02 06:43:05.668 -0500
+Mississippi,Itawamba County,28057,2026-03-02 06:43:05.668 -0500
+Mississippi,Jackson County,28059,2026-03-02 06:43:05.668 -0500
+Mississippi,Jasper County,28061,2026-03-02 06:43:05.668 -0500
+Mississippi,Jefferson County,28063,2026-03-02 06:43:05.668 -0500
+Mississippi,Jefferson Davis County,28065,2026-03-02 06:43:05.668 -0500
+Mississippi,Jones County,28067,2026-03-02 06:43:05.668 -0500
+Mississippi,Kemper County,28069,2026-03-02 06:43:05.668 -0500
+Mississippi,Lafayette County,28071,2026-03-02 06:43:05.668 -0500
+Mississippi,Lamar County,28073,2026-03-02 06:43:05.668 -0500
+Mississippi,Lauderdale County,28075,2026-03-02 06:43:05.668 -0500
+Mississippi,Lawrence County,28077,2026-03-02 06:43:05.668 -0500
+Mississippi,Leake County,28079,2026-03-02 06:43:05.668 -0500
+Mississippi,Lee County,28081,2026-03-02 06:43:05.668 -0500
+Mississippi,Leflore County,28083,2026-03-02 06:43:05.668 -0500
+Mississippi,Lincoln County,28085,2026-03-02 06:43:05.668 -0500
+Mississippi,Lowndes County,28087,2026-03-02 06:43:05.668 -0500
+Mississippi,Madison County,28089,2026-03-02 06:43:05.668 -0500
+Mississippi,Marion County,28091,2026-03-02 06:43:05.668 -0500
+Mississippi,Marshall County,28093,2026-03-02 06:43:05.668 -0500
+Mississippi,Monroe County,28095,2026-03-02 06:43:05.668 -0500
+Mississippi,Montgomery County,28097,2026-03-02 06:43:05.668 -0500
+Mississippi,Neshoba County,28099,2026-03-02 06:43:05.668 -0500
+Mississippi,Newton County,28101,2026-03-02 06:43:05.668 -0500
+Mississippi,Noxubee County,28103,2026-03-02 06:43:05.668 -0500
+Mississippi,Oktibbeha County,28105,2026-03-02 06:43:05.668 -0500
+Mississippi,Other County,28000,2026-03-02 06:43:05.668 -0500
+Mississippi,Panola County,28107,2026-03-02 06:43:05.668 -0500
+Mississippi,Pearl River County,28109,2026-03-02 06:43:05.668 -0500
+Mississippi,Perry County,28111,2026-03-02 06:43:05.668 -0500
+Mississippi,Pike County,28113,2026-03-02 06:43:05.668 -0500
+Mississippi,Pontotoc County,28115,2026-03-02 06:43:05.668 -0500
+Mississippi,Prentiss County,28117,2026-03-02 06:43:05.668 -0500
+Mississippi,Quitman County,28119,2026-03-02 06:43:05.668 -0500
+Mississippi,Rankin County,28121,2026-03-02 06:43:05.668 -0500
+Mississippi,Scott County,28123,2026-03-02 06:43:05.668 -0500
+Mississippi,Sharkey County,28125,2026-03-02 06:43:05.668 -0500
+Mississippi,Simpson County,28127,2026-03-02 06:43:05.668 -0500
+Mississippi,Smith County,28129,2026-03-02 06:43:05.668 -0500
+Mississippi,Stone County,28131,2026-03-02 06:43:05.668 -0500
+Mississippi,Sunflower County,28133,2026-03-02 06:43:05.668 -0500
+Mississippi,Tallahatchie County,28135,2026-03-02 06:43:05.668 -0500
+Mississippi,Tate County,28137,2026-03-02 06:43:05.668 -0500
+Mississippi,Tippah County,28139,2026-03-02 06:43:05.668 -0500
+Mississippi,Tishomingo County,28141,2026-03-02 06:43:05.668 -0500
+Mississippi,Tunica County,28143,2026-03-02 06:43:05.668 -0500
+Mississippi,Union County,28145,2026-03-02 06:43:05.668 -0500
+Mississippi,Walthall County,28147,2026-03-02 06:43:05.668 -0500
+Mississippi,Warren County,28149,2026-03-02 06:43:05.668 -0500
+Mississippi,Washington County,28151,2026-03-02 06:43:05.668 -0500
+Mississippi,Wayne County,28153,2026-03-02 06:43:05.668 -0500
+Mississippi,Webster County,28155,2026-03-02 06:43:05.668 -0500
+Mississippi,Wilkinson County,28157,2026-03-02 06:43:05.668 -0500
+Mississippi,Winston County,28159,2026-03-02 06:43:05.668 -0500
+Mississippi,Yalobusha County,28161,2026-03-02 06:43:05.668 -0500
+Mississippi,Yazoo County,28163,2026-03-02 06:43:05.668 -0500
+Missouri,Adair County,29001,2026-03-02 06:43:05.668 -0500
+Missouri,Andrew County,29003,2026-03-02 06:43:05.668 -0500
+Missouri,Atchison County,29005,2026-03-02 06:43:05.668 -0500
+Missouri,Audrain County,29007,2026-03-02 06:43:05.668 -0500
+Missouri,Barry County,29009,2026-03-02 06:43:05.668 -0500
+Missouri,Barton County,29011,2026-03-02 06:43:05.668 -0500
+Missouri,Bates County,29013,2026-03-02 06:43:05.668 -0500
+Missouri,Benton County,29015,2026-03-02 06:43:05.668 -0500
+Missouri,Bollinger County,29017,2026-03-02 06:43:05.668 -0500
+Missouri,Boone County,29019,2026-03-02 06:43:05.668 -0500
+Missouri,Buchanan County,29021,2026-03-02 06:43:05.668 -0500
+Missouri,Butler County,29023,2026-03-02 06:43:05.668 -0500
+Missouri,Caldwell County,29025,2026-03-02 06:43:05.668 -0500
+Missouri,Callaway County,29027,2026-03-02 06:43:05.668 -0500
+Missouri,Camden County,29029,2026-03-02 06:43:05.668 -0500
+Missouri,Cape Girardeau County,29031,2026-03-02 06:43:05.668 -0500
+Missouri,Carroll County,29033,2026-03-02 06:43:05.668 -0500
+Missouri,Carter County,29035,2026-03-02 06:43:05.668 -0500
+Missouri,Cass County,29037,2026-03-02 06:43:05.668 -0500
+Missouri,Cedar County,29039,2026-03-02 06:43:05.668 -0500
+Missouri,Chariton County,29041,2026-03-02 06:43:05.668 -0500
+Missouri,Christian County,29043,2026-03-02 06:43:05.668 -0500
+Missouri,Clark County,29045,2026-03-02 06:43:05.668 -0500
+Missouri,Clay County,29047,2026-03-02 06:43:05.668 -0500
+Missouri,Clinton County,29049,2026-03-02 06:43:05.668 -0500
+Missouri,Cole County,29051,2026-03-02 06:43:05.668 -0500
+Missouri,Cooper County,29053,2026-03-02 06:43:05.668 -0500
+Missouri,Crawford County,29055,2026-03-02 06:43:05.668 -0500
+Missouri,Dade County,29057,2026-03-02 06:43:05.668 -0500
+Missouri,Dallas County,29059,2026-03-02 06:43:05.668 -0500
+Missouri,Daviess County,29061,2026-03-02 06:43:05.668 -0500
+Missouri,DeKalb County,29063,2026-03-02 06:43:05.668 -0500
+Missouri,Dent County,29065,2026-03-02 06:43:05.668 -0500
+Missouri,Douglas County,29067,2026-03-02 06:43:05.668 -0500
+Missouri,Dunklin County,29069,2026-03-02 06:43:05.668 -0500
+Missouri,Franklin County,29071,2026-03-02 06:43:05.668 -0500
+Missouri,Gasconade County,29073,2026-03-02 06:43:05.668 -0500
+Missouri,Gentry County,29075,2026-03-02 06:43:05.668 -0500
+Missouri,Greene County,29077,2026-03-02 06:43:05.668 -0500
+Missouri,Grundy County,29079,2026-03-02 06:43:05.668 -0500
+Missouri,Harrison County,29081,2026-03-02 06:43:05.668 -0500
+Missouri,Henry County,29083,2026-03-02 06:43:05.668 -0500
+Missouri,Hickory County,29085,2026-03-02 06:43:05.668 -0500
+Missouri,Holt County,29087,2026-03-02 06:43:05.668 -0500
+Missouri,Howard County,29089,2026-03-02 06:43:05.668 -0500
+Missouri,Howell County,29091,2026-03-02 06:43:05.668 -0500
+Missouri,Iron County,29093,2026-03-02 06:43:05.668 -0500
+Missouri,Jackson County,29095,2026-03-02 06:43:05.668 -0500
+Missouri,Jasper County,29097,2026-03-02 06:43:05.668 -0500
+Missouri,Jefferson County,29099,2026-03-02 06:43:05.668 -0500
+Missouri,Johnson County,29101,2026-03-02 06:43:05.668 -0500
+Missouri,Knox County,29103,2026-03-02 06:43:05.668 -0500
+Missouri,Laclede County,29105,2026-03-02 06:43:05.668 -0500
+Missouri,Lafayette County,29107,2026-03-02 06:43:05.668 -0500
+Missouri,Lawrence County,29109,2026-03-02 06:43:05.668 -0500
+Missouri,Lewis County,29111,2026-03-02 06:43:05.668 -0500
+Missouri,Lincoln County,29113,2026-03-02 06:43:05.668 -0500
+Missouri,Linn County,29115,2026-03-02 06:43:05.668 -0500
+Missouri,Livingston County,29117,2026-03-02 06:43:05.668 -0500
+Missouri,Macon County,29121,2026-03-02 06:43:05.668 -0500
+Missouri,Madison County,29123,2026-03-02 06:43:05.668 -0500
+Missouri,Maries County,29125,2026-03-02 06:43:05.668 -0500
+Missouri,Marion County,29127,2026-03-02 06:43:05.668 -0500
+Missouri,McDonald County,29119,2026-03-02 06:43:05.668 -0500
+Missouri,Mercer County,29129,2026-03-02 06:43:05.668 -0500
+Missouri,Miller County,29131,2026-03-02 06:43:05.668 -0500
+Missouri,Mississippi County,29133,2026-03-02 06:43:05.668 -0500
+Missouri,Moniteau County,29135,2026-03-02 06:43:05.668 -0500
+Missouri,Monroe County,29137,2026-03-02 06:43:05.668 -0500
+Missouri,Montgomery County,29139,2026-03-02 06:43:05.668 -0500
+Missouri,Morgan County,29141,2026-03-02 06:43:05.668 -0500
+Missouri,New Madrid County,29143,2026-03-02 06:43:05.668 -0500
+Missouri,Newton County,29145,2026-03-02 06:43:05.668 -0500
+Missouri,Nodaway County,29147,2026-03-02 06:43:05.668 -0500
+Missouri,Oregon County,29149,2026-03-02 06:43:05.668 -0500
+Missouri,Osage County,29151,2026-03-02 06:43:05.668 -0500
+Missouri,Other County,29000,2026-03-02 06:43:05.668 -0500
+Missouri,Ozark County,29153,2026-03-02 06:43:05.668 -0500
+Missouri,Pemiscot County,29155,2026-03-02 06:43:05.668 -0500
+Missouri,Perry County,29157,2026-03-02 06:43:05.668 -0500
+Missouri,Pettis County,29159,2026-03-02 06:43:05.668 -0500
+Missouri,Phelps County,29161,2026-03-02 06:43:05.668 -0500
+Missouri,Pike County,29163,2026-03-02 06:43:05.668 -0500
+Missouri,Platte County,29165,2026-03-02 06:43:05.668 -0500
+Missouri,Polk County,29167,2026-03-02 06:43:05.668 -0500
+Missouri,Pulaski County,29169,2026-03-02 06:43:05.668 -0500
+Missouri,Putnam County,29171,2026-03-02 06:43:05.668 -0500
+Missouri,Ralls County,29173,2026-03-02 06:43:05.668 -0500
+Missouri,Randolph County,29175,2026-03-02 06:43:05.668 -0500
+Missouri,Ray County,29177,2026-03-02 06:43:05.668 -0500
+Missouri,Reynolds County,29179,2026-03-02 06:43:05.668 -0500
+Missouri,Ripley County,29181,2026-03-02 06:43:05.668 -0500
+Missouri,Saline County,29195,2026-03-02 06:43:05.668 -0500
+Missouri,Schuyler County,29197,2026-03-02 06:43:05.668 -0500
+Missouri,Scotland County,29199,2026-03-02 06:43:05.668 -0500
+Missouri,Scott County,29201,2026-03-02 06:43:05.668 -0500
+Missouri,Shannon County,29203,2026-03-02 06:43:05.668 -0500
+Missouri,Shelby County,29205,2026-03-02 06:43:05.668 -0500
+Missouri,St. Charles County,29183,2026-03-02 06:43:05.668 -0500
+Missouri,St. Clair County,29185,2026-03-02 06:43:05.668 -0500
+Missouri,St. Francois County,29187,2026-03-02 06:43:05.668 -0500
+Missouri,St. Louis County,29189,2026-03-02 06:43:05.668 -0500
+Missouri,St. Louis city,29510,2026-03-02 06:43:05.668 -0500
+Missouri,Ste. Genevieve County,29186,2026-03-02 06:43:05.668 -0500
+Missouri,Stoddard County,29207,2026-03-02 06:43:05.668 -0500
+Missouri,Stone County,29209,2026-03-02 06:43:05.668 -0500
+Missouri,Sullivan County,29211,2026-03-02 06:43:05.668 -0500
+Missouri,Taney County,29213,2026-03-02 06:43:05.668 -0500
+Missouri,Texas County,29215,2026-03-02 06:43:05.668 -0500
+Missouri,Vernon County,29217,2026-03-02 06:43:05.668 -0500
+Missouri,Warren County,29219,2026-03-02 06:43:05.668 -0500
+Missouri,Washington County,29221,2026-03-02 06:43:05.668 -0500
+Missouri,Wayne County,29223,2026-03-02 06:43:05.668 -0500
+Missouri,Webster County,29225,2026-03-02 06:43:05.668 -0500
+Missouri,Worth County,29227,2026-03-02 06:43:05.668 -0500
+Missouri,Wright County,29229,2026-03-02 06:43:05.668 -0500
+Montana,Beaverhead County,30001,2026-03-02 06:43:05.668 -0500
+Montana,Big Horn County,30003,2026-03-02 06:43:05.668 -0500
+Montana,Blaine County,30005,2026-03-02 06:43:05.668 -0500
+Montana,Broadwater County,30007,2026-03-02 06:43:05.668 -0500
+Montana,Carbon County,30009,2026-03-02 06:43:05.668 -0500
+Montana,Carter County,30011,2026-03-02 06:43:05.668 -0500
+Montana,Cascade County,30013,2026-03-02 06:43:05.668 -0500
+Montana,Chouteau County,30015,2026-03-02 06:43:05.668 -0500
+Montana,Custer County,30017,2026-03-02 06:43:05.668 -0500
+Montana,Daniels County,30019,2026-03-02 06:43:05.668 -0500
+Montana,Dawson County,30021,2026-03-02 06:43:05.668 -0500
+Montana,Deer Lodge County,30023,2026-03-02 06:43:05.668 -0500
+Montana,Fallon County,30025,2026-03-02 06:43:05.668 -0500
+Montana,Fergus County,30027,2026-03-02 06:43:05.668 -0500
+Montana,Flathead County,30029,2026-03-02 06:43:05.668 -0500
+Montana,Gallatin County,30031,2026-03-02 06:43:05.668 -0500
+Montana,Garfield County,30033,2026-03-02 06:43:05.668 -0500
+Montana,Glacier County,30035,2026-03-02 06:43:05.668 -0500
+Montana,Golden Valley County,30037,2026-03-02 06:43:05.668 -0500
+Montana,Granite County,30039,2026-03-02 06:43:05.668 -0500
+Montana,Hill County,30041,2026-03-02 06:43:05.668 -0500
+Montana,Jefferson County,30043,2026-03-02 06:43:05.668 -0500
+Montana,Judith Basin County,30045,2026-03-02 06:43:05.668 -0500
+Montana,Lake County,30047,2026-03-02 06:43:05.668 -0500
+Montana,Lewis and Clark County,30049,2026-03-02 06:43:05.668 -0500
+Montana,Liberty County,30051,2026-03-02 06:43:05.668 -0500
+Montana,Lincoln County,30053,2026-03-02 06:43:05.668 -0500
+Montana,Madison County,30057,2026-03-02 06:43:05.668 -0500
+Montana,McCone County,30055,2026-03-02 06:43:05.668 -0500
+Montana,Meagher County,30059,2026-03-02 06:43:05.668 -0500
+Montana,Mineral County,30061,2026-03-02 06:43:05.668 -0500
+Montana,Missoula County,30063,2026-03-02 06:43:05.668 -0500
+Montana,Musselshell County,30065,2026-03-02 06:43:05.668 -0500
+Montana,Other County,30000,2026-03-02 06:43:05.668 -0500
+Montana,Park County,30067,2026-03-02 06:43:05.668 -0500
+Montana,Petroleum County,30069,2026-03-02 06:43:05.668 -0500
+Montana,Phillips County,30071,2026-03-02 06:43:05.668 -0500
+Montana,Pondera County,30073,2026-03-02 06:43:05.668 -0500
+Montana,Powder River County,30075,2026-03-02 06:43:05.668 -0500
+Montana,Powell County,30077,2026-03-02 06:43:05.668 -0500
+Montana,Prairie County,30079,2026-03-02 06:43:05.668 -0500
+Montana,Ravalli County,30081,2026-03-02 06:43:05.668 -0500
+Montana,Richland County,30083,2026-03-02 06:43:05.668 -0500
+Montana,Roosevelt County,30085,2026-03-02 06:43:05.668 -0500
+Montana,Rosebud County,30087,2026-03-02 06:43:05.668 -0500
+Montana,Sanders County,30089,2026-03-02 06:43:05.668 -0500
+Montana,Sheridan County,30091,2026-03-02 06:43:05.668 -0500
+Montana,Silver Bow County,30093,2026-03-02 06:43:05.668 -0500
+Montana,Stillwater County,30095,2026-03-02 06:43:05.668 -0500
+Montana,Sweet Grass County,30097,2026-03-02 06:43:05.668 -0500
+Montana,Teton County,30099,2026-03-02 06:43:05.668 -0500
+Montana,Toole County,30101,2026-03-02 06:43:05.668 -0500
+Montana,Treasure County,30103,2026-03-02 06:43:05.668 -0500
+Montana,Valley County,30105,2026-03-02 06:43:05.668 -0500
+Montana,Wheatland County,30107,2026-03-02 06:43:05.668 -0500
+Montana,Wibaux County,30109,2026-03-02 06:43:05.668 -0500
+Montana,Yellowstone County,30111,2026-03-02 06:43:05.668 -0500
+Nebraska,Adams County,31001,2026-03-02 06:43:05.668 -0500
+Nebraska,Antelope County,31003,2026-03-02 06:43:05.668 -0500
+Nebraska,Arthur County,31005,2026-03-02 06:43:05.668 -0500
+Nebraska,Banner County,31007,2026-03-02 06:43:05.668 -0500
+Nebraska,Blaine County,31009,2026-03-02 06:43:05.668 -0500
+Nebraska,Boone County,31011,2026-03-02 06:43:05.668 -0500
+Nebraska,Box Butte County,31013,2026-03-02 06:43:05.668 -0500
+Nebraska,Boyd County,31015,2026-03-02 06:43:05.668 -0500
+Nebraska,Brown County,31017,2026-03-02 06:43:05.668 -0500
+Nebraska,Buffalo County,31019,2026-03-02 06:43:05.668 -0500
+Nebraska,Burt County,31021,2026-03-02 06:43:05.668 -0500
+Nebraska,Butler County,31023,2026-03-02 06:43:05.668 -0500
+Nebraska,Cass County,31025,2026-03-02 06:43:05.668 -0500
+Nebraska,Cedar County,31027,2026-03-02 06:43:05.668 -0500
+Nebraska,Chase County,31029,2026-03-02 06:43:05.668 -0500
+Nebraska,Cherry County,31031,2026-03-02 06:43:05.668 -0500
+Nebraska,Cheyenne County,31033,2026-03-02 06:43:05.668 -0500
+Nebraska,Clay County,31035,2026-03-02 06:43:05.668 -0500
+Nebraska,Colfax County,31037,2026-03-02 06:43:05.668 -0500
+Nebraska,Cuming County,31039,2026-03-02 06:43:05.668 -0500
+Nebraska,Custer County,31041,2026-03-02 06:43:05.668 -0500
+Nebraska,Dakota County,31043,2026-03-02 06:43:05.668 -0500
+Nebraska,Dawes County,31045,2026-03-02 06:43:05.668 -0500
+Nebraska,Dawson County,31047,2026-03-02 06:43:05.668 -0500
+Nebraska,Deuel County,31049,2026-03-02 06:43:05.668 -0500
+Nebraska,Dixon County,31051,2026-03-02 06:43:05.668 -0500
+Nebraska,Dodge County,31053,2026-03-02 06:43:05.668 -0500
+Nebraska,Douglas County,31055,2026-03-02 06:43:05.668 -0500
+Nebraska,Dundy County,31057,2026-03-02 06:43:05.668 -0500
+Nebraska,Fillmore County,31059,2026-03-02 06:43:05.668 -0500
+Nebraska,Franklin County,31061,2026-03-02 06:43:05.668 -0500
+Nebraska,Frontier County,31063,2026-03-02 06:43:05.668 -0500
+Nebraska,Furnas County,31065,2026-03-02 06:43:05.668 -0500
+Nebraska,Gage County,31067,2026-03-02 06:43:05.668 -0500
+Nebraska,Garden County,31069,2026-03-02 06:43:05.668 -0500
+Nebraska,Garfield County,31071,2026-03-02 06:43:05.668 -0500
+Nebraska,Gosper County,31073,2026-03-02 06:43:05.668 -0500
+Nebraska,Grant County,31075,2026-03-02 06:43:05.668 -0500
+Nebraska,Greeley County,31077,2026-03-02 06:43:05.668 -0500
+Nebraska,Hall County,31079,2026-03-02 06:43:05.668 -0500
+Nebraska,Hamilton County,31081,2026-03-02 06:43:05.668 -0500
+Nebraska,Harlan County,31083,2026-03-02 06:43:05.668 -0500
+Nebraska,Hayes County,31085,2026-03-02 06:43:05.668 -0500
+Nebraska,Hitchcock County,31087,2026-03-02 06:43:05.668 -0500
+Nebraska,Holt County,31089,2026-03-02 06:43:05.668 -0500
+Nebraska,Hooker County,31091,2026-03-02 06:43:05.668 -0500
+Nebraska,Howard County,31093,2026-03-02 06:43:05.668 -0500
+Nebraska,Jefferson County,31095,2026-03-02 06:43:05.668 -0500
+Nebraska,Johnson County,31097,2026-03-02 06:43:05.668 -0500
+Nebraska,Kearney County,31099,2026-03-02 06:43:05.668 -0500
+Nebraska,Keith County,31101,2026-03-02 06:43:05.668 -0500
+Nebraska,Keya Paha County,31103,2026-03-02 06:43:05.668 -0500
+Nebraska,Kimball County,31105,2026-03-02 06:43:05.668 -0500
+Nebraska,Knox County,31107,2026-03-02 06:43:05.668 -0500
+Nebraska,Lancaster County,31109,2026-03-02 06:43:05.668 -0500
+Nebraska,Lincoln County,31111,2026-03-02 06:43:05.668 -0500
+Nebraska,Logan County,31113,2026-03-02 06:43:05.668 -0500
+Nebraska,Loup County,31115,2026-03-02 06:43:05.668 -0500
+Nebraska,Madison County,31119,2026-03-02 06:43:05.668 -0500
+Nebraska,McPherson County,31117,2026-03-02 06:43:05.668 -0500
+Nebraska,Merrick County,31121,2026-03-02 06:43:05.668 -0500
+Nebraska,Morrill County,31123,2026-03-02 06:43:05.668 -0500
+Nebraska,Nance County,31125,2026-03-02 06:43:05.668 -0500
+Nebraska,Nemaha County,31127,2026-03-02 06:43:05.668 -0500
+Nebraska,Nuckolls County,31129,2026-03-02 06:43:05.668 -0500
+Nebraska,Other County,31000,2026-03-02 06:43:05.668 -0500
+Nebraska,Otoe County,31131,2026-03-02 06:43:05.668 -0500
+Nebraska,Pawnee County,31133,2026-03-02 06:43:05.668 -0500
+Nebraska,Perkins County,31135,2026-03-02 06:43:05.668 -0500
+Nebraska,Phelps County,31137,2026-03-02 06:43:05.668 -0500
+Nebraska,Pierce County,31139,2026-03-02 06:43:05.668 -0500
+Nebraska,Platte County,31141,2026-03-02 06:43:05.668 -0500
+Nebraska,Polk County,31143,2026-03-02 06:43:05.668 -0500
+Nebraska,Red Willow County,31145,2026-03-02 06:43:05.668 -0500
+Nebraska,Richardson County,31147,2026-03-02 06:43:05.668 -0500
+Nebraska,Rock County,31149,2026-03-02 06:43:05.668 -0500
+Nebraska,Saline County,31151,2026-03-02 06:43:05.668 -0500
+Nebraska,Sarpy County,31153,2026-03-02 06:43:05.668 -0500
+Nebraska,Saunders County,31155,2026-03-02 06:43:05.668 -0500
+Nebraska,Scotts Bluff County,31157,2026-03-02 06:43:05.668 -0500
+Nebraska,Seward County,31159,2026-03-02 06:43:05.668 -0500
+Nebraska,Sheridan County,31161,2026-03-02 06:43:05.668 -0500
+Nebraska,Sherman County,31163,2026-03-02 06:43:05.668 -0500
+Nebraska,Sioux County,31165,2026-03-02 06:43:05.668 -0500
+Nebraska,Stanton County,31167,2026-03-02 06:43:05.668 -0500
+Nebraska,Thayer County,31169,2026-03-02 06:43:05.668 -0500
+Nebraska,Thomas County,31171,2026-03-02 06:43:05.668 -0500
+Nebraska,Thurston County,31173,2026-03-02 06:43:05.668 -0500
+Nebraska,Valley County,31175,2026-03-02 06:43:05.668 -0500
+Nebraska,Washington County,31177,2026-03-02 06:43:05.668 -0500
+Nebraska,Wayne County,31179,2026-03-02 06:43:05.668 -0500
+Nebraska,Webster County,31181,2026-03-02 06:43:05.668 -0500
+Nebraska,Wheeler County,31183,2026-03-02 06:43:05.668 -0500
+Nebraska,York County,31185,2026-03-02 06:43:05.668 -0500
+Nevada,Carson City,32510,2026-03-02 06:43:05.668 -0500
+Nevada,Churchill County,32001,2026-03-02 06:43:05.668 -0500
+Nevada,Clark County,32003,2026-03-02 06:43:05.668 -0500
+Nevada,Douglas County,32005,2026-03-02 06:43:05.668 -0500
+Nevada,Elko County,32007,2026-03-02 06:43:05.668 -0500
+Nevada,Esmeralda County,32009,2026-03-02 06:43:05.668 -0500
+Nevada,Eureka County,32011,2026-03-02 06:43:05.668 -0500
+Nevada,Humboldt County,32013,2026-03-02 06:43:05.668 -0500
+Nevada,Lander County,32015,2026-03-02 06:43:05.668 -0500
+Nevada,Lincoln County,32017,2026-03-02 06:43:05.668 -0500
+Nevada,Lyon County,32019,2026-03-02 06:43:05.668 -0500
+Nevada,Mineral County,32021,2026-03-02 06:43:05.668 -0500
+Nevada,Nye County,32023,2026-03-02 06:43:05.668 -0500
+Nevada,Other County,32000,2026-03-02 06:43:05.668 -0500
+Nevada,Pershing County,32027,2026-03-02 06:43:05.668 -0500
+Nevada,Storey County,32029,2026-03-02 06:43:05.668 -0500
+Nevada,Washoe County,32031,2026-03-02 06:43:05.668 -0500
+Nevada,White Pine County,32033,2026-03-02 06:43:05.668 -0500
+New Hampshire,Belknap County,33001,2026-03-02 06:43:05.668 -0500
+New Hampshire,Carroll County,33003,2026-03-02 06:43:05.668 -0500
+New Hampshire,Cheshire County,33005,2026-03-02 06:43:05.668 -0500
+New Hampshire,Coos County,33007,2026-03-02 06:43:05.668 -0500
+New Hampshire,Grafton County,33009,2026-03-02 06:43:05.668 -0500
+New Hampshire,Hillsborough County,33011,2026-03-02 06:43:05.668 -0500
+New Hampshire,Merrimack County,33013,2026-03-02 06:43:05.668 -0500
+New Hampshire,Other County,33000,2026-03-02 06:43:05.668 -0500
+New Hampshire,Rockingham County,33015,2026-03-02 06:43:05.668 -0500
+New Hampshire,Strafford County,33017,2026-03-02 06:43:05.668 -0500
+New Hampshire,Sullivan County,33019,2026-03-02 06:43:05.668 -0500
+New Jersey,Atlantic County,34001,2026-03-02 06:43:05.668 -0500
+New Jersey,Bergen County,34003,2026-03-02 06:43:05.668 -0500
+New Jersey,Burlington County,34005,2026-03-02 06:43:05.668 -0500
+New Jersey,Camden County,34007,2026-03-02 06:43:05.668 -0500
+New Jersey,Cape May County,34009,2026-03-02 06:43:05.668 -0500
+New Jersey,Cumberland County,34011,2026-03-02 06:43:05.668 -0500
+New Jersey,Essex County,34013,2026-03-02 06:43:05.668 -0500
+New Jersey,Gloucester County,34015,2026-03-02 06:43:05.668 -0500
+New Jersey,Hudson County,34017,2026-03-02 06:43:05.668 -0500
+New Jersey,Hunterdon County,34019,2026-03-02 06:43:05.668 -0500
+New Jersey,Mercer County,34021,2026-03-02 06:43:05.668 -0500
+New Jersey,Middlesex County,34023,2026-03-02 06:43:05.668 -0500
+New Jersey,Monmouth County,34025,2026-03-02 06:43:05.668 -0500
+New Jersey,Morris County,34027,2026-03-02 06:43:05.668 -0500
+New Jersey,Ocean County,34029,2026-03-02 06:43:05.668 -0500
+New Jersey,Other County,34000,2026-03-02 06:43:05.668 -0500
+New Jersey,Passaic County,34031,2026-03-02 06:43:05.668 -0500
+New Jersey,Salem County,34033,2026-03-02 06:43:05.668 -0500
+New Jersey,Somerset County,34035,2026-03-02 06:43:05.668 -0500
+New Jersey,Sussex County,34037,2026-03-02 06:43:05.668 -0500
+New Jersey,Union County,34039,2026-03-02 06:43:05.668 -0500
+New Jersey,Warren County,34041,2026-03-02 06:43:05.668 -0500
+New Mexico,Bernalillo County,35001,2026-03-02 06:43:05.668 -0500
+New Mexico,Catron County,35003,2026-03-02 06:43:05.668 -0500
+New Mexico,Chaves County,35005,2026-03-02 06:43:05.668 -0500
+New Mexico,Cibola County,35006,2026-03-02 06:43:05.668 -0500
+New Mexico,Colfax County,35007,2026-03-02 06:43:05.668 -0500
+New Mexico,Curry County,35009,2026-03-02 06:43:05.668 -0500
+New Mexico,De Baca County,35011,2026-03-02 06:43:05.668 -0500
+New Mexico,Dona Ana County,35013,2026-03-02 06:43:05.668 -0500
+New Mexico,Eddy County,35015,2026-03-02 06:43:05.668 -0500
+New Mexico,Grant County,35017,2026-03-02 06:43:05.668 -0500
+New Mexico,Guadalupe County,35019,2026-03-02 06:43:05.668 -0500
+New Mexico,Harding County,35021,2026-03-02 06:43:05.668 -0500
+New Mexico,Hidalgo County,35023,2026-03-02 06:43:05.668 -0500
+New Mexico,Lea County,35025,2026-03-02 06:43:05.668 -0500
+New Mexico,Lincoln County,35027,2026-03-02 06:43:05.668 -0500
+New Mexico,Los Alamos County,35028,2026-03-02 06:43:05.668 -0500
+New Mexico,Luna County,35029,2026-03-02 06:43:05.668 -0500
+New Mexico,McKinley County,35031,2026-03-02 06:43:05.668 -0500
+New Mexico,Mora County,35033,2026-03-02 06:43:05.668 -0500
+New Mexico,Otero County,35035,2026-03-02 06:43:05.668 -0500
+New Mexico,Other County,35000,2026-03-02 06:43:05.668 -0500
+New Mexico,Quay County,35037,2026-03-02 06:43:05.668 -0500
+New Mexico,Rio Arriba County,35039,2026-03-02 06:43:05.668 -0500
+New Mexico,Roosevelt County,35041,2026-03-02 06:43:05.668 -0500
+New Mexico,San Juan County,35045,2026-03-02 06:43:05.668 -0500
+New Mexico,San Miguel County,35047,2026-03-02 06:43:05.668 -0500
+New Mexico,Sandoval County,35043,2026-03-02 06:43:05.668 -0500
+New Mexico,Santa Fe County,35049,2026-03-02 06:43:05.668 -0500
+New Mexico,Sierra County,35051,2026-03-02 06:43:05.668 -0500
+New Mexico,Socorro County,35053,2026-03-02 06:43:05.668 -0500
+New Mexico,Taos County,35055,2026-03-02 06:43:05.668 -0500
+New Mexico,Torrance County,35057,2026-03-02 06:43:05.668 -0500
+New Mexico,Union County,35059,2026-03-02 06:43:05.668 -0500
+New Mexico,Valencia County,35061,2026-03-02 06:43:05.668 -0500
+New York,Albany County,36001,2026-03-02 06:43:05.668 -0500
+New York,Allegany County,36003,2026-03-02 06:43:05.668 -0500
+New York,Bronx County,36005,2026-03-02 06:43:05.668 -0500
+New York,Broome County,36007,2026-03-02 06:43:05.668 -0500
+New York,Cattaraugus County,36009,2026-03-02 06:43:05.668 -0500
+New York,Cayuga County,36011,2026-03-02 06:43:05.668 -0500
+New York,Chautauqua County,36013,2026-03-02 06:43:05.668 -0500
+New York,Chemung County,36015,2026-03-02 06:43:05.668 -0500
+New York,Chenango County,36017,2026-03-02 06:43:05.668 -0500
+New York,Clinton County,36019,2026-03-02 06:43:05.668 -0500
+New York,Columbia County,36021,2026-03-02 06:43:05.668 -0500
+New York,Cortland County,36023,2026-03-02 06:43:05.668 -0500
+New York,Delaware County,36025,2026-03-02 06:43:05.668 -0500
+New York,Dutchess County,36027,2026-03-02 06:43:05.668 -0500
+New York,Erie County,36029,2026-03-02 06:43:05.668 -0500
+New York,Essex County,36031,2026-03-02 06:43:05.668 -0500
+New York,Franklin County,36033,2026-03-02 06:43:05.668 -0500
+New York,Fulton County,36035,2026-03-02 06:43:05.668 -0500
+New York,Genesee County,36037,2026-03-02 06:43:05.668 -0500
+New York,Greene County,36039,2026-03-02 06:43:05.668 -0500
+New York,Hamilton County,36041,2026-03-02 06:43:05.668 -0500
+New York,Herkimer County,36043,2026-03-02 06:43:05.668 -0500
+New York,Jefferson County,36045,2026-03-02 06:43:05.668 -0500
+New York,Kings County,36047,2026-03-02 06:43:05.668 -0500
+New York,Lewis County,36049,2026-03-02 06:43:05.668 -0500
+New York,Livingston County,36051,2026-03-02 06:43:05.668 -0500
+New York,Madison County,36053,2026-03-02 06:43:05.668 -0500
+New York,Monroe County,36055,2026-03-02 06:43:05.668 -0500
+New York,Montgomery County,36057,2026-03-02 06:43:05.668 -0500
+New York,Nassau County,36059,2026-03-02 06:43:05.668 -0500
+New York,New York County,36061,2026-03-02 06:43:05.668 -0500
+New York,Niagara County,36063,2026-03-02 06:43:05.668 -0500
+New York,Oneida County,36065,2026-03-02 06:43:05.668 -0500
+New York,Onondaga County,36067,2026-03-02 06:43:05.668 -0500
+New York,Ontario County,36069,2026-03-02 06:43:05.668 -0500
+New York,Orange County,36071,2026-03-02 06:43:05.668 -0500
+New York,Orleans County,36073,2026-03-02 06:43:05.668 -0500
+New York,Oswego County,36075,2026-03-02 06:43:05.668 -0500
+New York,Other County,36000,2026-03-02 06:43:05.668 -0500
+New York,Otsego County,36077,2026-03-02 06:43:05.668 -0500
+New York,Putnam County,36079,2026-03-02 06:43:05.668 -0500
+New York,Queens County,36081,2026-03-02 06:43:05.668 -0500
+New York,Rensselaer County,36083,2026-03-02 06:43:05.668 -0500
+New York,Richmond County,36085,2026-03-02 06:43:05.668 -0500
+New York,Rockland County,36087,2026-03-02 06:43:05.668 -0500
+New York,Saratoga County,36091,2026-03-02 06:43:05.668 -0500
+New York,Schenectady County,36093,2026-03-02 06:43:05.668 -0500
+New York,Schoharie County,36095,2026-03-02 06:43:05.668 -0500
+New York,Schuyler County,36097,2026-03-02 06:43:05.668 -0500
+New York,Seneca County,36099,2026-03-02 06:43:05.668 -0500
+New York,St. Lawrence County,36089,2026-03-02 06:43:05.668 -0500
+New York,Steuben County,36101,2026-03-02 06:43:05.668 -0500
+New York,Suffolk County,36103,2026-03-02 06:43:05.668 -0500
+New York,Sullivan County,36105,2026-03-02 06:43:05.668 -0500
+New York,Tioga County,36107,2026-03-02 06:43:05.668 -0500
+New York,Tompkins County,36109,2026-03-02 06:43:05.668 -0500
+New York,Ulster County,36111,2026-03-02 06:43:05.668 -0500
+New York,Warren County,36113,2026-03-02 06:43:05.668 -0500
+New York,Washington County,36115,2026-03-02 06:43:05.668 -0500
+New York,Wayne County,36117,2026-03-02 06:43:05.668 -0500
+New York,Westchester County,36119,2026-03-02 06:43:05.668 -0500
+New York,Wyoming County,36121,2026-03-02 06:43:05.668 -0500
+New York,Yates County,36123,2026-03-02 06:43:05.668 -0500
+North Carolina,Alamance County,37001,2026-03-02 06:43:05.668 -0500
+North Carolina,Alexander County,37003,2026-03-02 06:43:05.668 -0500
+North Carolina,Alleghany County,37005,2026-03-02 06:43:05.668 -0500
+North Carolina,Anson County,37007,2026-03-02 06:43:05.668 -0500
+North Carolina,Ashe County,37009,2026-03-02 06:43:05.668 -0500
+North Carolina,Avery County,37011,2026-03-02 06:43:05.668 -0500
+North Carolina,Beaufort County,37013,2026-03-02 06:43:05.668 -0500
+North Carolina,Bertie County,37015,2026-03-02 06:43:05.668 -0500
+North Carolina,Bladen County,37017,2026-03-02 06:43:05.668 -0500
+North Carolina,Brunswick County,37019,2026-03-02 06:43:05.668 -0500
+North Carolina,Buncombe County,37021,2026-03-02 06:43:05.668 -0500
+North Carolina,Burke County,37023,2026-03-02 06:43:05.668 -0500
+North Carolina,Cabarrus County,37025,2026-03-02 06:43:05.668 -0500
+North Carolina,Caldwell County,37027,2026-03-02 06:43:05.668 -0500
+North Carolina,Camden County,37029,2026-03-02 06:43:05.668 -0500
+North Carolina,Carteret County,37031,2026-03-02 06:43:05.668 -0500
+North Carolina,Caswell County,37033,2026-03-02 06:43:05.668 -0500
+North Carolina,Catawba County,37035,2026-03-02 06:43:05.668 -0500
+North Carolina,Chatham County,37037,2026-03-02 06:43:05.668 -0500
+North Carolina,Cherokee County,37039,2026-03-02 06:43:05.668 -0500
+North Carolina,Chowan County,37041,2026-03-02 06:43:05.668 -0500
+North Carolina,Clay County,37043,2026-03-02 06:43:05.668 -0500
+North Carolina,Cleveland County,37045,2026-03-02 06:43:05.668 -0500
+North Carolina,Columbus County,37047,2026-03-02 06:43:05.668 -0500
+North Carolina,Craven County,37049,2026-03-02 06:43:05.668 -0500
+North Carolina,Cumberland County,37051,2026-03-02 06:43:05.668 -0500
+North Carolina,Currituck County,37053,2026-03-02 06:43:05.668 -0500
+North Carolina,Dare County,37055,2026-03-02 06:43:05.668 -0500
+North Carolina,Davidson County,37057,2026-03-02 06:43:05.668 -0500
+North Carolina,Davie County,37059,2026-03-02 06:43:05.668 -0500
+North Carolina,Duplin County,37061,2026-03-02 06:43:05.668 -0500
+North Carolina,Durham County,37063,2026-03-02 06:43:05.668 -0500
+North Carolina,Edgecombe County,37065,2026-03-02 06:43:05.668 -0500
+North Carolina,Forsyth County,37067,2026-03-02 06:43:05.668 -0500
+North Carolina,Franklin County,37069,2026-03-02 06:43:05.668 -0500
+North Carolina,Gaston County,37071,2026-03-02 06:43:05.668 -0500
+North Carolina,Gates County,37073,2026-03-02 06:43:05.668 -0500
+North Carolina,Graham County,37075,2026-03-02 06:43:05.668 -0500
+North Carolina,Granville County,37077,2026-03-02 06:43:05.668 -0500
+North Carolina,Greene County,37079,2026-03-02 06:43:05.668 -0500
+North Carolina,Guilford County,37081,2026-03-02 06:43:05.668 -0500
+North Carolina,Halifax County,37083,2026-03-02 06:43:05.668 -0500
+North Carolina,Harnett County,37085,2026-03-02 06:43:05.668 -0500
+North Carolina,Haywood County,37087,2026-03-02 06:43:05.668 -0500
+North Carolina,Henderson County,37089,2026-03-02 06:43:05.668 -0500
+North Carolina,Hertford County,37091,2026-03-02 06:43:05.668 -0500
+North Carolina,Hoke County,37093,2026-03-02 06:43:05.668 -0500
+North Carolina,Hyde County,37095,2026-03-02 06:43:05.668 -0500
+North Carolina,Iredell County,37097,2026-03-02 06:43:05.668 -0500
+North Carolina,Jackson County,37099,2026-03-02 06:43:05.668 -0500
+North Carolina,Johnston County,37101,2026-03-02 06:43:05.668 -0500
+North Carolina,Jones County,37103,2026-03-02 06:43:05.668 -0500
+North Carolina,Lee County,37105,2026-03-02 06:43:05.668 -0500
+North Carolina,Lenoir County,37107,2026-03-02 06:43:05.668 -0500
+North Carolina,Lincoln County,37109,2026-03-02 06:43:05.668 -0500
+North Carolina,Macon County,37113,2026-03-02 06:43:05.668 -0500
+North Carolina,Madison County,37115,2026-03-02 06:43:05.668 -0500
+North Carolina,Martin County,37117,2026-03-02 06:43:05.668 -0500
+North Carolina,McDowell County,37111,2026-03-02 06:43:05.668 -0500
+North Carolina,Mecklenburg County,37119,2026-03-02 06:43:05.668 -0500
+North Carolina,Mitchell County,37121,2026-03-02 06:43:05.668 -0500
+North Carolina,Montgomery County,37123,2026-03-02 06:43:05.668 -0500
+North Carolina,Moore County,37125,2026-03-02 06:43:05.668 -0500
+North Carolina,Nash County,37127,2026-03-02 06:43:05.668 -0500
+North Carolina,New Hanover County,37129,2026-03-02 06:43:05.668 -0500
+North Carolina,Northampton County,37131,2026-03-02 06:43:05.668 -0500
+North Carolina,Onslow County,37133,2026-03-02 06:43:05.668 -0500
+North Carolina,Orange County,37135,2026-03-02 06:43:05.668 -0500
+North Carolina,Other County,37000,2026-03-02 06:43:05.668 -0500
+North Carolina,Pamlico County,37137,2026-03-02 06:43:05.668 -0500
+North Carolina,Pasquotank County,37139,2026-03-02 06:43:05.668 -0500
+North Carolina,Pender County,37141,2026-03-02 06:43:05.668 -0500
+North Carolina,Perquimans County,37143,2026-03-02 06:43:05.668 -0500
+North Carolina,Person County,37145,2026-03-02 06:43:05.668 -0500
+North Carolina,Pitt County,37147,2026-03-02 06:43:05.668 -0500
+North Carolina,Polk County,37149,2026-03-02 06:43:05.668 -0500
+North Carolina,Randolph County,37151,2026-03-02 06:43:05.668 -0500
+North Carolina,Richmond County,37153,2026-03-02 06:43:05.668 -0500
+North Carolina,Robeson County,37155,2026-03-02 06:43:05.668 -0500
+North Carolina,Rockingham County,37157,2026-03-02 06:43:05.668 -0500
+North Carolina,Rowan County,37159,2026-03-02 06:43:05.668 -0500
+North Carolina,Rutherford County,37161,2026-03-02 06:43:05.668 -0500
+North Carolina,Sampson County,37163,2026-03-02 06:43:05.668 -0500
+North Carolina,Scotland County,37165,2026-03-02 06:43:05.668 -0500
+North Carolina,Stanly County,37167,2026-03-02 06:43:05.668 -0500
+North Carolina,Stokes County,37169,2026-03-02 06:43:05.668 -0500
+North Carolina,Surry County,37171,2026-03-02 06:43:05.668 -0500
+North Carolina,Swain County,37173,2026-03-02 06:43:05.668 -0500
+North Carolina,Transylvania County,37175,2026-03-02 06:43:05.668 -0500
+North Carolina,Tyrrell County,37177,2026-03-02 06:43:05.668 -0500
+North Carolina,Union County,37179,2026-03-02 06:43:05.668 -0500
+North Carolina,Vance County,37181,2026-03-02 06:43:05.668 -0500
+North Carolina,Wake County,37183,2026-03-02 06:43:05.668 -0500
+North Carolina,Warren County,37185,2026-03-02 06:43:05.668 -0500
+North Carolina,Washington County,37187,2026-03-02 06:43:05.668 -0500
+North Carolina,Watauga County,37189,2026-03-02 06:43:05.668 -0500
+North Carolina,Wayne County,37191,2026-03-02 06:43:05.668 -0500
+North Carolina,Wilkes County,37193,2026-03-02 06:43:05.668 -0500
+North Carolina,Wilson County,37195,2026-03-02 06:43:05.668 -0500
+North Carolina,Yadkin County,37197,2026-03-02 06:43:05.668 -0500
+North Carolina,Yancey County,37199,2026-03-02 06:43:05.668 -0500
+North Dakota,Adams County,38001,2026-03-02 06:43:05.668 -0500
+North Dakota,Barnes County,38003,2026-03-02 06:43:05.668 -0500
+North Dakota,Benson County,38005,2026-03-02 06:43:05.668 -0500
+North Dakota,Billings County,38007,2026-03-02 06:43:05.668 -0500
+North Dakota,Bottineau County,38009,2026-03-02 06:43:05.668 -0500
+North Dakota,Bowman County,38011,2026-03-02 06:43:05.668 -0500
+North Dakota,Burke County,38013,2026-03-02 06:43:05.668 -0500
+North Dakota,Burleigh County,38015,2026-03-02 06:43:05.668 -0500
+North Dakota,Cass County,38017,2026-03-02 06:43:05.668 -0500
+North Dakota,Cavalier County,38019,2026-03-02 06:43:05.668 -0500
+North Dakota,Dickey County,38021,2026-03-02 06:43:05.668 -0500
+North Dakota,Divide County,38023,2026-03-02 06:43:05.668 -0500
+North Dakota,Dunn County,38025,2026-03-02 06:43:05.668 -0500
+North Dakota,Eddy County,38027,2026-03-02 06:43:05.668 -0500
+North Dakota,Emmons County,38029,2026-03-02 06:43:05.668 -0500
+North Dakota,Foster County,38031,2026-03-02 06:43:05.668 -0500
+North Dakota,Golden Valley County,38033,2026-03-02 06:43:05.668 -0500
+North Dakota,Grand Forks County,38035,2026-03-02 06:43:05.668 -0500
+North Dakota,Grant County,38037,2026-03-02 06:43:05.668 -0500
+North Dakota,Griggs County,38039,2026-03-02 06:43:05.668 -0500
+North Dakota,Hettinger County,38041,2026-03-02 06:43:05.668 -0500
+North Dakota,Kidder County,38043,2026-03-02 06:43:05.668 -0500
+North Dakota,LaMoure County,38045,2026-03-02 06:43:05.668 -0500
+North Dakota,Logan County,38047,2026-03-02 06:43:05.668 -0500
+North Dakota,McHenry County,38049,2026-03-02 06:43:05.668 -0500
+North Dakota,McIntosh County,38051,2026-03-02 06:43:05.668 -0500
+North Dakota,McKenzie County,38053,2026-03-02 06:43:05.668 -0500
+North Dakota,McLean County,38055,2026-03-02 06:43:05.668 -0500
+North Dakota,Mercer County,38057,2026-03-02 06:43:05.668 -0500
+North Dakota,Morton County,38059,2026-03-02 06:43:05.668 -0500
+North Dakota,Mountrail County,38061,2026-03-02 06:43:05.668 -0500
+North Dakota,Nelson County,38063,2026-03-02 06:43:05.668 -0500
+North Dakota,Oliver County,38065,2026-03-02 06:43:05.668 -0500
+North Dakota,Other County,38000,2026-03-02 06:43:05.668 -0500
+North Dakota,Pembina County,38067,2026-03-02 06:43:05.668 -0500
+North Dakota,Pierce County,38069,2026-03-02 06:43:05.668 -0500
+North Dakota,Ramsey County,38071,2026-03-02 06:43:05.668 -0500
+North Dakota,Ransom County,38073,2026-03-02 06:43:05.668 -0500
+North Dakota,Renville County,38075,2026-03-02 06:43:05.668 -0500
+North Dakota,Richland County,38077,2026-03-02 06:43:05.668 -0500
+North Dakota,Rolette County,38079,2026-03-02 06:43:05.668 -0500
+North Dakota,Sargent County,38081,2026-03-02 06:43:05.668 -0500
+North Dakota,Sheridan County,38083,2026-03-02 06:43:05.668 -0500
+North Dakota,Sioux County,38085,2026-03-02 06:43:05.668 -0500
+North Dakota,Slope County,38087,2026-03-02 06:43:05.668 -0500
+North Dakota,Stark County,38089,2026-03-02 06:43:05.668 -0500
+North Dakota,Steele County,38091,2026-03-02 06:43:05.668 -0500
+North Dakota,Stutsman County,38093,2026-03-02 06:43:05.668 -0500
+North Dakota,Towner County,38095,2026-03-02 06:43:05.668 -0500
+North Dakota,Traill County,38097,2026-03-02 06:43:05.668 -0500
+North Dakota,Walsh County,38099,2026-03-02 06:43:05.668 -0500
+North Dakota,Ward County,38101,2026-03-02 06:43:05.668 -0500
+North Dakota,Wells County,38103,2026-03-02 06:43:05.668 -0500
+North Dakota,Williams County,38105,2026-03-02 06:43:05.668 -0500
+Ohio,Adams County,39001,2026-03-02 06:43:05.668 -0500
+Ohio,Allen County,39003,2026-03-02 06:43:05.668 -0500
+Ohio,Ashland County,39005,2026-03-02 06:43:05.668 -0500
+Ohio,Ashtabula County,39007,2026-03-02 06:43:05.668 -0500
+Ohio,Athens County,39009,2026-03-02 06:43:05.668 -0500
+Ohio,Auglaize County,39011,2026-03-02 06:43:05.668 -0500
+Ohio,Belmont County,39013,2026-03-02 06:43:05.668 -0500
+Ohio,Brown County,39015,2026-03-02 06:43:05.668 -0500
+Ohio,Butler County,39017,2026-03-02 06:43:05.668 -0500
+Ohio,Carroll County,39019,2026-03-02 06:43:05.668 -0500
+Ohio,Champaign County,39021,2026-03-02 06:43:05.668 -0500
+Ohio,Clark County,39023,2026-03-02 06:43:05.668 -0500
+Ohio,Clermont County,39025,2026-03-02 06:43:05.668 -0500
+Ohio,Clinton County,39027,2026-03-02 06:43:05.668 -0500
+Ohio,Columbiana County,39029,2026-03-02 06:43:05.668 -0500
+Ohio,Coshocton County,39031,2026-03-02 06:43:05.668 -0500
+Ohio,Crawford County,39033,2026-03-02 06:43:05.668 -0500
+Ohio,Cuyahoga County,39035,2026-03-02 06:43:05.668 -0500
+Ohio,Darke County,39037,2026-03-02 06:43:05.668 -0500
+Ohio,Defiance County,39039,2026-03-02 06:43:05.668 -0500
+Ohio,Delaware County,39041,2026-03-02 06:43:05.668 -0500
+Ohio,Erie County,39043,2026-03-02 06:43:05.668 -0500
+Ohio,Fairfield County,39045,2026-03-02 06:43:05.668 -0500
+Ohio,Fayette County,39047,2026-03-02 06:43:05.668 -0500
+Ohio,Franklin County,39049,2026-03-02 06:43:05.668 -0500
+Ohio,Fulton County,39051,2026-03-02 06:43:05.668 -0500
+Ohio,Gallia County,39053,2026-03-02 06:43:05.668 -0500
+Ohio,Geauga County,39055,2026-03-02 06:43:05.668 -0500
+Ohio,Greene County,39057,2026-03-02 06:43:05.668 -0500
+Ohio,Guernsey County,39059,2026-03-02 06:43:05.668 -0500
+Ohio,Hamilton County,39061,2026-03-02 06:43:05.668 -0500
+Ohio,Hancock County,39063,2026-03-02 06:43:05.668 -0500
+Ohio,Hardin County,39065,2026-03-02 06:43:05.668 -0500
+Ohio,Harrison County,39067,2026-03-02 06:43:05.668 -0500
+Ohio,Henry County,39069,2026-03-02 06:43:05.668 -0500
+Ohio,Highland County,39071,2026-03-02 06:43:05.668 -0500
+Ohio,Hocking County,39073,2026-03-02 06:43:05.668 -0500
+Ohio,Holmes County,39075,2026-03-02 06:43:05.668 -0500
+Ohio,Huron County,39077,2026-03-02 06:43:05.668 -0500
+Ohio,Jackson County,39079,2026-03-02 06:43:05.668 -0500
+Ohio,Jefferson County,39081,2026-03-02 06:43:05.668 -0500
+Ohio,Knox County,39083,2026-03-02 06:43:05.668 -0500
+Ohio,Lake County,39085,2026-03-02 06:43:05.668 -0500
+Ohio,Lawrence County,39087,2026-03-02 06:43:05.668 -0500
+Ohio,Licking County,39089,2026-03-02 06:43:05.668 -0500
+Ohio,Logan County,39091,2026-03-02 06:43:05.668 -0500
+Ohio,Lorain County,39093,2026-03-02 06:43:05.668 -0500
+Ohio,Lucas County,39095,2026-03-02 06:43:05.668 -0500
+Ohio,Madison County,39097,2026-03-02 06:43:05.668 -0500
+Ohio,Mahoning County,39099,2026-03-02 06:43:05.668 -0500
+Ohio,Marion County,39101,2026-03-02 06:43:05.668 -0500
+Ohio,Medina County,39103,2026-03-02 06:43:05.668 -0500
+Ohio,Meigs County,39105,2026-03-02 06:43:05.668 -0500
+Ohio,Mercer County,39107,2026-03-02 06:43:05.668 -0500
+Ohio,Miami County,39109,2026-03-02 06:43:05.668 -0500
+Ohio,Monroe County,39111,2026-03-02 06:43:05.668 -0500
+Ohio,Montgomery County,39113,2026-03-02 06:43:05.668 -0500
+Ohio,Morgan County,39115,2026-03-02 06:43:05.668 -0500
+Ohio,Morrow County,39117,2026-03-02 06:43:05.668 -0500
+Ohio,Muskingum County,39119,2026-03-02 06:43:05.668 -0500
+Ohio,Noble County,39121,2026-03-02 06:43:05.668 -0500
+Ohio,Other County,39000,2026-03-02 06:43:05.668 -0500
+Ohio,Ottawa County,39123,2026-03-02 06:43:05.668 -0500
+Ohio,Paulding County,39125,2026-03-02 06:43:05.668 -0500
+Ohio,Perry County,39127,2026-03-02 06:43:05.668 -0500
+Ohio,Pickaway County,39129,2026-03-02 06:43:05.668 -0500
+Ohio,Pike County,39131,2026-03-02 06:43:05.668 -0500
+Ohio,Portage County,39133,2026-03-02 06:43:05.668 -0500
+Ohio,Preble County,39135,2026-03-02 06:43:05.668 -0500
+Ohio,Putnam County,39137,2026-03-02 06:43:05.668 -0500
+Ohio,Richland County,39139,2026-03-02 06:43:05.668 -0500
+Ohio,Ross County,39141,2026-03-02 06:43:05.668 -0500
+Ohio,Sandusky County,39143,2026-03-02 06:43:05.668 -0500
+Ohio,Scioto County,39145,2026-03-02 06:43:05.668 -0500
+Ohio,Seneca County,39147,2026-03-02 06:43:05.668 -0500
+Ohio,Shelby County,39149,2026-03-02 06:43:05.668 -0500
+Ohio,Stark County,39151,2026-03-02 06:43:05.668 -0500
+Ohio,Summit County,39153,2026-03-02 06:43:05.668 -0500
+Ohio,Trumbull County,39155,2026-03-02 06:43:05.668 -0500
+Ohio,Tuscarawas County,39157,2026-03-02 06:43:05.668 -0500
+Ohio,Union County,39159,2026-03-02 06:43:05.668 -0500
+Ohio,Van Wert County,39161,2026-03-02 06:43:05.668 -0500
+Ohio,Vinton County,39163,2026-03-02 06:43:05.668 -0500
+Ohio,Warren County,39165,2026-03-02 06:43:05.668 -0500
+Ohio,Washington County,39167,2026-03-02 06:43:05.668 -0500
+Ohio,Wayne County,39169,2026-03-02 06:43:05.668 -0500
+Ohio,Williams County,39171,2026-03-02 06:43:05.668 -0500
+Ohio,Wood County,39173,2026-03-02 06:43:05.668 -0500
+Ohio,Wyandot County,39175,2026-03-02 06:43:05.668 -0500
+Oklahoma,Adair County,40001,2026-03-02 06:43:05.668 -0500
+Oklahoma,Alfalfa County,40003,2026-03-02 06:43:05.668 -0500
+Oklahoma,Atoka County,40005,2026-03-02 06:43:05.668 -0500
+Oklahoma,Beaver County,40007,2026-03-02 06:43:05.668 -0500
+Oklahoma,Beckham County,40009,2026-03-02 06:43:05.668 -0500
+Oklahoma,Blaine County,40011,2026-03-02 06:43:05.668 -0500
+Oklahoma,Bryan County,40013,2026-03-02 06:43:05.668 -0500
+Oklahoma,Caddo County,40015,2026-03-02 06:43:05.668 -0500
+Oklahoma,Canadian County,40017,2026-03-02 06:43:05.668 -0500
+Oklahoma,Carter County,40019,2026-03-02 06:43:05.668 -0500
+Oklahoma,Cherokee County,40021,2026-03-02 06:43:05.668 -0500
+Oklahoma,Choctaw County,40023,2026-03-02 06:43:05.668 -0500
+Oklahoma,Cimarron County,40025,2026-03-02 06:43:05.668 -0500
+Oklahoma,Cleveland County,40027,2026-03-02 06:43:05.668 -0500
+Oklahoma,Coal County,40029,2026-03-02 06:43:05.668 -0500
+Oklahoma,Comanche County,40031,2026-03-02 06:43:05.668 -0500
+Oklahoma,Cotton County,40033,2026-03-02 06:43:05.668 -0500
+Oklahoma,Craig County,40035,2026-03-02 06:43:05.668 -0500
+Oklahoma,Creek County,40037,2026-03-02 06:43:05.668 -0500
+Oklahoma,Custer County,40039,2026-03-02 06:43:05.668 -0500
+Oklahoma,Delaware County,40041,2026-03-02 06:43:05.668 -0500
+Oklahoma,Dewey County,40043,2026-03-02 06:43:05.668 -0500
+Oklahoma,Ellis County,40045,2026-03-02 06:43:05.668 -0500
+Oklahoma,Garfield County,40047,2026-03-02 06:43:05.668 -0500
+Oklahoma,Garvin County,40049,2026-03-02 06:43:05.668 -0500
+Oklahoma,Grady County,40051,2026-03-02 06:43:05.668 -0500
+Oklahoma,Grant County,40053,2026-03-02 06:43:05.668 -0500
+Oklahoma,Greer County,40055,2026-03-02 06:43:05.668 -0500
+Oklahoma,Harmon County,40057,2026-03-02 06:43:05.668 -0500
+Oklahoma,Harper County,40059,2026-03-02 06:43:05.668 -0500
+Oklahoma,Haskell County,40061,2026-03-02 06:43:05.668 -0500
+Oklahoma,Hughes County,40063,2026-03-02 06:43:05.668 -0500
+Oklahoma,Jackson County,40065,2026-03-02 06:43:05.668 -0500
+Oklahoma,Jefferson County,40067,2026-03-02 06:43:05.668 -0500
+Oklahoma,Johnston County,40069,2026-03-02 06:43:05.668 -0500
+Oklahoma,Kay County,40071,2026-03-02 06:43:05.668 -0500
+Oklahoma,Kingfisher County,40073,2026-03-02 06:43:05.668 -0500
+Oklahoma,Kiowa County,40075,2026-03-02 06:43:05.668 -0500
+Oklahoma,Latimer County,40077,2026-03-02 06:43:05.668 -0500
+Oklahoma,Le Flore County,40079,2026-03-02 06:43:05.668 -0500
+Oklahoma,Lincoln County,40081,2026-03-02 06:43:05.668 -0500
+Oklahoma,Logan County,40083,2026-03-02 06:43:05.668 -0500
+Oklahoma,Love County,40085,2026-03-02 06:43:05.668 -0500
+Oklahoma,Major County,40093,2026-03-02 06:43:05.668 -0500
+Oklahoma,Marshall County,40095,2026-03-02 06:43:05.668 -0500
+Oklahoma,Mayes County,40097,2026-03-02 06:43:05.668 -0500
+Oklahoma,McClain County,40087,2026-03-02 06:43:05.668 -0500
+Oklahoma,McCurtain County,40089,2026-03-02 06:43:05.668 -0500
+Oklahoma,McIntosh County,40091,2026-03-02 06:43:05.668 -0500
+Oklahoma,Murray County,40099,2026-03-02 06:43:05.668 -0500
+Oklahoma,Muskogee County,40101,2026-03-02 06:43:05.668 -0500
+Oklahoma,Noble County,40103,2026-03-02 06:43:05.668 -0500
+Oklahoma,Nowata County,40105,2026-03-02 06:43:05.668 -0500
+Oklahoma,Okfuskee County,40107,2026-03-02 06:43:05.668 -0500
+Oklahoma,Oklahoma County,40109,2026-03-02 06:43:05.668 -0500
+Oklahoma,Okmulgee County,40111,2026-03-02 06:43:05.668 -0500
+Oklahoma,Osage County,40113,2026-03-02 06:43:05.668 -0500
+Oklahoma,Other County,40000,2026-03-02 06:43:05.668 -0500
+Oklahoma,Ottawa County,40115,2026-03-02 06:43:05.668 -0500
+Oklahoma,Pawnee County,40117,2026-03-02 06:43:05.668 -0500
+Oklahoma,Payne County,40119,2026-03-02 06:43:05.668 -0500
+Oklahoma,Pittsburg County,40121,2026-03-02 06:43:05.668 -0500
+Oklahoma,Pontotoc County,40123,2026-03-02 06:43:05.668 -0500
+Oklahoma,Pottawatomie County,40125,2026-03-02 06:43:05.668 -0500
+Oklahoma,Pushmataha County,40127,2026-03-02 06:43:05.668 -0500
+Oklahoma,Roger Mills County,40129,2026-03-02 06:43:05.668 -0500
+Oklahoma,Rogers County,40131,2026-03-02 06:43:05.668 -0500
+Oklahoma,Seminole County,40133,2026-03-02 06:43:05.668 -0500
+Oklahoma,Sequoyah County,40135,2026-03-02 06:43:05.668 -0500
+Oklahoma,Stephens County,40137,2026-03-02 06:43:05.668 -0500
+Oklahoma,Texas County,40139,2026-03-02 06:43:05.668 -0500
+Oklahoma,Tillman County,40141,2026-03-02 06:43:05.668 -0500
+Oklahoma,Tulsa County,40143,2026-03-02 06:43:05.668 -0500
+Oklahoma,Wagoner County,40145,2026-03-02 06:43:05.668 -0500
+Oklahoma,Washington County,40147,2026-03-02 06:43:05.668 -0500
+Oklahoma,Washita County,40149,2026-03-02 06:43:05.668 -0500
+Oklahoma,Woods County,40151,2026-03-02 06:43:05.668 -0500
+Oklahoma,Woodward County,40153,2026-03-02 06:43:05.668 -0500
+Oregon,Baker County,41001,2026-03-02 06:43:05.668 -0500
+Oregon,Benton County,41003,2026-03-02 06:43:05.668 -0500
+Oregon,Clackamas County,41005,2026-03-02 06:43:05.668 -0500
+Oregon,Clatsop County,41007,2026-03-02 06:43:05.668 -0500
+Oregon,Columbia County,41009,2026-03-02 06:43:05.668 -0500
+Oregon,Coos County,41011,2026-03-02 06:43:05.668 -0500
+Oregon,Crook County,41013,2026-03-02 06:43:05.668 -0500
+Oregon,Curry County,41015,2026-03-02 06:43:05.668 -0500
+Oregon,Deschutes County,41017,2026-03-02 06:43:05.668 -0500
+Oregon,Douglas County,41019,2026-03-02 06:43:05.668 -0500
+Oregon,Gilliam County,41021,2026-03-02 06:43:05.668 -0500
+Oregon,Grant County,41023,2026-03-02 06:43:05.668 -0500
+Oregon,Harney County,41025,2026-03-02 06:43:05.668 -0500
+Oregon,Hood River County,41027,2026-03-02 06:43:05.668 -0500
+Oregon,Jackson County,41029,2026-03-02 06:43:05.668 -0500
+Oregon,Jefferson County,41031,2026-03-02 06:43:05.668 -0500
+Oregon,Josephine County,41033,2026-03-02 06:43:05.668 -0500
+Oregon,Klamath County,41035,2026-03-02 06:43:05.668 -0500
+Oregon,Lake County,41037,2026-03-02 06:43:05.668 -0500
+Oregon,Lane County,41039,2026-03-02 06:43:05.668 -0500
+Oregon,Lincoln County,41041,2026-03-02 06:43:05.668 -0500
+Oregon,Linn County,41043,2026-03-02 06:43:05.668 -0500
+Oregon,Malheur County,41045,2026-03-02 06:43:05.668 -0500
+Oregon,Marion County,41047,2026-03-02 06:43:05.668 -0500
+Oregon,Morrow County,41049,2026-03-02 06:43:05.668 -0500
+Oregon,Multnomah County,41051,2026-03-02 06:43:05.668 -0500
+Oregon,Other County,41000,2026-03-02 06:43:05.668 -0500
+Oregon,Polk County,41053,2026-03-02 06:43:05.668 -0500
+Oregon,Sherman County,41055,2026-03-02 06:43:05.668 -0500
+Oregon,Tillamook County,41057,2026-03-02 06:43:05.668 -0500
+Oregon,Umatilla County,41059,2026-03-02 06:43:05.668 -0500
+Oregon,Union County,41061,2026-03-02 06:43:05.668 -0500
+Oregon,Wallowa County,41063,2026-03-02 06:43:05.668 -0500
+Oregon,Wasco County,41065,2026-03-02 06:43:05.668 -0500
+Oregon,Washington County,41067,2026-03-02 06:43:05.668 -0500
+Oregon,Wheeler County,41069,2026-03-02 06:43:05.668 -0500
+Oregon,Yamhill County,41071,2026-03-02 06:43:05.668 -0500
+Other,Other County,57000,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Adams County,42001,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Allegheny County,42003,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Armstrong County,42005,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Beaver County,42007,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Bedford County,42009,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Berks County,42011,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Blair County,42013,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Bradford County,42015,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Bucks County,42017,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Butler County,42019,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Cambria County,42021,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Cameron County,42023,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Carbon County,42025,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Centre County,42027,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Chester County,42029,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Clarion County,42031,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Clearfield County,42033,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Clinton County,42035,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Columbia County,42037,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Crawford County,42039,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Cumberland County,42041,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Dauphin County,42043,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Delaware County,42045,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Elk County,42047,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Erie County,42049,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Fayette County,42051,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Forest County,42053,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Franklin County,42055,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Fulton County,42057,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Greene County,42059,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Huntingdon County,42061,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Indiana County,42063,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Jefferson County,42065,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Juniata County,42067,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lackawanna County,42069,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lancaster County,42071,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lawrence County,42073,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lebanon County,42075,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lehigh County,42077,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Luzerne County,42079,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Lycoming County,42081,2026-03-02 06:43:05.668 -0500
+Pennsylvania,McKean County,42083,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Mercer County,42085,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Mifflin County,42087,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Monroe County,42089,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Montgomery County,42091,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Montour County,42093,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Northampton County,42095,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Northumberland County,42097,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Other County,42000,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Perry County,42099,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Philadelphia County,42101,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Pike County,42103,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Potter County,42105,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Schuylkill County,42107,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Snyder County,42109,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Somerset County,42111,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Sullivan County,42113,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Susquehanna County,42115,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Tioga County,42117,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Union County,42119,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Venango County,42121,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Warren County,42123,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Washington County,42125,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Wayne County,42127,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Westmoreland County,42129,2026-03-02 06:43:05.668 -0500
+Pennsylvania,Wyoming County,42131,2026-03-02 06:43:05.668 -0500
+Pennsylvania,York County,42133,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Adjuntas County,72001,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Aguada County,72003,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Aguadilla County,72005,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Aguas Buenas County,72007,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Aibonito County,72009,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Anasco County,72011,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Arecibo County,72013,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Arroyo County,72015,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Barceloneta County,72017,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Barranquitas County,72019,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Bayamon County,72021,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Cabo Rojo County,72023,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Caguas County,72025,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Camuy County,72027,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Canovanas County,72029,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Carolina County,72031,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Catano County,72033,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Cayey County,72035,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Ceiba County,72037,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Ciales County,72039,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Cidra County,72041,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Coamo County,72043,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Comerio County,72045,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Corozal County,72047,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Culebra County,72049,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Dorado County,72051,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Fajardo County,72053,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Florida County,72054,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Guanica County,72055,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Guayama County,72057,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Guayanilla County,72059,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Guaynabo County,72061,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Gurabo County,72063,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Hatillo County,72065,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Hormigueros County,72067,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Humacao County,72069,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Isabela County,72071,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Jayuya County,72073,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Juana Diaz County,72075,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Juncos County,72077,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Lajas County,72079,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Lares County,72081,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Las Marias County,72083,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Las Piedras County,72085,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Loiza County,72087,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Luquillo County,72089,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Manati County,72091,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Maricao County,72093,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Maunabo County,72095,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Mayaguez County,72097,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Moca County,72099,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Morovis County,72101,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Naguabo County,72103,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Naranjito County,72105,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Orocovis County,72107,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Other County,72000,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Patillas County,72109,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Penuelas County,72111,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Ponce County,72113,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Quebradillas County,72115,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Rincon County,72117,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Rio Grande County,72119,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Sabana Grande County,72121,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Salinas County,72123,2026-03-02 06:43:05.668 -0500
+Puerto Rico,San German County,72125,2026-03-02 06:43:05.668 -0500
+Puerto Rico,San Juan County,72127,2026-03-02 06:43:05.668 -0500
+Puerto Rico,San Lorenzo County,72129,2026-03-02 06:43:05.668 -0500
+Puerto Rico,San Sebastian County,72131,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Santa Isabel County,72133,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Toa Alta County,72135,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Toa Baja County,72137,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Trujillo Alto County,72139,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Utuado County,72141,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Vega Alta County,72143,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Vega Baja County,72145,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Vieques County,72147,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Villalba County,72149,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Yabucoa County,72151,2026-03-02 06:43:05.668 -0500
+Puerto Rico,Yauco County,72153,2026-03-02 06:43:05.668 -0500
+Rhode Island,Bristol County,44001,2026-03-02 06:43:05.668 -0500
+Rhode Island,Kent County,44003,2026-03-02 06:43:05.668 -0500
+Rhode Island,Newport County,44005,2026-03-02 06:43:05.668 -0500
+Rhode Island,Other County,44000,2026-03-02 06:43:05.668 -0500
+Rhode Island,Providence County,44007,2026-03-02 06:43:05.668 -0500
+Rhode Island,Washington County,44009,2026-03-02 06:43:05.668 -0500
+South Carolina,Abbeville County,45001,2026-03-02 06:43:05.668 -0500
+South Carolina,Aiken County,45003,2026-03-02 06:43:05.668 -0500
+South Carolina,Allendale County,45005,2026-03-02 06:43:05.668 -0500
+South Carolina,Anderson County,45007,2026-03-02 06:43:05.668 -0500
+South Carolina,Bamberg County,45009,2026-03-02 06:43:05.668 -0500
+South Carolina,Barnwell County,45011,2026-03-02 06:43:05.668 -0500
+South Carolina,Beaufort County,45013,2026-03-02 06:43:05.668 -0500
+South Carolina,Berkeley County,45015,2026-03-02 06:43:05.668 -0500
+South Carolina,Calhoun County,45017,2026-03-02 06:43:05.668 -0500
+South Carolina,Charleston County,45019,2026-03-02 06:43:05.668 -0500
+South Carolina,Cherokee County,45021,2026-03-02 06:43:05.668 -0500
+South Carolina,Chester County,45023,2026-03-02 06:43:05.668 -0500
+South Carolina,Chesterfield County,45025,2026-03-02 06:43:05.668 -0500
+South Carolina,Clarendon County,45027,2026-03-02 06:43:05.668 -0500
+South Carolina,Colleton County,45029,2026-03-02 06:43:05.668 -0500
+South Carolina,Darlington County,45031,2026-03-02 06:43:05.668 -0500
+South Carolina,Dillon County,45033,2026-03-02 06:43:05.668 -0500
+South Carolina,Dorchester County,45035,2026-03-02 06:43:05.668 -0500
+South Carolina,Edgefield County,45037,2026-03-02 06:43:05.668 -0500
+South Carolina,Fairfield County,45039,2026-03-02 06:43:05.668 -0500
+South Carolina,Florence County,45041,2026-03-02 06:43:05.668 -0500
+South Carolina,Georgetown County,45043,2026-03-02 06:43:05.668 -0500
+South Carolina,Greenville County,45045,2026-03-02 06:43:05.668 -0500
+South Carolina,Greenwood County,45047,2026-03-02 06:43:05.668 -0500
+South Carolina,Hampton County,45049,2026-03-02 06:43:05.668 -0500
+South Carolina,Horry County,45051,2026-03-02 06:43:05.668 -0500
+South Carolina,Jasper County,45053,2026-03-02 06:43:05.668 -0500
+South Carolina,Kershaw County,45055,2026-03-02 06:43:05.668 -0500
+South Carolina,Lancaster County,45057,2026-03-02 06:43:05.668 -0500
+South Carolina,Laurens County,45059,2026-03-02 06:43:05.668 -0500
+South Carolina,Lee County,45061,2026-03-02 06:43:05.668 -0500
+South Carolina,Lexington County,45063,2026-03-02 06:43:05.668 -0500
+South Carolina,Marion County,45067,2026-03-02 06:43:05.668 -0500
+South Carolina,Marlboro County,45069,2026-03-02 06:43:05.668 -0500
+South Carolina,McCormick County,45065,2026-03-02 06:43:05.668 -0500
+South Carolina,Newberry County,45071,2026-03-02 06:43:05.668 -0500
+South Carolina,Oconee County,45073,2026-03-02 06:43:05.668 -0500
+South Carolina,Orangeburg County,45075,2026-03-02 06:43:05.668 -0500
+South Carolina,Other County,45000,2026-03-02 06:43:05.668 -0500
+South Carolina,Pickens County,45077,2026-03-02 06:43:05.668 -0500
+South Carolina,Richland County,45079,2026-03-02 06:43:05.668 -0500
+South Carolina,Saluda County,45081,2026-03-02 06:43:05.668 -0500
+South Carolina,Spartanburg County,45083,2026-03-02 06:43:05.668 -0500
+South Carolina,Sumter County,45085,2026-03-02 06:43:05.668 -0500
+South Carolina,Union County,45087,2026-03-02 06:43:05.668 -0500
+South Carolina,Williamsburg County,45089,2026-03-02 06:43:05.668 -0500
+South Carolina,York County,45091,2026-03-02 06:43:05.668 -0500
+South Dakota,Aurora County,46003,2026-03-02 06:43:05.668 -0500
+South Dakota,Beadle County,46005,2026-03-02 06:43:05.668 -0500
+South Dakota,Bennett County,46007,2026-03-02 06:43:05.668 -0500
+South Dakota,Bon Homme County,46009,2026-03-02 06:43:05.668 -0500
+South Dakota,Brookings County,46011,2026-03-02 06:43:05.668 -0500
+South Dakota,Brown County,46013,2026-03-02 06:43:05.668 -0500
+South Dakota,Brule County,46015,2026-03-02 06:43:05.668 -0500
+South Dakota,Buffalo County,46017,2026-03-02 06:43:05.668 -0500
+South Dakota,Butte County,46019,2026-03-02 06:43:05.668 -0500
+South Dakota,Campbell County,46021,2026-03-02 06:43:05.668 -0500
+South Dakota,Charles Mix County,46023,2026-03-02 06:43:05.668 -0500
+South Dakota,Clark County,46025,2026-03-02 06:43:05.668 -0500
+South Dakota,Clay County,46027,2026-03-02 06:43:05.668 -0500
+South Dakota,Codington County,46029,2026-03-02 06:43:05.668 -0500
+South Dakota,Corson County,46031,2026-03-02 06:43:05.668 -0500
+South Dakota,Custer County,46033,2026-03-02 06:43:05.668 -0500
+South Dakota,Davison County,46035,2026-03-02 06:43:05.668 -0500
+South Dakota,Day County,46037,2026-03-02 06:43:05.668 -0500
+South Dakota,Deuel County,46039,2026-03-02 06:43:05.668 -0500
+South Dakota,Dewey County,46041,2026-03-02 06:43:05.668 -0500
+South Dakota,Douglas County,46043,2026-03-02 06:43:05.668 -0500
+South Dakota,Edmunds County,46045,2026-03-02 06:43:05.668 -0500
+South Dakota,Fall River County,46047,2026-03-02 06:43:05.668 -0500
+South Dakota,Faulk County,46049,2026-03-02 06:43:05.668 -0500
+South Dakota,Grant County,46051,2026-03-02 06:43:05.668 -0500
+South Dakota,Gregory County,46053,2026-03-02 06:43:05.668 -0500
+South Dakota,Haakon County,46055,2026-03-02 06:43:05.668 -0500
+South Dakota,Hamlin County,46057,2026-03-02 06:43:05.668 -0500
+South Dakota,Hand County,46059,2026-03-02 06:43:05.668 -0500
+South Dakota,Hanson County,46061,2026-03-02 06:43:05.668 -0500
+South Dakota,Harding County,46063,2026-03-02 06:43:05.668 -0500
+South Dakota,Hughes County,46065,2026-03-02 06:43:05.668 -0500
+South Dakota,Hutchinson County,46067,2026-03-02 06:43:05.668 -0500
+South Dakota,Hyde County,46069,2026-03-02 06:43:05.668 -0500
+South Dakota,Jackson County,46071,2026-03-02 06:43:05.668 -0500
+South Dakota,Jerauld County,46073,2026-03-02 06:43:05.668 -0500
+South Dakota,Jones County,46075,2026-03-02 06:43:05.668 -0500
+South Dakota,Kingsbury County,46077,2026-03-02 06:43:05.668 -0500
+South Dakota,Lake County,46079,2026-03-02 06:43:05.668 -0500
+South Dakota,Lawrence County,46081,2026-03-02 06:43:05.668 -0500
+South Dakota,Lincoln County,46083,2026-03-02 06:43:05.668 -0500
+South Dakota,Lyman County,46085,2026-03-02 06:43:05.668 -0500
+South Dakota,Marshall County,46091,2026-03-02 06:43:05.668 -0500
+South Dakota,McCook County,46087,2026-03-02 06:43:05.668 -0500
+South Dakota,McPherson County,46089,2026-03-02 06:43:05.668 -0500
+South Dakota,Meade County,46093,2026-03-02 06:43:05.668 -0500
+South Dakota,Mellette County,46095,2026-03-02 06:43:05.668 -0500
+South Dakota,Miner County,46097,2026-03-02 06:43:05.668 -0500
+South Dakota,Minnehaha County,46099,2026-03-02 06:43:05.668 -0500
+South Dakota,Moody County,46101,2026-03-02 06:43:05.668 -0500
+South Dakota,Oglala Lakota County,46102,2026-03-02 06:43:05.668 -0500
+South Dakota,Other County,46000,2026-03-02 06:43:05.668 -0500
+South Dakota,Pennington County,46103,2026-03-02 06:43:05.668 -0500
+South Dakota,Perkins County,46105,2026-03-02 06:43:05.668 -0500
+South Dakota,Potter County,46107,2026-03-02 06:43:05.668 -0500
+South Dakota,Roberts County,46109,2026-03-02 06:43:05.668 -0500
+South Dakota,Sanborn County,46111,2026-03-02 06:43:05.668 -0500
+South Dakota,Spink County,46115,2026-03-02 06:43:05.668 -0500
+South Dakota,Stanley County,46117,2026-03-02 06:43:05.668 -0500
+South Dakota,Sully County,46119,2026-03-02 06:43:05.668 -0500
+South Dakota,Todd County,46121,2026-03-02 06:43:05.668 -0500
+South Dakota,Tripp County,46123,2026-03-02 06:43:05.668 -0500
+South Dakota,Turner County,46125,2026-03-02 06:43:05.668 -0500
+South Dakota,Union County,46127,2026-03-02 06:43:05.668 -0500
+South Dakota,Walworth County,46129,2026-03-02 06:43:05.668 -0500
+South Dakota,Yankton County,46135,2026-03-02 06:43:05.668 -0500
+South Dakota,Ziebach County,46137,2026-03-02 06:43:05.668 -0500
+Tennessee,Anderson County,47001,2026-03-02 06:43:05.668 -0500
+Tennessee,Bedford County,47003,2026-03-02 06:43:05.668 -0500
+Tennessee,Benton County,47005,2026-03-02 06:43:05.668 -0500
+Tennessee,Bledsoe County,47007,2026-03-02 06:43:05.668 -0500
+Tennessee,Blount County,47009,2026-03-02 06:43:05.668 -0500
+Tennessee,Bradley County,47011,2026-03-02 06:43:05.668 -0500
+Tennessee,Campbell County,47013,2026-03-02 06:43:05.668 -0500
+Tennessee,Cannon County,47015,2026-03-02 06:43:05.668 -0500
+Tennessee,Carroll County,47017,2026-03-02 06:43:05.668 -0500
+Tennessee,Carter County,47019,2026-03-02 06:43:05.668 -0500
+Tennessee,Cheatham County,47021,2026-03-02 06:43:05.668 -0500
+Tennessee,Chester County,47023,2026-03-02 06:43:05.668 -0500
+Tennessee,Claiborne County,47025,2026-03-02 06:43:05.668 -0500
+Tennessee,Clay County,47027,2026-03-02 06:43:05.668 -0500
+Tennessee,Cocke County,47029,2026-03-02 06:43:05.668 -0500
+Tennessee,Coffee County,47031,2026-03-02 06:43:05.668 -0500
+Tennessee,Crockett County,47033,2026-03-02 06:43:05.668 -0500
+Tennessee,Cumberland County,47035,2026-03-02 06:43:05.668 -0500
+Tennessee,Davidson County,47037,2026-03-02 06:43:05.668 -0500
+Tennessee,DeKalb County,47041,2026-03-02 06:43:05.668 -0500
+Tennessee,Decatur County,47039,2026-03-02 06:43:05.668 -0500
+Tennessee,Dickson County,47043,2026-03-02 06:43:05.668 -0500
+Tennessee,Dyer County,47045,2026-03-02 06:43:05.668 -0500
+Tennessee,Fayette County,47047,2026-03-02 06:43:05.668 -0500
+Tennessee,Fentress County,47049,2026-03-02 06:43:05.668 -0500
+Tennessee,Franklin County,47051,2026-03-02 06:43:05.668 -0500
+Tennessee,Gibson County,47053,2026-03-02 06:43:05.668 -0500
+Tennessee,Giles County,47055,2026-03-02 06:43:05.668 -0500
+Tennessee,Grainger County,47057,2026-03-02 06:43:05.668 -0500
+Tennessee,Greene County,47059,2026-03-02 06:43:05.668 -0500
+Tennessee,Grundy County,47061,2026-03-02 06:43:05.668 -0500
+Tennessee,Hamblen County,47063,2026-03-02 06:43:05.668 -0500
+Tennessee,Hamilton County,47065,2026-03-02 06:43:05.668 -0500
+Tennessee,Hancock County,47067,2026-03-02 06:43:05.668 -0500
+Tennessee,Hardeman County,47069,2026-03-02 06:43:05.668 -0500
+Tennessee,Hardin County,47071,2026-03-02 06:43:05.668 -0500
+Tennessee,Hawkins County,47073,2026-03-02 06:43:05.668 -0500
+Tennessee,Haywood County,47075,2026-03-02 06:43:05.668 -0500
+Tennessee,Henderson County,47077,2026-03-02 06:43:05.668 -0500
+Tennessee,Henry County,47079,2026-03-02 06:43:05.668 -0500
+Tennessee,Hickman County,47081,2026-03-02 06:43:05.668 -0500
+Tennessee,Houston County,47083,2026-03-02 06:43:05.668 -0500
+Tennessee,Humphreys County,47085,2026-03-02 06:43:05.668 -0500
+Tennessee,Jackson County,47087,2026-03-02 06:43:05.668 -0500
+Tennessee,Jefferson County,47089,2026-03-02 06:43:05.668 -0500
+Tennessee,Johnson County,47091,2026-03-02 06:43:05.668 -0500
+Tennessee,Knox County,47093,2026-03-02 06:43:05.668 -0500
+Tennessee,Lake County,47095,2026-03-02 06:43:05.668 -0500
+Tennessee,Lauderdale County,47097,2026-03-02 06:43:05.668 -0500
+Tennessee,Lawrence County,47099,2026-03-02 06:43:05.668 -0500
+Tennessee,Lewis County,47101,2026-03-02 06:43:05.668 -0500
+Tennessee,Lincoln County,47103,2026-03-02 06:43:05.668 -0500
+Tennessee,Loudon County,47105,2026-03-02 06:43:05.668 -0500
+Tennessee,Macon County,47111,2026-03-02 06:43:05.668 -0500
+Tennessee,Madison County,47113,2026-03-02 06:43:05.668 -0500
+Tennessee,Marion County,47115,2026-03-02 06:43:05.668 -0500
+Tennessee,Marshall County,47117,2026-03-02 06:43:05.668 -0500
+Tennessee,Maury County,47119,2026-03-02 06:43:05.668 -0500
+Tennessee,McMinn County,47107,2026-03-02 06:43:05.668 -0500
+Tennessee,McNairy County,47109,2026-03-02 06:43:05.668 -0500
+Tennessee,Meigs County,47121,2026-03-02 06:43:05.668 -0500
+Tennessee,Monroe County,47123,2026-03-02 06:43:05.668 -0500
+Tennessee,Montgomery County,47125,2026-03-02 06:43:05.668 -0500
+Tennessee,Moore County,47127,2026-03-02 06:43:05.668 -0500
+Tennessee,Morgan County,47129,2026-03-02 06:43:05.668 -0500
+Tennessee,Obion County,47131,2026-03-02 06:43:05.668 -0500
+Tennessee,Other County,47000,2026-03-02 06:43:05.668 -0500
+Tennessee,Overton County,47133,2026-03-02 06:43:05.668 -0500
+Tennessee,Perry County,47135,2026-03-02 06:43:05.668 -0500
+Tennessee,Pickett County,47137,2026-03-02 06:43:05.668 -0500
+Tennessee,Polk County,47139,2026-03-02 06:43:05.668 -0500
+Tennessee,Putnam County,47141,2026-03-02 06:43:05.668 -0500
+Tennessee,Rhea County,47143,2026-03-02 06:43:05.668 -0500
+Tennessee,Roane County,47145,2026-03-02 06:43:05.668 -0500
+Tennessee,Robertson County,47147,2026-03-02 06:43:05.668 -0500
+Tennessee,Rutherford County,47149,2026-03-02 06:43:05.668 -0500
+Tennessee,Scott County,47151,2026-03-02 06:43:05.668 -0500
+Tennessee,Sequatchie County,47153,2026-03-02 06:43:05.668 -0500
+Tennessee,Sevier County,47155,2026-03-02 06:43:05.668 -0500
+Tennessee,Shelby County,47157,2026-03-02 06:43:05.668 -0500
+Tennessee,Smith County,47159,2026-03-02 06:43:05.668 -0500
+Tennessee,Stewart County,47161,2026-03-02 06:43:05.668 -0500
+Tennessee,Sullivan County,47163,2026-03-02 06:43:05.668 -0500
+Tennessee,Sumner County,47165,2026-03-02 06:43:05.668 -0500
+Tennessee,Tipton County,47167,2026-03-02 06:43:05.668 -0500
+Tennessee,Trousdale County,47169,2026-03-02 06:43:05.668 -0500
+Tennessee,Unicoi County,47171,2026-03-02 06:43:05.668 -0500
+Tennessee,Union County,47173,2026-03-02 06:43:05.668 -0500
+Tennessee,Van Buren County,47175,2026-03-02 06:43:05.668 -0500
+Tennessee,Warren County,47177,2026-03-02 06:43:05.668 -0500
+Tennessee,Washington County,47179,2026-03-02 06:43:05.668 -0500
+Tennessee,Wayne County,47181,2026-03-02 06:43:05.668 -0500
+Tennessee,Weakley County,47183,2026-03-02 06:43:05.668 -0500
+Tennessee,White County,47185,2026-03-02 06:43:05.668 -0500
+Tennessee,Williamson County,47187,2026-03-02 06:43:05.668 -0500
+Tennessee,Wilson County,47189,2026-03-02 06:43:05.668 -0500
+Texas,Anderson County,48001,2026-03-02 06:43:05.668 -0500
+Texas,Andrews County,48003,2026-03-02 06:43:05.668 -0500
+Texas,Angelina County,48005,2026-03-02 06:43:05.668 -0500
+Texas,Aransas County,48007,2026-03-02 06:43:05.668 -0500
+Texas,Archer County,48009,2026-03-02 06:43:05.668 -0500
+Texas,Armstrong County,48011,2026-03-02 06:43:05.668 -0500
+Texas,Atascosa County,48013,2026-03-02 06:43:05.668 -0500
+Texas,Austin County,48015,2026-03-02 06:43:05.668 -0500
+Texas,Bailey County,48017,2026-03-02 06:43:05.668 -0500
+Texas,Bandera County,48019,2026-03-02 06:43:05.668 -0500
+Texas,Bastrop County,48021,2026-03-02 06:43:05.668 -0500
+Texas,Baylor County,48023,2026-03-02 06:43:05.668 -0500
+Texas,Bee County,48025,2026-03-02 06:43:05.668 -0500
+Texas,Bell County,48027,2026-03-02 06:43:05.668 -0500
+Texas,Bexar County,48029,2026-03-02 06:43:05.668 -0500
+Texas,Blanco County,48031,2026-03-02 06:43:05.668 -0500
+Texas,Borden County,48033,2026-03-02 06:43:05.668 -0500
+Texas,Bosque County,48035,2026-03-02 06:43:05.668 -0500
+Texas,Bowie County,48037,2026-03-02 06:43:05.668 -0500
+Texas,Brazoria County,48039,2026-03-02 06:43:05.668 -0500
+Texas,Brazos County,48041,2026-03-02 06:43:05.668 -0500
+Texas,Brewster County,48043,2026-03-02 06:43:05.668 -0500
+Texas,Briscoe County,48045,2026-03-02 06:43:05.668 -0500
+Texas,Brooks County,48047,2026-03-02 06:43:05.668 -0500
+Texas,Brown County,48049,2026-03-02 06:43:05.668 -0500
+Texas,Burleson County,48051,2026-03-02 06:43:05.668 -0500
+Texas,Burnet County,48053,2026-03-02 06:43:05.668 -0500
+Texas,Caldwell County,48055,2026-03-02 06:43:05.668 -0500
+Texas,Calhoun County,48057,2026-03-02 06:43:05.668 -0500
+Texas,Callahan County,48059,2026-03-02 06:43:05.668 -0500
+Texas,Cameron County,48061,2026-03-02 06:43:05.668 -0500
+Texas,Camp County,48063,2026-03-02 06:43:05.668 -0500
+Texas,Carson County,48065,2026-03-02 06:43:05.668 -0500
+Texas,Cass County,48067,2026-03-02 06:43:05.668 -0500
+Texas,Castro County,48069,2026-03-02 06:43:05.668 -0500
+Texas,Chambers County,48071,2026-03-02 06:43:05.668 -0500
+Texas,Cherokee County,48073,2026-03-02 06:43:05.668 -0500
+Texas,Childress County,48075,2026-03-02 06:43:05.668 -0500
+Texas,Clay County,48077,2026-03-02 06:43:05.668 -0500
+Texas,Cochran County,48079,2026-03-02 06:43:05.668 -0500
+Texas,Coke County,48081,2026-03-02 06:43:05.668 -0500
+Texas,Coleman County,48083,2026-03-02 06:43:05.668 -0500
+Texas,Collin County,48085,2026-03-02 06:43:05.668 -0500
+Texas,Collingsworth County,48087,2026-03-02 06:43:05.668 -0500
+Texas,Colorado County,48089,2026-03-02 06:43:05.668 -0500
+Texas,Comal County,48091,2026-03-02 06:43:05.668 -0500
+Texas,Comanche County,48093,2026-03-02 06:43:05.668 -0500
+Texas,Concho County,48095,2026-03-02 06:43:05.668 -0500
+Texas,Cooke County,48097,2026-03-02 06:43:05.668 -0500
+Texas,Coryell County,48099,2026-03-02 06:43:05.668 -0500
+Texas,Cottle County,48101,2026-03-02 06:43:05.668 -0500
+Texas,Crane County,48103,2026-03-02 06:43:05.668 -0500
+Texas,Crockett County,48105,2026-03-02 06:43:05.668 -0500
+Texas,Crosby County,48107,2026-03-02 06:43:05.668 -0500
+Texas,Culberson County,48109,2026-03-02 06:43:05.668 -0500
+Texas,Dallam County,48111,2026-03-02 06:43:05.668 -0500
+Texas,Dallas County,48113,2026-03-02 06:43:05.668 -0500
+Texas,Dawson County,48115,2026-03-02 06:43:05.668 -0500
+Texas,DeWitt County,48123,2026-03-02 06:43:05.668 -0500
+Texas,Deaf Smith County,48117,2026-03-02 06:43:05.668 -0500
+Texas,Delta County,48119,2026-03-02 06:43:05.668 -0500
+Texas,Denton County,48121,2026-03-02 06:43:05.668 -0500
+Texas,Dickens County,48125,2026-03-02 06:43:05.668 -0500
+Texas,Dimmit County,48127,2026-03-02 06:43:05.668 -0500
+Texas,Donley County,48129,2026-03-02 06:43:05.668 -0500
+Texas,Duval County,48131,2026-03-02 06:43:05.668 -0500
+Texas,Eastland County,48133,2026-03-02 06:43:05.668 -0500
+Texas,Ector County,48135,2026-03-02 06:43:05.668 -0500
+Texas,Edwards County,48137,2026-03-02 06:43:05.668 -0500
+Texas,El Paso County,48141,2026-03-02 06:43:05.668 -0500
+Texas,Ellis County,48139,2026-03-02 06:43:05.668 -0500
+Texas,Erath County,48143,2026-03-02 06:43:05.668 -0500
+Texas,Falls County,48145,2026-03-02 06:43:05.668 -0500
+Texas,Fannin County,48147,2026-03-02 06:43:05.668 -0500
+Texas,Fayette County,48149,2026-03-02 06:43:05.668 -0500
+Texas,Fisher County,48151,2026-03-02 06:43:05.668 -0500
+Texas,Floyd County,48153,2026-03-02 06:43:05.668 -0500
+Texas,Foard County,48155,2026-03-02 06:43:05.668 -0500
+Texas,Fort Bend County,48157,2026-03-02 06:43:05.668 -0500
+Texas,Franklin County,48159,2026-03-02 06:43:05.668 -0500
+Texas,Freestone County,48161,2026-03-02 06:43:05.668 -0500
+Texas,Frio County,48163,2026-03-02 06:43:05.668 -0500
+Texas,Gaines County,48165,2026-03-02 06:43:05.668 -0500
+Texas,Galveston County,48167,2026-03-02 06:43:05.668 -0500
+Texas,Garza County,48169,2026-03-02 06:43:05.668 -0500
+Texas,Gillespie County,48171,2026-03-02 06:43:05.668 -0500
+Texas,Glasscock County,48173,2026-03-02 06:43:05.668 -0500
+Texas,Goliad County,48175,2026-03-02 06:43:05.668 -0500
+Texas,Gonzales County,48177,2026-03-02 06:43:05.668 -0500
+Texas,Gray County,48179,2026-03-02 06:43:05.668 -0500
+Texas,Grayson County,48181,2026-03-02 06:43:05.668 -0500
+Texas,Gregg County,48183,2026-03-02 06:43:05.668 -0500
+Texas,Grimes County,48185,2026-03-02 06:43:05.668 -0500
+Texas,Guadalupe County,48187,2026-03-02 06:43:05.668 -0500
+Texas,Hale County,48189,2026-03-02 06:43:05.668 -0500
+Texas,Hall County,48191,2026-03-02 06:43:05.668 -0500
+Texas,Hamilton County,48193,2026-03-02 06:43:05.668 -0500
+Texas,Hansford County,48195,2026-03-02 06:43:05.668 -0500
+Texas,Hardeman County,48197,2026-03-02 06:43:05.668 -0500
+Texas,Hardin County,48199,2026-03-02 06:43:05.668 -0500
+Texas,Harris County,48201,2026-03-02 06:43:05.668 -0500
+Texas,Harrison County,48203,2026-03-02 06:43:05.668 -0500
+Texas,Hartley County,48205,2026-03-02 06:43:05.668 -0500
+Texas,Haskell County,48207,2026-03-02 06:43:05.668 -0500
+Texas,Hays County,48209,2026-03-02 06:43:05.668 -0500
+Texas,Hemphill County,48211,2026-03-02 06:43:05.668 -0500
+Texas,Henderson County,48213,2026-03-02 06:43:05.668 -0500
+Texas,Hidalgo County,48215,2026-03-02 06:43:05.668 -0500
+Texas,Hill County,48217,2026-03-02 06:43:05.668 -0500
+Texas,Hockley County,48219,2026-03-02 06:43:05.668 -0500
+Texas,Hood County,48221,2026-03-02 06:43:05.668 -0500
+Texas,Hopkins County,48223,2026-03-02 06:43:05.668 -0500
+Texas,Houston County,48225,2026-03-02 06:43:05.668 -0500
+Texas,Howard County,48227,2026-03-02 06:43:05.668 -0500
+Texas,Hudspeth County,48229,2026-03-02 06:43:05.668 -0500
+Texas,Hunt County,48231,2026-03-02 06:43:05.668 -0500
+Texas,Hutchinson County,48233,2026-03-02 06:43:05.668 -0500
+Texas,Irion County,48235,2026-03-02 06:43:05.668 -0500
+Texas,Jack County,48237,2026-03-02 06:43:05.668 -0500
+Texas,Jackson County,48239,2026-03-02 06:43:05.668 -0500
+Texas,Jasper County,48241,2026-03-02 06:43:05.668 -0500
+Texas,Jeff Davis County,48243,2026-03-02 06:43:05.668 -0500
+Texas,Jefferson County,48245,2026-03-02 06:43:05.668 -0500
+Texas,Jim Hogg County,48247,2026-03-02 06:43:05.668 -0500
+Texas,Jim Wells County,48249,2026-03-02 06:43:05.668 -0500
+Texas,Johnson County,48251,2026-03-02 06:43:05.668 -0500
+Texas,Jones County,48253,2026-03-02 06:43:05.668 -0500
+Texas,Karnes County,48255,2026-03-02 06:43:05.668 -0500
+Texas,Kaufman County,48257,2026-03-02 06:43:05.668 -0500
+Texas,Kendall County,48259,2026-03-02 06:43:05.668 -0500
+Texas,Kenedy County,48261,2026-03-02 06:43:05.668 -0500
+Texas,Kent County,48263,2026-03-02 06:43:05.668 -0500
+Texas,Kerr County,48265,2026-03-02 06:43:05.668 -0500
+Texas,Kimble County,48267,2026-03-02 06:43:05.668 -0500
+Texas,King County,48269,2026-03-02 06:43:05.668 -0500
+Texas,Kinney County,48271,2026-03-02 06:43:05.668 -0500
+Texas,Kleberg County,48273,2026-03-02 06:43:05.668 -0500
+Texas,Knox County,48275,2026-03-02 06:43:05.668 -0500
+Texas,La Salle County,48283,2026-03-02 06:43:05.668 -0500
+Texas,Lamar County,48277,2026-03-02 06:43:05.668 -0500
+Texas,Lamb County,48279,2026-03-02 06:43:05.668 -0500
+Texas,Lampasas County,48281,2026-03-02 06:43:05.668 -0500
+Texas,Lavaca County,48285,2026-03-02 06:43:05.668 -0500
+Texas,Lee County,48287,2026-03-02 06:43:05.668 -0500
+Texas,Leon County,48289,2026-03-02 06:43:05.668 -0500
+Texas,Liberty County,48291,2026-03-02 06:43:05.668 -0500
+Texas,Limestone County,48293,2026-03-02 06:43:05.668 -0500
+Texas,Lipscomb County,48295,2026-03-02 06:43:05.668 -0500
+Texas,Live Oak County,48297,2026-03-02 06:43:05.668 -0500
+Texas,Llano County,48299,2026-03-02 06:43:05.668 -0500
+Texas,Loving County,48301,2026-03-02 06:43:05.668 -0500
+Texas,Lubbock County,48303,2026-03-02 06:43:05.668 -0500
+Texas,Lynn County,48305,2026-03-02 06:43:05.668 -0500
+Texas,Madison County,48313,2026-03-02 06:43:05.668 -0500
+Texas,Marion County,48315,2026-03-02 06:43:05.668 -0500
+Texas,Martin County,48317,2026-03-02 06:43:05.668 -0500
+Texas,Mason County,48319,2026-03-02 06:43:05.668 -0500
+Texas,Matagorda County,48321,2026-03-02 06:43:05.668 -0500
+Texas,Maverick County,48323,2026-03-02 06:43:05.668 -0500
+Texas,McCulloch County,48307,2026-03-02 06:43:05.668 -0500
+Texas,McLennan County,48309,2026-03-02 06:43:05.668 -0500
+Texas,McMullen County,48311,2026-03-02 06:43:05.668 -0500
+Texas,Medina County,48325,2026-03-02 06:43:05.668 -0500
+Texas,Menard County,48327,2026-03-02 06:43:05.668 -0500
+Texas,Midland County,48329,2026-03-02 06:43:05.668 -0500
+Texas,Milam County,48331,2026-03-02 06:43:05.668 -0500
+Texas,Mills County,48333,2026-03-02 06:43:05.668 -0500
+Texas,Mitchell County,48335,2026-03-02 06:43:05.668 -0500
+Texas,Montague County,48337,2026-03-02 06:43:05.668 -0500
+Texas,Montgomery County,48339,2026-03-02 06:43:05.668 -0500
+Texas,Moore County,48341,2026-03-02 06:43:05.668 -0500
+Texas,Morris County,48343,2026-03-02 06:43:05.668 -0500
+Texas,Motley County,48345,2026-03-02 06:43:05.668 -0500
+Texas,Nacogdoches County,48347,2026-03-02 06:43:05.668 -0500
+Texas,Navarro County,48349,2026-03-02 06:43:05.668 -0500
+Texas,Newton County,48351,2026-03-02 06:43:05.668 -0500
+Texas,Nolan County,48353,2026-03-02 06:43:05.668 -0500
+Texas,Nueces County,48355,2026-03-02 06:43:05.668 -0500
+Texas,Ochiltree County,48357,2026-03-02 06:43:05.668 -0500
+Texas,Oldham County,48359,2026-03-02 06:43:05.668 -0500
+Texas,Orange County,48361,2026-03-02 06:43:05.668 -0500
+Texas,Other County,48000,2026-03-02 06:43:05.668 -0500
+Texas,Palo Pinto County,48363,2026-03-02 06:43:05.668 -0500
+Texas,Panola County,48365,2026-03-02 06:43:05.668 -0500
+Texas,Parker County,48367,2026-03-02 06:43:05.668 -0500
+Texas,Parmer County,48369,2026-03-02 06:43:05.668 -0500
+Texas,Pecos County,48371,2026-03-02 06:43:05.668 -0500
+Texas,Polk County,48373,2026-03-02 06:43:05.668 -0500
+Texas,Potter County,48375,2026-03-02 06:43:05.668 -0500
+Texas,Presidio County,48377,2026-03-02 06:43:05.668 -0500
+Texas,Rains County,48379,2026-03-02 06:43:05.668 -0500
+Texas,Randall County,48381,2026-03-02 06:43:05.668 -0500
+Texas,Reagan County,48383,2026-03-02 06:43:05.668 -0500
+Texas,Real County,48385,2026-03-02 06:43:05.668 -0500
+Texas,Red River County,48387,2026-03-02 06:43:05.668 -0500
+Texas,Reeves County,48389,2026-03-02 06:43:05.668 -0500
+Texas,Refugio County,48391,2026-03-02 06:43:05.668 -0500
+Texas,Roberts County,48393,2026-03-02 06:43:05.668 -0500
+Texas,Robertson County,48395,2026-03-02 06:43:05.668 -0500
+Texas,Rockwall County,48397,2026-03-02 06:43:05.668 -0500
+Texas,Runnels County,48399,2026-03-02 06:43:05.668 -0500
+Texas,Rusk County,48401,2026-03-02 06:43:05.668 -0500
+Texas,Sabine County,48403,2026-03-02 06:43:05.668 -0500
+Texas,San Augustine County,48405,2026-03-02 06:43:05.668 -0500
+Texas,San Jacinto County,48407,2026-03-02 06:43:05.668 -0500
+Texas,San Patricio County,48409,2026-03-02 06:43:05.668 -0500
+Texas,San Saba County,48411,2026-03-02 06:43:05.668 -0500
+Texas,Schleicher County,48413,2026-03-02 06:43:05.668 -0500
+Texas,Scurry County,48415,2026-03-02 06:43:05.668 -0500
+Texas,Shackelford County,48417,2026-03-02 06:43:05.668 -0500
+Texas,Shelby County,48419,2026-03-02 06:43:05.668 -0500
+Texas,Sherman County,48421,2026-03-02 06:43:05.668 -0500
+Texas,Smith County,48423,2026-03-02 06:43:05.668 -0500
+Texas,Somervell County,48425,2026-03-02 06:43:05.668 -0500
+Texas,Starr County,48427,2026-03-02 06:43:05.668 -0500
+Texas,Stephens County,48429,2026-03-02 06:43:05.668 -0500
+Texas,Sterling County,48431,2026-03-02 06:43:05.668 -0500
+Texas,Stonewall County,48433,2026-03-02 06:43:05.668 -0500
+Texas,Sutton County,48435,2026-03-02 06:43:05.668 -0500
+Texas,Swisher County,48437,2026-03-02 06:43:05.668 -0500
+Texas,Tarrant County,48439,2026-03-02 06:43:05.668 -0500
+Texas,Taylor County,48441,2026-03-02 06:43:05.668 -0500
+Texas,Terrell County,48443,2026-03-02 06:43:05.668 -0500
+Texas,Terry County,48445,2026-03-02 06:43:05.668 -0500
+Texas,Throckmorton County,48447,2026-03-02 06:43:05.668 -0500
+Texas,Titus County,48449,2026-03-02 06:43:05.668 -0500
+Texas,Tom Green County,48451,2026-03-02 06:43:05.668 -0500
+Texas,Travis County,48453,2026-03-02 06:43:05.668 -0500
+Texas,Trinity County,48455,2026-03-02 06:43:05.668 -0500
+Texas,Tyler County,48457,2026-03-02 06:43:05.668 -0500
+Texas,Upshur County,48459,2026-03-02 06:43:05.668 -0500
+Texas,Upton County,48461,2026-03-02 06:43:05.668 -0500
+Texas,Uvalde County,48463,2026-03-02 06:43:05.668 -0500
+Texas,Val Verde County,48465,2026-03-02 06:43:05.668 -0500
+Texas,Van Zandt County,48467,2026-03-02 06:43:05.668 -0500
+Texas,Victoria County,48469,2026-03-02 06:43:05.668 -0500
+Texas,Walker County,48471,2026-03-02 06:43:05.668 -0500
+Texas,Waller County,48473,2026-03-02 06:43:05.668 -0500
+Texas,Ward County,48475,2026-03-02 06:43:05.668 -0500
+Texas,Washington County,48477,2026-03-02 06:43:05.668 -0500
+Texas,Webb County,48479,2026-03-02 06:43:05.668 -0500
+Texas,Wharton County,48481,2026-03-02 06:43:05.668 -0500
+Texas,Wheeler County,48483,2026-03-02 06:43:05.668 -0500
+Texas,Wichita County,48485,2026-03-02 06:43:05.668 -0500
+Texas,Wilbarger County,48487,2026-03-02 06:43:05.668 -0500
+Texas,Willacy County,48489,2026-03-02 06:43:05.668 -0500
+Texas,Williamson County,48491,2026-03-02 06:43:05.668 -0500
+Texas,Wilson County,48493,2026-03-02 06:43:05.668 -0500
+Texas,Winkler County,48495,2026-03-02 06:43:05.668 -0500
+Texas,Wise County,48497,2026-03-02 06:43:05.668 -0500
+Texas,Wood County,48499,2026-03-02 06:43:05.668 -0500
+Texas,Yoakum County,48501,2026-03-02 06:43:05.668 -0500
+Texas,Young County,48503,2026-03-02 06:43:05.668 -0500
+Texas,Zapata County,48505,2026-03-02 06:43:05.668 -0500
+Texas,Zavala County,48507,2026-03-02 06:43:05.668 -0500
+Utah,Beaver County,49001,2026-03-02 06:43:05.668 -0500
+Utah,Box Elder County,49003,2026-03-02 06:43:05.668 -0500
+Utah,Cache County,49005,2026-03-02 06:43:05.668 -0500
+Utah,Carbon County,49007,2026-03-02 06:43:05.668 -0500
+Utah,Daggett County,49009,2026-03-02 06:43:05.668 -0500
+Utah,Davis County,49011,2026-03-02 06:43:05.668 -0500
+Utah,Duchesne County,49013,2026-03-02 06:43:05.668 -0500
+Utah,Emery County,49015,2026-03-02 06:43:05.668 -0500
+Utah,Garfield County,49017,2026-03-02 06:43:05.668 -0500
+Utah,Grand County,49019,2026-03-02 06:43:05.668 -0500
+Utah,Iron County,49021,2026-03-02 06:43:05.668 -0500
+Utah,Juab County,49023,2026-03-02 06:43:05.668 -0500
+Utah,Kane County,49025,2026-03-02 06:43:05.668 -0500
+Utah,Millard County,49027,2026-03-02 06:43:05.668 -0500
+Utah,Morgan County,49029,2026-03-02 06:43:05.668 -0500
+Utah,Other County,49000,2026-03-02 06:43:05.668 -0500
+Utah,Piute County,49031,2026-03-02 06:43:05.668 -0500
+Utah,Rich County,49033,2026-03-02 06:43:05.668 -0500
+Utah,Salt Lake County,49035,2026-03-02 06:43:05.668 -0500
+Utah,San Juan County,49037,2026-03-02 06:43:05.668 -0500
+Utah,Sanpete County,49039,2026-03-02 06:43:05.668 -0500
+Utah,Sevier County,49041,2026-03-02 06:43:05.668 -0500
+Utah,Summit County,49043,2026-03-02 06:43:05.668 -0500
+Utah,Tooele County,49045,2026-03-02 06:43:05.668 -0500
+Utah,Uintah County,49047,2026-03-02 06:43:05.668 -0500
+Utah,Utah County,49049,2026-03-02 06:43:05.668 -0500
+Utah,Wasatch County,49051,2026-03-02 06:43:05.668 -0500
+Utah,Washington County,49053,2026-03-02 06:43:05.668 -0500
+Utah,Wayne County,49055,2026-03-02 06:43:05.668 -0500
+Utah,Weber County,49057,2026-03-02 06:43:05.668 -0500
+Vermont,Addison County,50001,2026-03-02 06:43:05.668 -0500
+Vermont,Bennington County,50003,2026-03-02 06:43:05.668 -0500
+Vermont,Caledonia County,50005,2026-03-02 06:43:05.668 -0500
+Vermont,Chittenden County,50007,2026-03-02 06:43:05.668 -0500
+Vermont,Essex County,50009,2026-03-02 06:43:05.668 -0500
+Vermont,Franklin County,50011,2026-03-02 06:43:05.668 -0500
+Vermont,Grand Isle County,50013,2026-03-02 06:43:05.668 -0500
+Vermont,Lamoille County,50015,2026-03-02 06:43:05.668 -0500
+Vermont,Orange County,50017,2026-03-02 06:43:05.668 -0500
+Vermont,Orleans County,50019,2026-03-02 06:43:05.668 -0500
+Vermont,Other County,50000,2026-03-02 06:43:05.668 -0500
+Vermont,Rutland County,50021,2026-03-02 06:43:05.668 -0500
+Vermont,Washington County,50023,2026-03-02 06:43:05.668 -0500
+Vermont,Windham County,50025,2026-03-02 06:43:05.668 -0500
+Vermont,Windsor County,50027,2026-03-02 06:43:05.668 -0500
+Virginia,Accomack County,51001,2026-03-02 06:43:05.668 -0500
+Virginia,Albemarle County,51003,2026-03-02 06:43:05.668 -0500
+Virginia,Alexandria City,51510,2026-03-02 06:43:05.668 -0500
+Virginia,Alleghany County,51005,2026-03-02 06:43:05.668 -0500
+Virginia,Amelia County,51007,2026-03-02 06:43:05.668 -0500
+Virginia,Amherst County,51009,2026-03-02 06:43:05.668 -0500
+Virginia,Appomattox County,51011,2026-03-02 06:43:05.668 -0500
+Virginia,Arlington County,51013,2026-03-02 06:43:05.668 -0500
+Virginia,Augusta County,51015,2026-03-02 06:43:05.668 -0500
+Virginia,Bath County,51017,2026-03-02 06:43:05.668 -0500
+Virginia,Bedford County,51019,2026-03-02 06:43:05.668 -0500
+Virginia,Bland County,51021,2026-03-02 06:43:05.668 -0500
+Virginia,Botetourt County,51023,2026-03-02 06:43:05.668 -0500
+Virginia,Bristol City,51520,2026-03-02 06:43:05.668 -0500
+Virginia,Brunswick County,51025,2026-03-02 06:43:05.668 -0500
+Virginia,Buchanan County,51027,2026-03-02 06:43:05.668 -0500
+Virginia,Buckingham County,51029,2026-03-02 06:43:05.668 -0500
+Virginia,Buena Vista City,51530,2026-03-02 06:43:05.668 -0500
+Virginia,Campbell County,51031,2026-03-02 06:43:05.668 -0500
+Virginia,Caroline County,51033,2026-03-02 06:43:05.668 -0500
+Virginia,Carroll County,51035,2026-03-02 06:43:05.668 -0500
+Virginia,Charles City,51036,2026-03-02 06:43:05.668 -0500
+Virginia,Charlotte County,51037,2026-03-02 06:43:05.668 -0500
+Virginia,Charlottesville City,51540,2026-03-02 06:43:05.668 -0500
+Virginia,Chesapeake City,51550,2026-03-02 06:43:05.668 -0500
+Virginia,Chesterfield County,51041,2026-03-02 06:43:05.668 -0500
+Virginia,Clarke County,51043,2026-03-02 06:43:05.668 -0500
+Virginia,Colonial Heights City,51570,2026-03-02 06:43:05.668 -0500
+Virginia,Covington City,51580,2026-03-02 06:43:05.668 -0500
+Virginia,Craig County,51045,2026-03-02 06:43:05.668 -0500
+Virginia,Culpeper County,51047,2026-03-02 06:43:05.668 -0500
+Virginia,Cumberland County,51049,2026-03-02 06:43:05.668 -0500
+Virginia,Danville City,51590,2026-03-02 06:43:05.668 -0500
+Virginia,Dickenson County,51051,2026-03-02 06:43:05.668 -0500
+Virginia,Dinwiddie County,51053,2026-03-02 06:43:05.668 -0500
+Virginia,Emporia City,51595,2026-03-02 06:43:05.668 -0500
+Virginia,Essex County,51057,2026-03-02 06:43:05.668 -0500
+Virginia,Fairfax City,51600,2026-03-02 06:43:05.668 -0500
+Virginia,Fairfax County,51059,2026-03-02 06:43:05.668 -0500
+Virginia,Falls Church City,51610,2026-03-02 06:43:05.668 -0500
+Virginia,Fauquier County,51061,2026-03-02 06:43:05.668 -0500
+Virginia,Floyd County,51063,2026-03-02 06:43:05.668 -0500
+Virginia,Fluvanna County,51065,2026-03-02 06:43:05.668 -0500
+Virginia,Franklin City,51620,2026-03-02 06:43:05.668 -0500
+Virginia,Franklin County,51067,2026-03-02 06:43:05.668 -0500
+Virginia,Frederick County,51069,2026-03-02 06:43:05.668 -0500
+Virginia,Fredericksburg City,51630,2026-03-02 06:43:05.668 -0500
+Virginia,Galax City,51640,2026-03-02 06:43:05.668 -0500
+Virginia,Giles County,51071,2026-03-02 06:43:05.668 -0500
+Virginia,Gloucester County,51073,2026-03-02 06:43:05.668 -0500
+Virginia,Goochland County,51075,2026-03-02 06:43:05.668 -0500
+Virginia,Grayson County,51077,2026-03-02 06:43:05.668 -0500
+Virginia,Greene County,51079,2026-03-02 06:43:05.668 -0500
+Virginia,Greensville County,51081,2026-03-02 06:43:05.668 -0500
+Virginia,Halifax County,51083,2026-03-02 06:43:05.668 -0500
+Virginia,Hampton City,51650,2026-03-02 06:43:05.668 -0500
+Virginia,Hanover County,51085,2026-03-02 06:43:05.668 -0500
+Virginia,Harrisonburg City,51660,2026-03-02 06:43:05.668 -0500
+Virginia,Henrico County,51087,2026-03-02 06:43:05.668 -0500
+Virginia,Henry County,51089,2026-03-02 06:43:05.668 -0500
+Virginia,Highland County,51091,2026-03-02 06:43:05.668 -0500
+Virginia,Hopewell City,51670,2026-03-02 06:43:05.668 -0500
+Virginia,Isle of Wight County,51093,2026-03-02 06:43:05.668 -0500
+Virginia,James City,51095,2026-03-02 06:43:05.668 -0500
+Virginia,King George County,51099,2026-03-02 06:43:05.668 -0500
+Virginia,King William County,51101,2026-03-02 06:43:05.668 -0500
+Virginia,King and Queen County,51097,2026-03-02 06:43:05.668 -0500
+Virginia,Lancaster County,51103,2026-03-02 06:43:05.668 -0500
+Virginia,Lee County,51105,2026-03-02 06:43:05.668 -0500
+Virginia,Lexington City,51678,2026-03-02 06:43:05.668 -0500
+Virginia,Loudoun County,51107,2026-03-02 06:43:05.668 -0500
+Virginia,Louisa County,51109,2026-03-02 06:43:05.668 -0500
+Virginia,Lunenburg County,51111,2026-03-02 06:43:05.668 -0500
+Virginia,Lynchburg City,51680,2026-03-02 06:43:05.668 -0500
+Virginia,Madison County,51113,2026-03-02 06:43:05.668 -0500
+Virginia,Manassas City,51683,2026-03-02 06:43:05.668 -0500
+Virginia,Manassas Park City,51685,2026-03-02 06:43:05.668 -0500
+Virginia,Martinsville City,51690,2026-03-02 06:43:05.668 -0500
+Virginia,Mathews County,51115,2026-03-02 06:43:05.668 -0500
+Virginia,Mecklenburg County,51117,2026-03-02 06:43:05.668 -0500
+Virginia,Middlesex County,51119,2026-03-02 06:43:05.668 -0500
+Virginia,Montgomery County,51121,2026-03-02 06:43:05.668 -0500
+Virginia,Nelson County,51125,2026-03-02 06:43:05.668 -0500
+Virginia,New Kent County,51127,2026-03-02 06:43:05.668 -0500
+Virginia,Newport News City,51700,2026-03-02 06:43:05.668 -0500
+Virginia,Norfolk City,51710,2026-03-02 06:43:05.668 -0500
+Virginia,Northampton County,51131,2026-03-02 06:43:05.668 -0500
+Virginia,Northumberland County,51133,2026-03-02 06:43:05.668 -0500
+Virginia,Norton City,51720,2026-03-02 06:43:05.668 -0500
+Virginia,Nottoway County,51135,2026-03-02 06:43:05.668 -0500
+Virginia,Orange County,51137,2026-03-02 06:43:05.668 -0500
+Virginia,Other County,51000,2026-03-02 06:43:05.668 -0500
+Virginia,Page County,51139,2026-03-02 06:43:05.668 -0500
+Virginia,Patrick County,51141,2026-03-02 06:43:05.668 -0500
+Virginia,Petersburg City,51730,2026-03-02 06:43:05.668 -0500
+Virginia,Pittsylvania County,51143,2026-03-02 06:43:05.668 -0500
+Virginia,Poquoson City,51735,2026-03-02 06:43:05.668 -0500
+Virginia,Portsmouth City,51740,2026-03-02 06:43:05.668 -0500
+Virginia,Powhatan County,51145,2026-03-02 06:43:05.668 -0500
+Virginia,Prince Edward County,51147,2026-03-02 06:43:05.668 -0500
+Virginia,Prince George County,51149,2026-03-02 06:43:05.668 -0500
+Virginia,Prince William County,51153,2026-03-02 06:43:05.668 -0500
+Virginia,Pulaski County,51155,2026-03-02 06:43:05.668 -0500
+Virginia,Radford City,51750,2026-03-02 06:43:05.668 -0500
+Virginia,Rappahannock County,51157,2026-03-02 06:43:05.668 -0500
+Virginia,Richmond City,51760,2026-03-02 06:43:05.668 -0500
+Virginia,Richmond County,51159,2026-03-02 06:43:05.668 -0500
+Virginia,Roanoke City,51770,2026-03-02 06:43:05.668 -0500
+Virginia,Roanoke County,51161,2026-03-02 06:43:05.668 -0500
+Virginia,Rockbridge County,51163,2026-03-02 06:43:05.668 -0500
+Virginia,Rockingham County,51165,2026-03-02 06:43:05.668 -0500
+Virginia,Russell County,51167,2026-03-02 06:43:05.668 -0500
+Virginia,Salem City,51775,2026-03-02 06:43:05.668 -0500
+Virginia,Scott County,51169,2026-03-02 06:43:05.668 -0500
+Virginia,Shenandoah County,51171,2026-03-02 06:43:05.668 -0500
+Virginia,Smyth County,51173,2026-03-02 06:43:05.668 -0500
+Virginia,Southampton County,51175,2026-03-02 06:43:05.668 -0500
+Virginia,Spotsylvania County,51177,2026-03-02 06:43:05.668 -0500
+Virginia,Stafford County,51179,2026-03-02 06:43:05.668 -0500
+Virginia,Staunton City,51790,2026-03-02 06:43:05.668 -0500
+Virginia,Suffolk City,51800,2026-03-02 06:43:05.668 -0500
+Virginia,Surry County,51181,2026-03-02 06:43:05.668 -0500
+Virginia,Sussex County,51183,2026-03-02 06:43:05.668 -0500
+Virginia,Tazewell County,51185,2026-03-02 06:43:05.668 -0500
+Virginia,Virginia Beach City,51810,2026-03-02 06:43:05.668 -0500
+Virginia,Warren County,51187,2026-03-02 06:43:05.668 -0500
+Virginia,Washington County,51191,2026-03-02 06:43:05.668 -0500
+Virginia,Waynesboro City,51820,2026-03-02 06:43:05.668 -0500
+Virginia,Westmoreland County,51193,2026-03-02 06:43:05.668 -0500
+Virginia,Williamsburg City,51830,2026-03-02 06:43:05.668 -0500
+Virginia,Winchester City,51840,2026-03-02 06:43:05.668 -0500
+Virginia,Wise County,51195,2026-03-02 06:43:05.668 -0500
+Virginia,Wythe County,51197,2026-03-02 06:43:05.668 -0500
+Virginia,York County,51199,2026-03-02 06:43:05.668 -0500
+Washington,Adams County,53001,2026-03-02 06:43:05.668 -0500
+Washington,Asotin County,53003,2026-03-02 06:43:05.668 -0500
+Washington,Benton County,53005,2026-03-02 06:43:05.668 -0500
+Washington,Chelan County,53007,2026-03-02 06:43:05.668 -0500
+Washington,Clallam County,53009,2026-03-02 06:43:05.668 -0500
+Washington,Clark County,53011,2026-03-02 06:43:05.668 -0500
+Washington,Columbia County,53013,2026-03-02 06:43:05.668 -0500
+Washington,Cowlitz County,53015,2026-03-02 06:43:05.668 -0500
+Washington,Douglas County,53017,2026-03-02 06:43:05.668 -0500
+Washington,Ferry County,53019,2026-03-02 06:43:05.668 -0500
+Washington,Franklin County,53021,2026-03-02 06:43:05.668 -0500
+Washington,Garfield County,53023,2026-03-02 06:43:05.668 -0500
+Washington,Grant County,53025,2026-03-02 06:43:05.668 -0500
+Washington,Grays Harbor County,53027,2026-03-02 06:43:05.668 -0500
+Washington,Island County,53029,2026-03-02 06:43:05.668 -0500
+Washington,Jefferson County,53031,2026-03-02 06:43:05.668 -0500
+Washington,King County,53033,2026-03-02 06:43:05.668 -0500
+Washington,Kitsap County,53035,2026-03-02 06:43:05.668 -0500
+Washington,Kittitas County,53037,2026-03-02 06:43:05.668 -0500
+Washington,Klickitat County,53039,2026-03-02 06:43:05.668 -0500
+Washington,Lewis County,53041,2026-03-02 06:43:05.668 -0500
+Washington,Lincoln County,53043,2026-03-02 06:43:05.668 -0500
+Washington,Mason County,53045,2026-03-02 06:43:05.668 -0500
+Washington,Okanogan County,53047,2026-03-02 06:43:05.668 -0500
+Washington,Other County,53000,2026-03-02 06:43:05.668 -0500
+Washington,Pacific County,53049,2026-03-02 06:43:05.668 -0500
+Washington,Pend Oreille County,53051,2026-03-02 06:43:05.668 -0500
+Washington,Pierce County,53053,2026-03-02 06:43:05.668 -0500
+Washington,San Juan County,53055,2026-03-02 06:43:05.668 -0500
+Washington,Skagit County,53057,2026-03-02 06:43:05.668 -0500
+Washington,Skamania County,53059,2026-03-02 06:43:05.668 -0500
+Washington,Snohomish County,53061,2026-03-02 06:43:05.668 -0500
+Washington,Spokane County,53063,2026-03-02 06:43:05.668 -0500
+Washington,Stevens County,53065,2026-03-02 06:43:05.668 -0500
+Washington,Thurston County,53067,2026-03-02 06:43:05.668 -0500
+Washington,Wahkiakum County,53069,2026-03-02 06:43:05.668 -0500
+Washington,Walla Walla County,53071,2026-03-02 06:43:05.668 -0500
+Washington,Whatcom County,53073,2026-03-02 06:43:05.668 -0500
+Washington,Whitman County,53075,2026-03-02 06:43:05.668 -0500
+Washington,Yakima County,53077,2026-03-02 06:43:05.668 -0500
+West Virginia,Barbour County,54001,2026-03-02 06:43:05.668 -0500
+West Virginia,Berkeley County,54003,2026-03-02 06:43:05.668 -0500
+West Virginia,Boone County,54005,2026-03-02 06:43:05.668 -0500
+West Virginia,Braxton County,54007,2026-03-02 06:43:05.668 -0500
+West Virginia,Brooke County,54009,2026-03-02 06:43:05.668 -0500
+West Virginia,Cabell County,54011,2026-03-02 06:43:05.668 -0500
+West Virginia,Calhoun County,54013,2026-03-02 06:43:05.668 -0500
+West Virginia,Clay County,54015,2026-03-02 06:43:05.668 -0500
+West Virginia,Doddridge County,54017,2026-03-02 06:43:05.668 -0500
+West Virginia,Fayette County,54019,2026-03-02 06:43:05.668 -0500
+West Virginia,Gilmer County,54021,2026-03-02 06:43:05.668 -0500
+West Virginia,Grant County,54023,2026-03-02 06:43:05.668 -0500
+West Virginia,Greenbrier County,54025,2026-03-02 06:43:05.668 -0500
+West Virginia,Hampshire County,54027,2026-03-02 06:43:05.668 -0500
+West Virginia,Hancock County,54029,2026-03-02 06:43:05.668 -0500
+West Virginia,Hardy County,54031,2026-03-02 06:43:05.668 -0500
+West Virginia,Harrison County,54033,2026-03-02 06:43:05.668 -0500
+West Virginia,Jackson County,54035,2026-03-02 06:43:05.668 -0500
+West Virginia,Jefferson County,54037,2026-03-02 06:43:05.668 -0500
+West Virginia,Kanawha County,54039,2026-03-02 06:43:05.668 -0500
+West Virginia,Lewis County,54041,2026-03-02 06:43:05.668 -0500
+West Virginia,Lincoln County,54043,2026-03-02 06:43:05.668 -0500
+West Virginia,Logan County,54045,2026-03-02 06:43:05.668 -0500
+West Virginia,Marion County,54049,2026-03-02 06:43:05.668 -0500
+West Virginia,Marshall County,54051,2026-03-02 06:43:05.668 -0500
+West Virginia,Mason County,54053,2026-03-02 06:43:05.668 -0500
+West Virginia,McDowell County,54047,2026-03-02 06:43:05.668 -0500
+West Virginia,Mercer County,54055,2026-03-02 06:43:05.668 -0500
+West Virginia,Mineral County,54057,2026-03-02 06:43:05.668 -0500
+West Virginia,Mingo County,54059,2026-03-02 06:43:05.668 -0500
+West Virginia,Monongalia County,54061,2026-03-02 06:43:05.668 -0500
+West Virginia,Monroe County,54063,2026-03-02 06:43:05.668 -0500
+West Virginia,Morgan County,54065,2026-03-02 06:43:05.668 -0500
+West Virginia,Nicholas County,54067,2026-03-02 06:43:05.668 -0500
+West Virginia,Ohio County,54069,2026-03-02 06:43:05.668 -0500
+West Virginia,Other County,54000,2026-03-02 06:43:05.668 -0500
+West Virginia,Pendleton County,54071,2026-03-02 06:43:05.668 -0500
+West Virginia,Pleasants County,54073,2026-03-02 06:43:05.668 -0500
+West Virginia,Pocahontas County,54075,2026-03-02 06:43:05.668 -0500
+West Virginia,Preston County,54077,2026-03-02 06:43:05.668 -0500
+West Virginia,Putnam County,54079,2026-03-02 06:43:05.668 -0500
+West Virginia,Raleigh County,54081,2026-03-02 06:43:05.668 -0500
+West Virginia,Randolph County,54083,2026-03-02 06:43:05.668 -0500
+West Virginia,Ritchie County,54085,2026-03-02 06:43:05.668 -0500
+West Virginia,Roane County,54087,2026-03-02 06:43:05.668 -0500
+West Virginia,Summers County,54089,2026-03-02 06:43:05.668 -0500
+West Virginia,Taylor County,54091,2026-03-02 06:43:05.668 -0500
+West Virginia,Tucker County,54093,2026-03-02 06:43:05.668 -0500
+West Virginia,Tyler County,54095,2026-03-02 06:43:05.668 -0500
+West Virginia,Upshur County,54097,2026-03-02 06:43:05.668 -0500
+West Virginia,Wayne County,54099,2026-03-02 06:43:05.668 -0500
+West Virginia,Webster County,54101,2026-03-02 06:43:05.668 -0500
+West Virginia,Wetzel County,54103,2026-03-02 06:43:05.668 -0500
+West Virginia,Wirt County,54105,2026-03-02 06:43:05.668 -0500
+West Virginia,Wood County,54107,2026-03-02 06:43:05.668 -0500
+West Virginia,Wyoming County,54109,2026-03-02 06:43:05.668 -0500
+Wisconsin,Adams County,55001,2026-03-02 06:43:05.668 -0500
+Wisconsin,Ashland County,55003,2026-03-02 06:43:05.668 -0500
+Wisconsin,Barron County,55005,2026-03-02 06:43:05.668 -0500
+Wisconsin,Bayfield County,55007,2026-03-02 06:43:05.668 -0500
+Wisconsin,Brown County,55009,2026-03-02 06:43:05.668 -0500
+Wisconsin,Buffalo County,55011,2026-03-02 06:43:05.668 -0500
+Wisconsin,Burnett County,55013,2026-03-02 06:43:05.668 -0500
+Wisconsin,Calumet County,55015,2026-03-02 06:43:05.668 -0500
+Wisconsin,Chippewa County,55017,2026-03-02 06:43:05.668 -0500
+Wisconsin,Clark County,55019,2026-03-02 06:43:05.668 -0500
+Wisconsin,Columbia County,55021,2026-03-02 06:43:05.668 -0500
+Wisconsin,Crawford County,55023,2026-03-02 06:43:05.668 -0500
+Wisconsin,Dane County,55025,2026-03-02 06:43:05.668 -0500
+Wisconsin,Dodge County,55027,2026-03-02 06:43:05.668 -0500
+Wisconsin,Door County,55029,2026-03-02 06:43:05.668 -0500
+Wisconsin,Douglas County,55031,2026-03-02 06:43:05.668 -0500
+Wisconsin,Dunn County,55033,2026-03-02 06:43:05.668 -0500
+Wisconsin,Eau Claire County,55035,2026-03-02 06:43:05.668 -0500
+Wisconsin,Florence County,55037,2026-03-02 06:43:05.668 -0500
+Wisconsin,Fond du Lac County,55039,2026-03-02 06:43:05.668 -0500
+Wisconsin,Forest County,55041,2026-03-02 06:43:05.668 -0500
+Wisconsin,Grant County,55043,2026-03-02 06:43:05.668 -0500
+Wisconsin,Green County,55045,2026-03-02 06:43:05.668 -0500
+Wisconsin,Green Lake County,55047,2026-03-02 06:43:05.668 -0500
+Wisconsin,Iowa County,55049,2026-03-02 06:43:05.668 -0500
+Wisconsin,Iron County,55051,2026-03-02 06:43:05.668 -0500
+Wisconsin,Jackson County,55053,2026-03-02 06:43:05.668 -0500
+Wisconsin,Jefferson County,55055,2026-03-02 06:43:05.668 -0500
+Wisconsin,Juneau County,55057,2026-03-02 06:43:05.668 -0500
+Wisconsin,Kenosha County,55059,2026-03-02 06:43:05.668 -0500
+Wisconsin,Kewaunee County,55061,2026-03-02 06:43:05.668 -0500
+Wisconsin,La Crosse County,55063,2026-03-02 06:43:05.668 -0500
+Wisconsin,Lafayette County,55065,2026-03-02 06:43:05.668 -0500
+Wisconsin,Langlade County,55067,2026-03-02 06:43:05.668 -0500
+Wisconsin,Lincoln County,55069,2026-03-02 06:43:05.668 -0500
+Wisconsin,Manitowoc County,55071,2026-03-02 06:43:05.668 -0500
+Wisconsin,Marathon County,55073,2026-03-02 06:43:05.668 -0500
+Wisconsin,Marinette County,55075,2026-03-02 06:43:05.668 -0500
+Wisconsin,Marquette County,55077,2026-03-02 06:43:05.668 -0500
+Wisconsin,Menominee County,55078,2026-03-02 06:43:05.668 -0500
+Wisconsin,Milwaukee County,55079,2026-03-02 06:43:05.668 -0500
+Wisconsin,Monroe County,55081,2026-03-02 06:43:05.668 -0500
+Wisconsin,Oconto County,55083,2026-03-02 06:43:05.668 -0500
+Wisconsin,Oneida County,55085,2026-03-02 06:43:05.668 -0500
+Wisconsin,Other County,55000,2026-03-02 06:43:05.668 -0500
+Wisconsin,Outagamie County,55087,2026-03-02 06:43:05.668 -0500
+Wisconsin,Ozaukee County,55089,2026-03-02 06:43:05.668 -0500
+Wisconsin,Pepin County,55091,2026-03-02 06:43:05.668 -0500
+Wisconsin,Pierce County,55093,2026-03-02 06:43:05.668 -0500
+Wisconsin,Polk County,55095,2026-03-02 06:43:05.668 -0500
+Wisconsin,Portage County,55097,2026-03-02 06:43:05.668 -0500
+Wisconsin,Price County,55099,2026-03-02 06:43:05.668 -0500
+Wisconsin,Racine County,55101,2026-03-02 06:43:05.668 -0500
+Wisconsin,Richland County,55103,2026-03-02 06:43:05.668 -0500
+Wisconsin,Rock County,55105,2026-03-02 06:43:05.668 -0500
+Wisconsin,Rusk County,55107,2026-03-02 06:43:05.668 -0500
+Wisconsin,Sauk County,55111,2026-03-02 06:43:05.668 -0500
+Wisconsin,Sawyer County,55113,2026-03-02 06:43:05.668 -0500
+Wisconsin,Shawano County,55115,2026-03-02 06:43:05.668 -0500
+Wisconsin,Sheboygan County,55117,2026-03-02 06:43:05.668 -0500
+Wisconsin,St. Croix County,55109,2026-03-02 06:43:05.668 -0500
+Wisconsin,Taylor County,55119,2026-03-02 06:43:05.668 -0500
+Wisconsin,Trempealeau County,55121,2026-03-02 06:43:05.668 -0500
+Wisconsin,Vernon County,55123,2026-03-02 06:43:05.668 -0500
+Wisconsin,Vilas County,55125,2026-03-02 06:43:05.668 -0500
+Wisconsin,Walworth County,55127,2026-03-02 06:43:05.668 -0500
+Wisconsin,Washburn County,55129,2026-03-02 06:43:05.668 -0500
+Wisconsin,Washington County,55131,2026-03-02 06:43:05.668 -0500
+Wisconsin,Waukesha County,55133,2026-03-02 06:43:05.668 -0500
+Wisconsin,Waupaca County,55135,2026-03-02 06:43:05.668 -0500
+Wisconsin,Waushara County,55137,2026-03-02 06:43:05.668 -0500
+Wisconsin,Winnebago County,55139,2026-03-02 06:43:05.668 -0500
+Wisconsin,Wood County,55141,2026-03-02 06:43:05.668 -0500
+Wyoming,Albany County,56001,2026-03-02 06:43:05.668 -0500
+Wyoming,Big Horn County,56003,2026-03-02 06:43:05.668 -0500
+Wyoming,Campbell County,56005,2026-03-02 06:43:05.668 -0500
+Wyoming,Carbon County,56007,2026-03-02 06:43:05.668 -0500
+Wyoming,Converse County,56009,2026-03-02 06:43:05.668 -0500
+Wyoming,Crook County,56011,2026-03-02 06:43:05.668 -0500
+Wyoming,Fremont County,56013,2026-03-02 06:43:05.668 -0500
+Wyoming,Goshen County,56015,2026-03-02 06:43:05.668 -0500
+Wyoming,Hot Springs County,56017,2026-03-02 06:43:05.668 -0500
+Wyoming,Johnson County,56019,2026-03-02 06:43:05.668 -0500
+Wyoming,Laramie County,56021,2026-03-02 06:43:05.668 -0500
+Wyoming,Lincoln County,56023,2026-03-02 06:43:05.668 -0500
+Wyoming,Natrona County,56025,2026-03-02 06:43:05.668 -0500
+Wyoming,Niobrara County,56027,2026-03-02 06:43:05.668 -0500
+Wyoming,Other County,56000,2026-03-02 06:43:05.668 -0500
+Wyoming,Park County,56029,2026-03-02 06:43:05.668 -0500
+Wyoming,Platte County,56031,2026-03-02 06:43:05.668 -0500
+Wyoming,Sheridan County,56033,2026-03-02 06:43:05.668 -0500
+Wyoming,Sublette County,56035,2026-03-02 06:43:05.668 -0500
+Wyoming,Sweetwater County,56037,2026-03-02 06:43:05.668 -0500
+Wyoming,Teton County,56039,2026-03-02 06:43:05.668 -0500
+Wyoming,Uinta County,56041,2026-03-02 06:43:05.668 -0500
+Wyoming,Washakie County,56043,2026-03-02 06:43:05.668 -0500
+Wyoming,Weston County,56045,2026-03-02 06:43:05.668 -0500
